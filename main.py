@@ -162,7 +162,6 @@ if __name__ == "__main__":
         "https://t.me/s/v2rayngvpn",
         "https://t.me/s/God_CONFIG",
         "https://t.me/s/Configforvpn01",
-        "https://t.me/s/TVCminer"
     ]
 
     all_v2ray_configs = []
