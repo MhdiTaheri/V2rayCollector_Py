@@ -7,7 +7,7 @@ This Python script scrapes V2Ray configuration links from various Telegram chann
 <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![GPL-3.0 License](https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge)](./LICENSE)
-![GitHub issues](https://img.shields.io/github/issues/MhdiTaheri/V2rayCollector_Py?style=for-the-badge)
+[![GitHub issues](https://img.shields.io/github/issues/MhdiTaheri/V2rayCollector_Py?style=for-the-badge)](https://github.com/MhdiTaheri/V2rayCollector_Py/issues)
 [![GitHub stars](https://img.shields.io/github/stars/MhdiTaheri/V2rayCollector_Py?style=for-the-badge)](https://github.com/MhdiTaheri/V2rayCollector_Py/stargazers)
 ![GitHub forks](https://img.shields.io/github/forks/MhdiTaheri/V2rayCollector_py?style=for-the-badge)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/MhdiTaheri/V2rayCollector_py?style=for-the-badge)
