@@ -1,5 +1,5 @@
 <h3 align="center">
-    <samp>&gt; V2rayCollector-py</samp>
+    <samp>&gt; V2rayCollector_py</samp>
 </h3>
 
 This Python script scrapes V2Ray configuration links from various Telegram channels and saves them by region.
@@ -7,10 +7,10 @@ This Python script scrapes V2Ray configuration links from various Telegram chann
 <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![GPL-3.0 License](https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge)](./LICENSE)
-![GitHub issues](https://img.shields.io/github/issues/MhdiTaheri/V2rayCollector-py?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/MhdiTaheri/V2rayCollector-py?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/MhdiTaheri/V2rayCollector-py?style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/MhdiTaheri/V2rayCollector-py?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/MhdiTaheri/V2rayCollector_Py?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/MhdiTaheri/V2rayCollector_Py?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/MhdiTaheri/V2rayCollector_py?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/MhdiTaheri/V2rayCollector_py?style=for-the-badge)
 
 
 ## Overview
@@ -26,7 +26,7 @@ This script utilizes `requests` and `BeautifulSoup` to scrape V2Ray configuratio
 #### Running the Script
 
 ```bash
-python v2ray_scraper.py
+python main.py
 ```
 
 ## Nodes
