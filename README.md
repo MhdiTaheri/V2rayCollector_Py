@@ -3,9 +3,9 @@
 </h3>
 
 This Python script scrapes V2Ray configuration links from various Telegram channels and saves them by region.
-[![python V2rayCollector Script](https://github.com/MhdiTaheri/V2rayCollector-py/actions/workflows/update.yml/badge.svg)](https://github.com/MhdiTaheri/V2rayCollector-py/actions/workflows/update.yml)
-![GitHub last commit](https://img.shields.io/github/last-commit/MhdiTaheri/V2rayCollector-py)
-![GitHub issues](https://img.shields.io/github/issues/MhdiTaheri/V2rayCollector-py)
+<br>
+<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Overview
 
