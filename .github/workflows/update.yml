@@ -2,7 +2,7 @@ name: python V2rayCollector Script
 
 on:
   schedule:
-    - cron: '*/120 * * * *'  # Executes every hour at the start of the hour
+    - cron: '0 */2 * * *'  # Executes every hour at the start of the hour
   workflow_dispatch:  # Allows manual triggering via the Actions tab
 
 jobs:
