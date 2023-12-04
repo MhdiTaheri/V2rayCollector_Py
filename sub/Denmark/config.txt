@@ -1,0 +1,5 @@
+vless://f8499eab-c723-406d-9acf-25a01a32c4a6@v2line.telegram.channel.1376.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:80?encryption=none&security=none&sni=dk1.v2vless.xyz&type=ws&host=dk1.v2vless.xyz&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281376%29%20DK
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#170@ShadowsocksM
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#201@ShadowsocksM
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.116:989#211@ShadowsocksM
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.116:989#238@ShadowsocksM
