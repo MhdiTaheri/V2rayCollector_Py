@@ -48,7 +48,7 @@ def get_region_from_ip(ip):
     return None
 
 def save_configs_by_region(configs):
-    config_folder = "configs"
+    config_folder = "sub"
     if os.path.exists(config_folder):
         for folder in os.listdir(config_folder):
             folder_path = os.path.join(config_folder, folder)
