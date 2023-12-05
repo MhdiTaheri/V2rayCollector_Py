@@ -2,7 +2,7 @@ name: python V2rayCollector Script
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '*/60 * * * *'
   workflow_dispatch:
 
 jobs:
