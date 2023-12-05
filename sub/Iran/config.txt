@@ -1,4 +1,3 @@
-vless://932f7774-5983-4b97-a262-00a14d502869@free.networknim.site:8080?path=%2F&security=none&encryption=none&host=wolffour.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA+Germany-nim+%28canel%29
 vless://932f7774-5983-4b97-a262-00a14d502869@free.networknim.site:8080?path=%2F&security=none&encryption=none&host=freebom.cam&type=ws#%F0%9F%87%A9%F0%9F%87%AA+Germany-nim+%28canel%29
 vless://932f7774-5983-4b97-a262-00a14d502869@free.networknim.site:8080?path=%2F&security=none&encryption=none&host=freebom.cam&type=ws#%F0%9F%87%A9%F0%9F%87%AA+Germany-nim+%28canel%29
 vless://932f7774-5983-4b97-a262-00a14d502869@free.networknim.site:8080?path=%2F&security=none&encryption=none&host=freebom.cam&type=ws#%F0%9F%87%A9%F0%9F%87%AA+Germany-nim+%28canel%29
