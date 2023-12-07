@@ -1,9 +1,7 @@
 ss://YWVzLTI1Ni1nY206MHVHMEZiR3BBVg==@www.outline.network.ak1990.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:2443#t.me%2FOutlineVpnOfficial%20%7C%20%281990%29%20TR
-vless://a6051151-0239-4d60-f60c-5b92fbc90f02@212.64.199.79:5559?mode=gun&security=reality&encryption=none&pbk=Kuutk9EU4Qr3gBDtTObT0tK1vrIP_98m6oYm0ZOzhGU&fp=firefox&type=grpc&serviceName=&sni=tuyacn.com&sid=5d08#%F0%9F%87%B9%F0%9F%87%B7++%40FreakConfig
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@45.89.52.66:9040#308@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#210@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@45.89.52.66:9041#249@ShadowsocksM
-vless://a6051151-0239-4d60-f60c-5b92fbc90f02@212.64.199.79:5559?mode=gun&security=reality&encryption=none&pbk=Kuutk9EU4Qr3gBDtTObT0tK1vrIP_98m6oYm0ZOzhGU&fp=firefox&type=grpc&serviceName=&sni=tuyacn.com&sid=5d08#%F0%9F%87%B9%F0%9F%87%B7++%40FreakConfig
 vless://55265e82-ca42-403d-9232-1d45bd2fe3b3@turkycf.configforvpn.fun:2053?mode=gun&security=reality&encryption=none&pbk=z1tAnqd5RA4I99LrK5FCJgjCd2qWJ2f1ID5xlNUD21M&fp=chrome&spx=%2F&type=grpc&serviceName=@configforVPN&sni=discordapp.com&sid=b1803d25#%40configforVPN
 vless://55265e82-ca42-403d-9232-1d45bd2fe3b3@turkycf.configforvpn.fun:2053?mode=gun&security=reality&encryption=none&pbk=z1tAnqd5RA4I99LrK5FCJgjCd2qWJ2f1ID5xlNUD21M&fp=chrome&spx=%2F&type=grpc&serviceName=@configforVPN&sni=discordapp.com&sid=b1803d25#%40configforVPN
 vless://55265e82-ca42-403d-9232-1d45bd2fe3b3@turkycf.configforvpn.fun:2053?mode=gun&security=reality&encryption=none&pbk=z1tAnqd5RA4I99LrK5FCJgjCd2qWJ2f1ID5xlNUD21M&fp=chrome&spx=%2F&type=grpc&serviceName=@configforVPN&sni=discordapp.com&sid=b1803d25#%40configforVPN
