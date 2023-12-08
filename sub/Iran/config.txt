@@ -9,4 +9,3 @@ vless://d4bd1237-afa2-43b1-8c9b-9ed2eb370b2f@appleplus.mashalla.monster:54906?pa
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
-vless://c4042cbc-e426-48a0-8f56-cc970c67e924@osn.dominogolden.eu.org:443?mode=gun&security=reality&encryption=none&pbk=2L9edPpuOTkHiylRzWLK8c_qZ2G9wpW24B8rwBXITGA&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=dash.cloudflare.com&sid=35677f9b#Austria.Mtn%F0%9F%87%A6%F0%9F%87%B9
