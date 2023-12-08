@@ -6,6 +6,7 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.195.96:110#233@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.202.186:443#241@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.195.96:443#307@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.200.95:443#309@ShadowsocksM
+trojan://sharecentre@sgp.sharecentre.xyz:443?security=tls&type=tcp#407@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.203.3:443#142@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.200.76:443#151@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.204.82:443#163@ShadowsocksM
@@ -40,3 +41,5 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.200.158:443#100@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.200.159:443#101@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.204.25:443#106@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.202.250:443#111@ShadowsocksM
+vless://5b2d7043-535c-4a69-afb4-4e55e1322149@79.137.194.189:57323?type=tcp&path=%2F&host=evernote.com&headerType=http&security=none#%D9%86%D8%AC%DB%8C%D8%A8%20%D8%AA%D8%B1%D8%A7%D8%B2%D8%A2%D9%86%20%D8%A8%D8%A7%D8%B4%20%DA%A9%D9%87.%D8%A8%D8%B1%D9%86%D8%AC%D8%A7%D9%86%DB%8C
+vless://5b2d7043-535c-4a69-afb4-4e55e1322149@79.137.194.189:57323?type=tcp&path=%2F&host=evernote.com&headerType=http&security=none#%D9%86%D8%AC%DB%8C%D8%A8%20%D8%AA%D8%B1%D8%A7%D8%B2%D8%A2%D9%86%20%D8%A8%D8%A7%D8%B4%20%DA%A9%D9%87.%D8%A8%D8%B1%D9%86%D8%AC%D8%A7%D9%86%DB%8C
