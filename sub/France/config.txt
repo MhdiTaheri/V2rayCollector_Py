@@ -1,12 +1,15 @@
 trojan://telegram-id-privatevpns@15.188.241.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.220.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.245.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S115)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.39.214.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S116)🇨🇵t.me/PrivateVPNs
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.96.145:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.227.126:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.196.55:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.43.114:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 trojan://telegram-id-privatevpns@15.188.241.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.220.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.245.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S115)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.39.214.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S116)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-directvpn@15.188.70.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@15.236.100.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@15.236.110.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
@@ -16,6 +19,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1F3TlRndw==@185.231.205.80:1443#%40dailyv2
 trojan://telegram-id-privatevpns@15.188.241.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.220.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.245.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S115)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.39.214.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S116)🇨🇵t.me/PrivateVPNs
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@62.210.88.169:443#227@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.61.155:443#229@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.159.111.208:989#232@ShadowsocksM
@@ -100,3 +104,4 @@ trojan://telegram-id-privatevpns@13.38.44.212:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.36.241.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S881)🇨🇵t.me/Vmess_iran
 vless://cb9b639d-041c-490a-b461-6e61806d65ac@join-bede.savagev2ray.site:2085?mode=gun&security=reality&encryption=none&pbk=zurb9wRD6bJlgQ7A7nTTX4DD1kWZux0PbR_Lc98j2kE&fp=chrome&spx=%2F&type=grpc&serviceName=@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi&sni=mihanyas.ir&sid=441ca4be#%40Vpnmasi-n5vucv5d
 vless://0d46e745-ad46-428a-ba01-de41ef6f27a2@join-bede.savagev2ray.site:2085?mode=gun&security=reality&encryption=none&pbk=zurb9wRD6bJlgQ7A7nTTX4DD1kWZux0PbR_Lc98j2kE&fp=chrome&spx=%2F&type=grpc&serviceName=@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi&sni=mihanyas.ir&sid=441ca4be#%40Vpnmasi-25waw2f0
+vless://d5dca49b-8a05-4c38-9e6f-bb8e35e550ed@join-bede.savagev2ray.site:2085?mode=gun&security=reality&encryption=none&pbk=zurb9wRD6bJlgQ7A7nTTX4DD1kWZux0PbR_Lc98j2kE&fp=chrome&spx=%2F&type=grpc&serviceName=@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi&sni=mihanyas.ir&sid=441ca4be#%40Vpnmasi-l278i1kz
