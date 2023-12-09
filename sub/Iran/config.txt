@@ -4,6 +4,7 @@ vless://4c5c877c-37cc-46b6-d6c7-2bfb5951c61c@185.78.20.20:57951?path=%2F&securit
 vless://4c5c877c-37cc-46b6-d6c7-2bfb5951c61c@185.78.20.20:57951?path=%2F&security=none&encryption=none&type=ws#Join+%40Vmessq+%7C+Sv+German+%F0%9F%87%A9%F0%9F%87%AA
 vless://4c5c877c-37cc-46b6-d6c7-2bfb5951c61c@185.78.20.20:57951?path=%2F&security=none&encryption=none&type=ws#Join+%40Vmessq+%7C+Sv+German+%F0%9F%87%A9%F0%9F%87%AAسرور المان 🇩🇪پینگ نایس 🧡لذت ببرید 👌🏻
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
+vless://ca95788b-5e8a-4df5-bd34-c6ca7ed8e9d1@185.18.212.124:8080?security=none&encryption=none&host=fast.speedgo.lol&headerType=http&type=tcp#%40V2RAY_VMESS_free
 vless://7c97f4b9-4e6f-4fa5-f163-b47fb78e2322@appleplus.chartacharta.monster:49589?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6kozca6p
 vless://d4bd1237-afa2-43b1-8c9b-9ed2eb370b2f@appleplus.mashalla.monster:54906?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6thc7mg2
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
