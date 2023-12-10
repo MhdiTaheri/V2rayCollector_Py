@@ -1,4 +1,0 @@
-vless://dd3b2971-2e5e-49c4-8de9-62aca12ff466@193.227.99.55:443?path=%2F2GbqHqibInjQYjx&security=tls&encryption=none&alpn=http/1.1&host=cdn.miladfaryad.cf&fp=chrome&type=ws&sni=cdn.miladfaryad.cf#proxystore11-all
-trojan://dd3b2971-2e5e-49c4-8de9-62aca12ff466@193.227.99.55:443?path=%2FRGikK8PMHRUZInjQYjx&security=tls&alpn=http/1.1&host=cdn.miladfaryad.cf&fp=chrome&type=ws&sni=cdn.miladfaryad.cf#proxystore11-all
-vless://dd3b2971-2e5e-49c4-8de9-62aca12ff466@193.227.99.55:443?path=%2F2GbqHqibInjQYjx&security=tls&encryption=none&alpn=http/1.1&host=cdn.miladfaryad.cf&fp=chrome&type=ws&sni=cdn.miladfaryad.cf#proxystore11-all
-trojan://dd3b2971-2e5e-49c4-8de9-62aca12ff466@193.227.99.55:443?path=%2FRGikK8PMHRUZInjQYjx&security=tls&alpn=http/1.1&host=cdn.miladfaryad.cf&fp=chrome&type=ws&sni=cdn.miladfaryad.cf#proxystore11-all
