@@ -34,5 +34,9 @@ vless://cc70446b-3b79-4bc0-89e1-28a4faeae843@all.vpncustomize.cam:2095?path=%2F%
 vless://cc70446b-3b79-4bc0-89e1-28a4faeae843@all.vpncustomize.cam:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=FreaV2rayng.VPNCUSTOMIZE.online&type=ws#ALL @VPNCUSTOMIZE
 vless://cc70446b-3b79-4bc0-89e1-28a4faeae843@all.vpncustomize.cam:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=KingSpeedV2rayng.VPNCUSTOMIZE.online&type=ws#ALL @VPNCUSTOMIZE
 vless://cc70446b-3b79-4bc0-89e1-28a4faeae843@all.vpncustomize.cam:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=High-speedV2ray.VPNCUSTOMIZE.online&type=ws#ALL NET @VPNCUSTOMIZE
+vless://c2ed2243-425a-49e6-94ba-b55d2280009e@all.vpncustomize.cam:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=FreeV2rayng.VPNCUSTOMIZE.onlIne&type=ws#ALL NET @VPNCUSTOMIZE
+vless://c2ed2243-425a-49e6-94ba-b55d2280009e@all.vpncustomize.cam:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=FreaV2rayng.VPNCUSTOMIZE.online&type=ws#ALL @VPNCUSTOMIZE
+vless://c2ed2243-425a-49e6-94ba-b55d2280009e@all.vpncustomize.cam:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=KingSpeedV2rayng.VPNCUSTOMIZE.online&type=ws#ALL @VPNCUSTOMIZE
+vless://c2ed2243-425a-49e6-94ba-b55d2280009e@all.vpncustomize.cam:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=High-speedV2ray.VPNCUSTOMIZE.online&type=ws#ALL NET @VPNCUSTOMIZE
 vless://4fd0c05c-3d20-4512-9628-0eeade38d4c4@all.vpncustomize.cam:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=CaNNectV2ray-OnlyIRAN-mCi-iraracnzsk-rgt-mkh.varzesh3-CDN.site
 vless://4fd0c05c-3d20-4512-9628-0eeade38d4c4@all.vpncustomize.cam:2096?mode=gun&security=tls&encryption=none&alpn=h2&type=grpc&serviceName=@VPNCUSTOMIZE&sni=QvssvpfpV2ray-Soyosha-IranCCrl-mcisk-mtn-mciaoaovpn.SNAPP.monster
