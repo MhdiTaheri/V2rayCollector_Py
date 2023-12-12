@@ -1,6 +1,5 @@
 vless://aedd4d0d-86ee-41e7-b39e-cdfcfeea2e1f@78.39.57.6:1677?mode=gun&security=reality&encryption=none&pbk=ciPKFr9TEbF41ECucqPFlAaHkG54CoZ0CFfHcX3i3iI&fp=chrome&spx=%2F@ELiV2ray-@ELiV2ray&type=grpc&serviceName=&sni=cloudupdateservice.com#@ELiV2ray
 vless://aedd4d0d-86ee-41e7-b39e-cdfcfeea2e1f@78.39.57.6:1677?mode=gun&security=reality&encryption=none&pbk=ciPKFr9TEbF41ECucqPFlAaHkG54CoZ0CFfHcX3i3iI&fp=chrome&spx=%2F@ELiV2ray-@ELiV2ray&type=grpc&serviceName=&sni=cloudupdateservice.com#@ELiV2ray
-vless://3fd458a6-9e0b-4ca4-8796-4cae11a538b1@snapp.ir:443?path=%2Faleph&security=tls&encryption=none&host=cdn971.myowncdn.live&type=ws&sni=snapp.ir#%40v2rayng_org
 vless://4c5c877c-37cc-46b6-d6c7-2bfb5951c61c@185.78.20.20:57951?path=%2F&security=none&encryption=none&type=ws#Join+%40Vmessq+%7C+Sv+German+%F0%9F%87%A9%F0%9F%87%AAسرور المان 🇩🇪پینگ نایس 🧡لذت ببرید 👌🏻
 vless://4c5c877c-37cc-46b6-d6c7-2bfb5951c61c@185.78.20.20:57951?path=%2F&security=none&encryption=none&type=ws#Join+%40Vmessq+%7C+Sv+German+%F0%9F%87%A9%F0%9F%87%AA
 vless://4c5c877c-37cc-46b6-d6c7-2bfb5951c61c@185.78.20.20:57951?path=%2F&security=none&encryption=none&type=ws#Join+%40Vmessq+%7C+Sv+German+%F0%9F%87%A9%F0%9F%87%AAسرور المان 🇩🇪پینگ نایس 🧡لذت ببرید 👌🏻
