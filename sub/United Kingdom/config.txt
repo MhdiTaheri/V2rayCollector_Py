@@ -13,7 +13,6 @@ trojan://telegram-id-privatevpns@18.171.118.182:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-directvpn@18.170.156.123:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.170.245.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@52.56.122.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
-vless://2ba60acf-3cd1-4f3d-e7f7-56dfa489dfa0@vip.turk.coffee:2087?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=snapp.ir&sni=direct-ns2.cl0udflar3.com#%E2%9C%8C%F0%9F%8F%BB%40Sobi_Vpn%E2%9C%8C%F0%9F%8F%BB  لینک دانلود اپلیکیشن های…
 trojan://telegram-id-privatevpns@18.171.64.144:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.171.79.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.42.117.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S117)🇬🇧t.me/PrivateVPNs
