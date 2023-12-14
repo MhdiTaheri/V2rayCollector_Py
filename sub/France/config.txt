@@ -10,10 +10,8 @@ trojan://telegram-id-privatevpns@13.39.15.143:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.39.179.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.236.245.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.180.223.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S116)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-directvpn@35.181.217.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.36.113.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@52.47.213.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
-vless://d39e7f86-4fa1-4f80-b9e1-0e7178d3ae4c@185.231.205.43:443?security=reality&encryption=none&pbk=bipoTqiHv7UfPnGOItOQ5_fyEQk4-asjTDvImoDUpRk&headerType=none&fp=ios&spx=%2Ffoxrayiran&type=tcp&flow=xtls-rprx-vision&sni=foxrayiranchannel.com&sid=95d2#join+channel+%40foxrayiran+%28reality%29
 trojan://telegram-id-privatevpns@13.39.15.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.179.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.236.245.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S115)🇨🇵t.me/PrivateVPNs
