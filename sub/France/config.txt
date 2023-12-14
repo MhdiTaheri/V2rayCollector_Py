@@ -79,13 +79,11 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.19.210:443#65@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.59.21.131:443#69@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.37.62:443#70@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.37.251:443#73@ShadowsocksM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMXdCZ0NJVjMyOXF0NzdJRnZERUdF@beeconf.xyz:8080#75@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.159.222.39:443#86@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@62.210.88.155:443#88@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@62.210.88.157:443#89@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.59.21.131:443#91@ShadowsocksM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVjV2NEdqTWRLc050OGowYmZUVzZ5@51.159.106.157:6917#93@ShadowsocksM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplemVzQlhlc2YzUktCQ3AxdnFLdUl4@beeconf.xyz:8080#108@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.159.14.40:443#110@ShadowsocksM
 trojan://telegram-id-privatevpns@13.38.44.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S882)🇨🇵t.me/Vmess_iran
 trojan://telegram-id-privatevpns@13.36.241.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S881)🇨🇵t.me/Vmess_iran
