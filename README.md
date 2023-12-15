@@ -51,6 +51,7 @@ python main.py
 | [VorTexIRN](https://t.me/s/VorTexIRN) | [YtTe3la](https://t.me/s/YtTe3la) | [V2RayOxygen](https://t.me/s/V2RayOxygen) | [Network_442](https://t.me/s/Network_442) | [VPN_443](https://t.me/s/VPN_443) |
 | [v2rayng_v](https://t.me/s/v2rayng_v) | [ultrasurf_12](https://t.me/s/ultrasurf_12) | [iSeqaro](https://t.me/s/iSeqaro) | [frev2rayng](https://t.me/s/frev2rayng) | [frev2ray](https://t.me/s/frev2ray) |
 | [FreakConfig](https://t.me/s/FreakConfig) | [Awlix_ir](https://t.me/s/Awlix_ir) | [v2rayngvpn](https://t.me/s/v2rayngvpn) | [God_CONFIG](https://t.me/s/God_CONFIG) | [Configforvpn01](https://t.me/s/Configforvpn01) |
+| [inikotesla](https://t.me/s/inikotesla) | [forwardv2ray](https://t.me/s/forwardv2ray) |  |  |  |
 
 ## License
 
