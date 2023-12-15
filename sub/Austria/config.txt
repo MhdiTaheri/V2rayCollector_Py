@@ -1,3 +1,0 @@
-vless://65d13da0-7119-40d4-9a7b-db320c97c333@tel.metaanet.monster:52083?type=tcp&path=%2F&host=Fast.com&headerType=http&security=none#%40MetaaNet%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85`
-vless://65d13da0-7119-40d4-9a7b-db320c97c333@tel.metaanet.monster:52083?type=tcp&path=%2F&host=Fast.com&headerType=http&security=none#%40MetaaNet%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-vless://65d13da0-7119-40d4-9a7b-db320c97c333@tel.metaanet.monster:52083?type=tcp&path=%2F&host=Fast.com&headerType=http&security=none#%40MetaaNet%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85`
