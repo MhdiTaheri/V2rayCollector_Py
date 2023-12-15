@@ -73,6 +73,8 @@ def save_configs_by_region(configs):
 if __name__ == "__main__":
     telegram_urls = [
         "https://t.me/s/v2line",
+        "https://t.me/s/forwardv2ray",
+        "https://t.me/s/inikotesla",
         "https://t.me/s/PrivateVPNs",
         "https://t.me/s/VlessConfig",
         "https://t.me/s/V2pedia",
