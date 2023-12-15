@@ -1,0 +1,2 @@
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46527?encryption=none&flow=&security=&sni=lovehjq.xyz&headerType=#%F0%9F%8C%BB%40DeamNet_%F0%9F%87%B0%F0%9F%87%B7South%20Korea
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@foreign01.lovehjq.xyz:46521?encryption=none&flow=&security=&sni=lovehjq.xyz&headerType=#%F0%9F%8C%BB%40DeamNet_%F0%9F%87%B0%F0%9F%87%B7South%20Korea
