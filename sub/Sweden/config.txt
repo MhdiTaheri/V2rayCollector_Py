@@ -36,6 +36,7 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@195.181.166.170:443#109@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@195.181.166.174:443#115@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@195.181.166.176:443#120@ShadowsocksM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMXBiN1h4eHJvbHZQU2IwdTJ4U09B@beacomf.xyz:8080#%F0%9F%8C%BB%40DeamNet_%F0%9F%87%B8%F0%9F%87%AASweden
+vless://2fb17e69-5b6f-49d4-991f-8bf26c001eb3@5.42.72.194:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ftp.debian.org&fp=chrome&pbk=IOJu9lxe2-fXVJ9z0-v2_5puh1NFagIr_nFHsBQty0w&sid=e241272d&spx=&type=tcp&headerType=none#%F0%9F%8C%BB%40DeamNet_%F0%9F%87%B8%F0%9F%87%AASweden
 vless://a0ac6650-2c3e-48d4-d873-c1beaa12d4f4@172.232.128.41:33345?mode=gun&security=none&encryption=none&type=grpc&serviceName=#RTL-MTN+mci+%F0%9F%91%91+%40V2rayN_Free
 trojan://telegram-id-privatevpns@13.49.74.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S878)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S898)🇸🇪t.me/vmess_iran
