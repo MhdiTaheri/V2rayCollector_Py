@@ -1,1 +1,2 @@
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#103@ShadowsocksM
+vless://fce9e311-b8bd-4fa6-9fe5-f6f6e80b8efc@5.182.36.99:80?encryption=none&flow=&security=none&sni=&type=tcp&headerType=http#%F0%9F%8C%BB%40DeamNet_%F0%9F%87%A8%F0%9F%87%ADSwitzerland
