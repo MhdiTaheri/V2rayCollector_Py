@@ -38,7 +38,6 @@ vless://bd6fa3a5-68a0-49f4-9f7f-78e38612245f@168.119.177.49:2087?mode=gun&securi
 vless://bd6fa3a5-68a0-49f4-9f7f-78e38612245f@168.119.177.49:2087?mode=gun&security=reality&encryption=none&pbk=iWgxGQVQZUfOCw4EqmHQToaQPqYt0V5hAfnDo6p-Izg&fp=firefox&type=grpc&serviceName=TelegramID:@iranbaxvpn&sni=iranserver.com&sid=33fb#iOS..V2box
 vless://fcaf5da5-ff63-4493-8ec1-90c46b26022d@81.28.6.228:25010?security=none&encryption=none&host=ghbi.ir&headerType=http&type=tcp#%40V2ray_NG..IRANCELL
 vless://mahsa-azadi-az-inja-migzare@mahsang-1.dgi000.store:20179?mode=gun&security=reality&encryption=none&pbk=NiLbMrihxRX8EiSRutSOFRkkR6eOa6P_fxNiSIiMMCE&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=www.ghbi.ir&sid=31c991f8#iOS..V2box
-vless://3a8d7ccf-ce7a-43b7-8cee-706fc23d3e1e@maskunlimit2.api-tel.online:41349?security=reality&encryption=none&pbk=taZdWrlBaFPYVjbpcWvlP5pxfHbBB-D4icaVgRPqzkg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zula.ir&sid=879f144fcb#Irancell
 ss://YWVzLTI1Ni1nY206NTJxVjhETFBWQg==@5.252.25.138:13916#204@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@57.129.1.22:443#225@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.139.36:443#234@ShadowsocksM
