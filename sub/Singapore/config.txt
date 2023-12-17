@@ -1,1 +1,13 @@
+trojan://d07a02a06191c99f@185.230.245.213:3306?path=%2Fgateway%2Fconnect&security=tls&type=ws&sni=n2.gladns.com#%F0%9F%87%B8%F0%9F%87%ACSG_+
+trojan://d07a02a06191c99f@185.230.245.210:3306?path=%2Fgateway%2Fconnect&security=tls&type=ws&sni=n2.gladns.com#%F0%9F%87%B8%F0%9F%87%ACSG_+
+trojan://d07a02a06191c99f@185.230.245.212:3306?path=%2Fgateway%2Fconnect&security=tls&type=ws&sni=n2.gladns.com#%F0%9F%87%B8%F0%9F%87%ACSG_+
+trojan://d07a02a06191c99f@185.230.245.211:3306?path=%2Fgateway%2Fconnect&security=tls&type=ws&sni=n2.gladns.com#%F0%9F%87%B8%F0%9F%87%ACSG_+
+trojan://d07a02a06191c99f@185.230.245.213:3306?path=%2Fgateway%2Fconnect&security=tls&type=ws&sni=n2.gladns.com#%F0%9F%87%B8%F0%9F%87%ACSG_+
+trojan://d07a02a06191c99f@185.230.245.210:3306?path=%2Fgateway%2Fconnect&security=tls&type=ws&sni=n2.gladns.com#%F0%9F%87%B8%F0%9F%87%ACSG_+
+trojan://d07a02a06191c99f@185.230.245.212:3306?path=%2Fgateway%2Fconnect&security=tls&type=ws&sni=n2.gladns.com#%F0%9F%87%B8%F0%9F%87%ACSG_+
+trojan://d07a02a06191c99f@185.230.245.211:3306?path=%2Fgateway%2Fconnect&security=tls&type=ws&sni=n2.gladns.com#%F0%9F%87%B8%F0%9F%87%ACSG_+
+trojan://d07a02a06191c99f@185.230.245.213:3306?path=%2Fgateway%2Fconnect&security=tls&type=ws&sni=n2.gladns.com#%F0%9F%87%B8%F0%9F%87%ACSG_+
+trojan://d07a02a06191c99f@185.230.245.210:3306?path=%2Fgateway%2Fconnect&security=tls&type=ws&sni=n2.gladns.com#%F0%9F%87%B8%F0%9F%87%ACSG_+
+trojan://d07a02a06191c99f@185.230.245.212:3306?path=%2Fgateway%2Fconnect&security=tls&type=ws&sni=n2.gladns.com#%F0%9F%87%B8%F0%9F%87%ACSG_+
+trojan://d07a02a06191c99f@185.230.245.211:3306?path=%2Fgateway%2Fconnect&security=tls&type=ws&sni=n2.gladns.com#%F0%9F%87%B8%F0%9F%87%ACSG_+
 trojan://144f85e9-8fa7-4128-b8b1-59b18ba317cc@sgt3.sshocean.net:443?sni=www.microsoft.com#t.me%2Fkutoproxy%F0%9F%87%B8%F0%9F%87%ACtrojan://144f85e9-8fa7-4128-b8b1-59b18ba317cc@sgt3.sshocean.net:443?sni=www.microsoft.com#t.me%2Fkutoproxy%F0%9F%87%B8%F0%9F%87%AC
