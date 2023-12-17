@@ -1,3 +1,6 @@
+vless://46de7bf1-dc89-4e47-d6d3-31b031b56ed6@152.228.154.22:47918?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#https://t.me/msv2raynp
+vless://46de7bf1-dc89-4e47-d6d3-31b031b56ed6@152.228.154.22:47918?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#https://t.me/msv2raynp
+vless://46de7bf1-dc89-4e47-d6d3-31b031b56ed6@152.228.154.22:47918?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#https://t.me/msv2raynp
 trojan://telegram-id-privatevpns@52.47.159.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.236.3.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.206.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S115)🇨🇵t.me/PrivateVPNs
@@ -10,7 +13,6 @@ trojan://telegram-id-privatevpns@52.47.159.247:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@15.236.3.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.206.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.250.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S116)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-directvpn@15.236.235.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@35.181.221.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@15.237.97.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-privatevpns@52.47.159.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S105)🇨🇵t.me/PrivateVPNs
