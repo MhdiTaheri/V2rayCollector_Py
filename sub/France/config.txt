@@ -1,9 +1,3 @@
-vless://3ac0b16c-642f-44b4-83ce-3d8e965a3d1f@teel.feerxshop5.shop:11286?security=none&encryption=none&headerType=http&type=tcp#%40Hafnetwork+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C`
-vless://3ac0b16c-642f-44b4-83ce-3d8e965a3d1f@teel.feerxshop5.shop:11286?security=none&encryption=none&headerType=http&type=tcp#t.me/ConfigsHub`
-vless://3ac0b16c-642f-44b4-83ce-3d8e965a3d1f@teel.feerxshop5.shop:11286?security=none&encryption=none&headerType=http&type=tcp#%40Hafnetwork+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
-vless://3ac0b16c-642f-44b4-83ce-3d8e965a3d1f@teel.feerxshop5.shop:11286?security=none&encryption=none&headerType=http&type=tcp#t.me/ConfigsHub
-vless://3ac0b16c-642f-44b4-83ce-3d8e965a3d1f@teel.feerxshop5.shop:11286?security=none&encryption=none&headerType=http&type=tcp#%40Hafnetwork+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C`
-vless://3ac0b16c-642f-44b4-83ce-3d8e965a3d1f@teel.feerxshop5.shop:11286?security=none&encryption=none&headerType=http&type=tcp#t.me/ConfigsHub`
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.18.105:443#SS
 trojan://telegram-id-privatevpns@15.188.37.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.196.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S115)🇨🇵t.me/PrivateVPNs
