@@ -1,6 +1,9 @@
-vless://46de7bf1-dc89-4e47-d6d3-31b031b56ed6@152.228.154.22:47918?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#https://t.me/msv2raynp
-vless://46de7bf1-dc89-4e47-d6d3-31b031b56ed6@152.228.154.22:47918?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#https://t.me/msv2raynp
-vless://46de7bf1-dc89-4e47-d6d3-31b031b56ed6@152.228.154.22:47918?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#https://t.me/msv2raynp
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@149.202.82.172:5500#Join%20Telegram%20%3A%20ID%20%40IP_CF%20%7C
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@149.202.82.172:5500#Join%20Telegram%20%3A%20ID%20%40IP_CF%20%7C
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@149.202.82.172:5500#Join%20Telegram%20%3A%20ID%20%40IP_CF%20%7C
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@149.202.82.172:5500#Join%20Telegram%20%3A%20ID%20%40IP_CF%20%7C
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@149.202.82.172:5500#Join%20Telegram%20%3A%20ID%20%40IP_CF%20%7C
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@149.202.82.172:5500#Join%20Telegram%20%3A%20ID%20%40IP_CF%20%7C
 trojan://telegram-id-privatevpns@52.47.159.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.236.3.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.206.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S115)🇨🇵t.me/PrivateVPNs
