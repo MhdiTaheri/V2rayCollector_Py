@@ -73,32 +73,6 @@ def save_configs_by_region(configs):
                 file.write(config + '\n')
 
 
-
-def update_readme():
-    readme_path = "README.md"
-    timestamp = f"{datetime.now().strftime('%a-%d-%b-%Y %H:%M')}"
-
-    with open(readme_path, 'r', encoding='utf-8') as readme_file:
-        content = readme_file.read()
-
-    emoji_position = content.find('📅')
-
-    if emoji_position != -1:
-        timestamp_start = emoji_position + len('📅')
-        timestamp_end = content.find('\n', timestamp_start)
-
-        if timestamp_start != -1 and timestamp_end != -1:
-            existing_timestamp = content[timestamp_start:timestamp_end]
-            updated_content = content.replace(f"{existing_timestamp}", f":`{timestamp}`")
-        else:
-            updated_content = content[:emoji_position + len('📅')] + f" `{timestamp}`" + content[emoji_position + len('📅'):]
-    else:
-        updated_content = content + f"\n\n📅 {timestamp}\n"
-
-    with open(readme_path, 'w', encoding='utf-8') as readme_file:
-        readme_file.write(updated_content)
-
-
 def create_sub_section():
     readme_path = "README.md"
     sub_folder = "sub"
@@ -233,7 +207,6 @@ if __name__ == "__main__":
 
     if all_v2ray_configs:
         save_configs_by_region(all_v2ray_configs)
-        update_readme()
         create_sub_section()
         print("Configs saved successfully.")
     else:
