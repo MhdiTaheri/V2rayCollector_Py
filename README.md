@@ -14,7 +14,8 @@ This Python script scrapes V2Ray configuration links from various Telegram chann
 
 
 ## Overview
-
+**last update**📅
+<br>
 This script utilizes `requests` and `BeautifulSoup` to scrape V2Ray configuration links from specified Telegram channels. It then categorizes these configurations based on IP region and saves them into respective folders.
 
 ### Usage
