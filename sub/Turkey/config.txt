@@ -1,6 +1,5 @@
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#210@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@45.89.52.66:9041#249@ShadowsocksM
-vless://c3024a15-0cd5-461a-d99c-14c64efea3f8@216.9.227.236:8443?encryption=none&flow=&security=reality&sni=greenpepper.ir&fp=chrome&pbk=d_PryPoPxwX_0FUh7Eulm7Fzf73MeoTHRHvxK-pWaBI&sid=9825&spx=&type=grpc&serviceName=TelegramID%3A%40iranbaxvpn&headerType=#%F0%9F%8C%BB%40DeamNet_%F0%9F%87%B9%F0%9F%87%B7Turkey
 vless://52d0efb6-2e9f-451e-b600-56649889747c@turkycf.configforvpn.fun:2053?mode=gun&security=reality&encryption=none&pbk=z1tAnqd5RA4I99LrK5FCJgjCd2qWJ2f1ID5xlNUD21M&fp=chrome&spx=%2F&type=grpc&serviceName=@configforVPN&sni=discordapp.com&sid=b1803d25#%40ConfigforVPN
 vless://85933f5f-5b27-4c3c-8375-1399ba44bbb7@turkycf.configforvpn.fun:2053?mode=gun&security=reality&encryption=none&pbk=z1tAnqd5RA4I99LrK5FCJgjCd2qWJ2f1ID5xlNUD21M&fp=chrome&spx=%2F&type=grpc&serviceName=@configforVPN&sni=discordapp.com&sid=b1803d25#%40ConfigforVPN
 vless://85933f5f-5b27-4c3c-8375-1399ba44bbb7@turkycf.configforvpn.fun:2053?mode=gun&security=reality&encryption=none&pbk=z1tAnqd5RA4I99LrK5FCJgjCd2qWJ2f1ID5xlNUD21M&fp=chrome&spx=%2F&type=grpc&serviceName=@configforVPN&sni=discordapp.com&sid=b1803d25#%40ConfigforVPN
