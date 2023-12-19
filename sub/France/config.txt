@@ -87,7 +87,6 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@62.210.88.157:443#89@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.59.21.131:443#91@ShadowsocksM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVjV2NEdqTWRLc050OGowYmZUVzZ5@51.159.106.157:6917#93@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.159.14.40:443#110@ShadowsocksM
-vless://d7520de7-699d-47e3-a6af-9ddb1075ff61@aparat.com.amico1.dynu.com:8088?encryption=none&flow=&security=tls&sni=aparat.com.amico1.dynu.com&type=tcp&headerType=none#%F0%9F%8C%BB%40DeamNet_%F0%9F%87%AB%F0%9F%87%B7France
 trojan://telegram-id-privatevpns@13.38.44.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S882)🇨🇵t.me/Vmess_iran
 trojan://telegram-id-privatevpns@13.36.241.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S881)🇨🇵t.me/Vmess_iran
 trojan://telegram-id-privatevpns@13.38.44.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S882)
