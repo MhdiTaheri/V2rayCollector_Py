@@ -16,15 +16,6 @@ trojan://telegram-id-privatevpns@15.236.101.98:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.36.121.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.151.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.47.209.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S116)🇨🇵t.me/PrivateVPNs
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.59.162:443#194@ShadowsocksM
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.37.62:443#195@ShadowsocksM
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.54.241:443#205@ShadowsocksM
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.54.230:443#208@ShadowsocksM
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.54.240:443#219@ShadowsocksM
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@62.210.88.148:443#221@ShadowsocksM
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.159.222.39:443#222@ShadowsocksM
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.83.9:443#223@ShadowsocksM
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.159.222.32:443#224@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@57.128.32.84:443#212@ShadowsocksM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVjV2NEdqTWRLc050OGowYmZUVzZ5@51.159.106.157:6917#214@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.54.234:443#228@ShadowsocksM
