@@ -1,4 +1,2 @@
-vless://38510b91-2fba-4b4a-b12f-05ab84efa7ea@23.227.38.135:80?host=bia-to-channel4.unlimiteddev.shop&security=none&type=ws&path=%2F&encryption=none#%40V2RAYVlP-link3++%F0%9F%87%AB%F0%9F%87%AE
-vless://38510b91-2fba-4b4a-b12f-05ab84efa7ea@23.227.38.135:80?host=bia-to-channel4.unlimiteddev.shop&security=none&type=ws&path=%2F&encryption=none#%40V2RAYVlP-link3++%F0%9F%87%AB%F0%9F%87%AE
-vless://38510b91-2fba-4b4a-b12f-05ab84efa7ea@23.227.38.135:80?host=bia-to-channel4.unlimiteddev.shop&security=none&type=ws&path=%2F&encryption=none#%40V2RAYVlP-link3++%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJbEN6WVhaMUtrREM5MGJyYlV0b1J6@ca.yangon.club:443#Canada+eSecureData
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqYlBCa0VSQUVObDRvYTR5UFFnbGFm@twlatx.dnset.com:8443#Canada+Telus
