@@ -1,3 +1,9 @@
+vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.170.7.60:8443?security=reality&encryption=none&pbk=9r0TbxLpL45d0SLhl3qUrwj0FpDAi6kK29fvLdv2K3g&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.mozorg.moz.works&sid=3c#t.me/ConfigsHub`
+vless://f553d0ca-701d-4f95-90e9-2851d055291e@13.50.231.82:8443?security=reality&encryption=none&pbk=tRlCUrTR31xfJalLVDnRzGwnF8JnSN4rC9P1NJAIixY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.mozorg.moz.works&sid=3c#t.me/ConfigsHub`
+vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.170.7.60:8443?security=reality&encryption=none&pbk=9r0TbxLpL45d0SLhl3qUrwj0FpDAi6kK29fvLdv2K3g&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.mozorg.moz.works&sid=3c#t.me/ConfigsHub
+vless://f553d0ca-701d-4f95-90e9-2851d055291e@13.50.231.82:8443?security=reality&encryption=none&pbk=tRlCUrTR31xfJalLVDnRzGwnF8JnSN4rC9P1NJAIixY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.mozorg.moz.works&sid=3c#t.me/ConfigsHub
+vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.170.7.60:8443?security=reality&encryption=none&pbk=9r0TbxLpL45d0SLhl3qUrwj0FpDAi6kK29fvLdv2K3g&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.mozorg.moz.works&sid=3c#t.me/ConfigsHub`
+vless://f553d0ca-701d-4f95-90e9-2851d055291e@13.50.231.82:8443?security=reality&encryption=none&pbk=tRlCUrTR31xfJalLVDnRzGwnF8JnSN4rC9P1NJAIixY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.mozorg.moz.works&sid=3c#t.me/ConfigsHub`
 trojan://telegram-id-privatevpns@51.21.120.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.30.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.26.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S111)🇸🇪t.me/PrivateVPNs
@@ -13,7 +19,6 @@ trojan://telegram-id-privatevpns@51.21.120.247:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@51.21.30.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.26.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.170.14.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S112)🇸🇪t.me/PrivateVPNs
-trojan://telegram-id-directvpn@51.20.11.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.20.197.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.20.11.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.53.252.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
