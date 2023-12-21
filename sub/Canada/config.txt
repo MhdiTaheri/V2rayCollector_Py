@@ -2,3 +2,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJbEN6WVhaMUtrREM5MGJyYlV0b1J6@ca.yangon.club
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqYlBCa0VSQUVObDRvYTR5UFFnbGFm@twlatx.dnset.com:8443#Canada+Telus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0QmlWVmh4WEIwWHlCRXZiVU9nd2pt@twlatx.dnset.com:8443#Canada+Telus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3WFNGbWdDdXdhVEVIUklRTUNmQlZO@twlatx.dnset.com:8443#Canada+Telus
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpITmtra2N4UmdDa1BEUTBaMGxuN3d4@ca.yangon.club:443#Canada+eSecureData
