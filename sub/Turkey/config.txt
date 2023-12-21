@@ -1,3 +1,6 @@
+vless://57185d94-c287-4763-b787-3ba6a00642f8@trs.v2shield.cloud:51183?type=grpc&serviceName=%2Fkinsta_service&security=reality&fp=chrome&pbk=e_lo4HeL-LU6RbRbl3kb3wZF2U_xnZWHfoXjeDH-R34&sni=www.speedtest.net&sid=cbc3c06a&spx=%2F#t.me/ConfigsHub`
+vless://57185d94-c287-4763-b787-3ba6a00642f8@trs.v2shield.cloud:51183?type=grpc&serviceName=%2Fkinsta_service&security=reality&fp=chrome&pbk=e_lo4HeL-LU6RbRbl3kb3wZF2U_xnZWHfoXjeDH-R34&sni=www.speedtest.net&sid=cbc3c06a&spx=%2F#t.me/ConfigsHub
+vless://57185d94-c287-4763-b787-3ba6a00642f8@trs.v2shield.cloud:51183?type=grpc&serviceName=%2Fkinsta_service&security=reality&fp=chrome&pbk=e_lo4HeL-LU6RbRbl3kb3wZF2U_xnZWHfoXjeDH-R34&sni=www.speedtest.net&sid=cbc3c06a&spx=%2F#t.me/ConfigsHub`
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@45.89.52.66:9041#249@ShadowsocksM
 vless://fac084f8-33a2-4e47-902c-9d1c1526094b@turkycf.configforvpn.fun:2053?mode=gun&security=reality&encryption=none&pbk=z1tAnqd5RA4I99LrK5FCJgjCd2qWJ2f1ID5xlNUD21M&fp=chrome&spx=%2F&type=grpc&serviceName=@configforVPN&sni=discordapp.com&sid=b1803d25#%40ConfigforVPN
 vless://30fd8f8c-a6dc-4797-8dba-0ecd796e1db0@turkycf.configforvpn.fun:2053?mode=gun&security=reality&encryption=none&pbk=z1tAnqd5RA4I99LrK5FCJgjCd2qWJ2f1ID5xlNUD21M&fp=chrome&spx=%2F&type=grpc&serviceName=@configforVPN&sni=discordapp.com&sid=b1803d25#%40ConfigforVPN

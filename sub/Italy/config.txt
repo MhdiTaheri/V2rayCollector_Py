@@ -1,3 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMXdCZ0NJVjMyOXF0NzdJRnZERUdF@beeconf.xyz:8080#75@ShadowsocksM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplemVzQlhlc2YzUktCQ3AxdnFLdUl4@beeconf.xyz:8080#108@ShadowsocksM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QkczZ0czbGZwbDExTkU0eWZzSUN4@passconf.xyz:8080#103@ShadowsocksM
 vless://476032d6-628d-49ad-886d-4a5c42cca7ae@194.165.59.26:80?security=&type=tcp&encryption=none#112@ShadowsocksM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@passconf.xyz:8080#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84napsternetv_config%40%E2%9C%85
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QkczZ0czbGZwbDExTkU0eWZzSUN4@passconf.xyz:8080#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84napsternetv_config%40%E2%9C%85
