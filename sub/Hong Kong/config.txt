@@ -1,2 +1,0 @@
-trojan://26173d53-6557-492e-bf03-5fd5d034b5cf@jp.mjt000.com:443?sni=jp.mjt000.com&allowInsecure=0&type=tcp&path=&host=jp.mjt000.com#t.me/ConfigsHub
-trojan://26173d53-6557-492e-bf03-5fd5d034b5cf@jp.mjt000.com:443?sni=jp.mjt000.com&allowInsecure=0&type=tcp&path=&host=jp.mjt000.com#t.me/ConfigsHub`
