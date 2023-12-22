@@ -1,3 +1,6 @@
+vless://78ca5c81-14a5-42c2-b493-ec0492cc9470@38.180.62.155:20897?security=reality&encryption=none&pbk=9DGqS0efv68Cfqcx07ENNfTn7dhXzEZPv8hTJuuoLRY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.speedtest.net&sid=fc142b02#%40telmavpn`
+vless://78ca5c81-14a5-42c2-b493-ec0492cc9470@38.180.62.155:20897?security=reality&encryption=none&pbk=9DGqS0efv68Cfqcx07ENNfTn7dhXzEZPv8hTJuuoLRY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.speedtest.net&sid=fc142b02#%40telmavpn
+vless://78ca5c81-14a5-42c2-b493-ec0492cc9470@38.180.62.155:20897?security=reality&encryption=none&pbk=9DGqS0efv68Cfqcx07ENNfTn7dhXzEZPv8hTJuuoLRY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.speedtest.net&sid=fc142b02#%40telmavpn`
 trojan://telegram-id-privatevpns@13.39.176.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.235.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.36.117.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S115)🇨🇵t.me/PrivateVPNs
