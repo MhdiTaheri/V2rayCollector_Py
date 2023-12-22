@@ -1,3 +1,0 @@
-trojan://e0ca72b2-eb7c-4498-b05e-28a3681bacbf@download1tw.windowsupdatea.com:443/?type=tcp&security=tls&sni=glc-tw1.windowsupdatea.com#%F0%9F%9B%8317%40oneclickvpnkeys
-trojan://e0ca72b2-eb7c-4498-b05e-28a3681bacbf@download1tw.windowsupdatea.com:443/?type=tcp&security=tls&sni=glc-tw1.windowsupdatea.com#%F0%9F%9B%8317%40oneclickvpnkeys
-trojan://e0ca72b2-eb7c-4498-b05e-28a3681bacbf@download1tw.windowsupdatea.com:443/?type=tcp&security=tls&sni=glc-tw1.windowsupdatea.com#%F0%9F%9B%8317%40oneclickvpnkeys
