@@ -1,3 +1,0 @@
-vless://140b7f1c-eec0-4fc0-b237-47f262ddfa5b@hk2-vless.sshmax.xyz:443?path=%2Fvless&security=tls&encryption=none&type=ws&sni=hk2-vless.sshmax.xyz#t.me/ConfigsHub`
-vless://140b7f1c-eec0-4fc0-b237-47f262ddfa5b@hk2-vless.sshmax.xyz:443?path=%2Fvless&security=tls&encryption=none&type=ws&sni=hk2-vless.sshmax.xyz#t.me/ConfigsHub
-vless://140b7f1c-eec0-4fc0-b237-47f262ddfa5b@hk2-vless.sshmax.xyz:443?path=%2Fvless&security=tls&encryption=none&type=ws&sni=hk2-vless.sshmax.xyz#t.me/ConfigsHub`
