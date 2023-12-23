@@ -1,6 +1,0 @@
-vless://59697529-4e4b-4188-a93e-6de61a4c6761@45.131.4.10:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=@Alfred_Config&sni=Alfred.zmV2ray.site#%40@V2rayi_net
-vless://59697529-4e4b-4188-a93e-6de61a4c6761@45.131.4.10:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=@Alfred_Config&sni=Alfred.zmV2ray.site#t.me/ConfigsHub`
-vless://59697529-4e4b-4188-a93e-6de61a4c6761@45.131.4.10:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=@Alfred_Config&sni=Alfred.zmV2ray.site#%40@V2rayi_net
-vless://59697529-4e4b-4188-a93e-6de61a4c6761@45.131.4.10:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=@Alfred_Config&sni=Alfred.zmV2ray.site#t.me/ConfigsHub
-vless://59697529-4e4b-4188-a93e-6de61a4c6761@45.131.4.10:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=@Alfred_Config&sni=Alfred.zmV2ray.site#%40@V2rayi_net
-vless://59697529-4e4b-4188-a93e-6de61a4c6761@45.131.4.10:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=@Alfred_Config&sni=Alfred.zmV2ray.site#t.me/ConfigsHub`
