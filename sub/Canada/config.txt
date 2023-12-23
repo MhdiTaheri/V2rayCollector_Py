@@ -1,4 +1,5 @@
 vless://d8951faf-6862-482c-9de5-a92d5b0f723b@167.99.191.16:40774/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=zula.ir&fp=chrome&security=reality&pbk=ImBov_B6bBPNOBOUFm85D0LaDeKFhWkI5R3ZB3U4byc&sid=6ce336a383#ELiV2RAY
+vless://d8951faf-6862-482c-9de5-a92d5b0f723b@167.99.191.16:40774?security=reality&encryption=none&pbk=ImBov_B6bBPNOBOUFm85D0LaDeKFhWkI5R3ZB3U4byc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zula.ir&sid=6ce336a383#%40V2RAY_VMESS_free
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJbEN6WVhaMUtrREM5MGJyYlV0b1J6@ca.yangon.club:443#Canada+eSecureData
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqYlBCa0VSQUVObDRvYTR5UFFnbGFm@twlatx.dnset.com:8443#Canada+Telus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0QmlWVmh4WEIwWHlCRXZiVU9nd2pt@twlatx.dnset.com:8443#Canada+Telus
