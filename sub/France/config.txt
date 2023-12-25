@@ -1,6 +1,9 @@
-trojan://telegram-id-privatevpns@52.47.212.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#t.me/ConfigsHub`
-trojan://telegram-id-privatevpns@52.47.212.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#t.me/ConfigsHub
-trojan://telegram-id-privatevpns@52.47.212.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#t.me/ConfigsHub`
+vless://64d65380-8097-46cb-82ff-4e48e7660e3a@152.228.206.115:49478?type=ws&path=%2F&security=none#Avo_Net-npjx49rj`
+vless://64d65380-8097-46cb-82ff-4e48e7660e3a@152.228.206.115:49478?type=ws&path=%2F&security=none#t.me/ConfigsHub`
+vless://64d65380-8097-46cb-82ff-4e48e7660e3a@152.228.206.115:49478?type=ws&path=%2F&security=none#Avo_Net-npjx49rj
+vless://64d65380-8097-46cb-82ff-4e48e7660e3a@152.228.206.115:49478?type=ws&path=%2F&security=none#t.me/ConfigsHub
+vless://64d65380-8097-46cb-82ff-4e48e7660e3a@152.228.206.115:49478?type=ws&path=%2F&security=none#Avo_Net-npjx49rj`
+vless://64d65380-8097-46cb-82ff-4e48e7660e3a@152.228.206.115:49478?type=ws&path=%2F&security=none#t.me/ConfigsHub`
 trojan://telegram-id-privatevpns@15.237.88.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.120.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S116)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.110.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S105)🇨🇵t.me/PrivateVPNs
