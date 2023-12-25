@@ -1,9 +1,6 @@
-vless://c084e53f-c642-4339-b163-0f972a2893b7@23.88.116.162:443?mode=gun&security=reality&encryption=none&pbk=_IvMhkNpZ8Y58pMlkI0WdDymFJFpSuWGguAh3Z9gkh8&fp=firefox&spx=%2F&type=grpc&serviceName=%40ipV2Ray&sni=greenpepper.ir&sid=b1f54cff#t.me/ConfigsHub`
-vless://c084e53f-c642-4339-b163-0f972a2893b7@23.88.116.162:443?mode=gun&security=reality&encryption=none&pbk=_IvMhkNpZ8Y58pMlkI0WdDymFJFpSuWGguAh3Z9gkh8&fp=firefox&spx=%2F&type=grpc&serviceName=%40ipV2Ray&sni=greenpepper.ir&sid=b1f54cff#t.me/ConfigsHub`
-vless://c084e53f-c642-4339-b163-0f972a2893b7@23.88.116.162:443?mode=gun&security=reality&encryption=none&pbk=_IvMhkNpZ8Y58pMlkI0WdDymFJFpSuWGguAh3Z9gkh8&fp=firefox&spx=%2F&type=grpc&serviceName=%40ipV2Ray&sni=greenpepper.ir&sid=b1f54cff#t.me/ConfigsHub
-vless://c084e53f-c642-4339-b163-0f972a2893b7@23.88.116.162:443?mode=gun&security=reality&encryption=none&pbk=_IvMhkNpZ8Y58pMlkI0WdDymFJFpSuWGguAh3Z9gkh8&fp=firefox&spx=%2F&type=grpc&serviceName=%40ipV2Ray&sni=greenpepper.ir&sid=b1f54cff#t.me/ConfigsHub
-vless://c084e53f-c642-4339-b163-0f972a2893b7@23.88.116.162:443?mode=gun&security=reality&encryption=none&pbk=_IvMhkNpZ8Y58pMlkI0WdDymFJFpSuWGguAh3Z9gkh8&fp=firefox&spx=%2F&type=grpc&serviceName=%40ipV2Ray&sni=greenpepper.ir&sid=b1f54cff#t.me/ConfigsHub`
-vless://c084e53f-c642-4339-b163-0f972a2893b7@23.88.116.162:443?mode=gun&security=reality&encryption=none&pbk=_IvMhkNpZ8Y58pMlkI0WdDymFJFpSuWGguAh3Z9gkh8&fp=firefox&spx=%2F&type=grpc&serviceName=%40ipV2Ray&sni=greenpepper.ir&sid=b1f54cff#t.me/ConfigsHub`
+trojan://telegram-id-privatevpns@3.79.158.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#t.me/ConfigsHub`
+trojan://telegram-id-privatevpns@3.79.158.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.79.158.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#t.me/ConfigsHub`
 trojan://telegram-id-privatevpns@18.153.149.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.158.240.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.79.158.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S103)🇩🇪t.me/PrivateVPNs
