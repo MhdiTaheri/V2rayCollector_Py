@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QkczZ0czbGZwbDExTkU0eWZzSUN4@passconf.xyz:8080#103@ShadowsocksM
 vless://476032d6-628d-49ad-886d-4a5c42cca7ae@194.165.59.26:80?security=&type=tcp&encryption=none#112@ShadowsocksM
