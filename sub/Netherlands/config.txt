@@ -1,15 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MVBnZHBHT19mVFRVQ2xlNjhkaGJ3@46.151.29.2:1165#%40AstroVPN_official+%F0%9F%87%B3%F0%9F%87%B1`
-vless://d48e8f9f-25ff-4795-acb7-b01c0a96297a@193.203.51.15:443/?type=http&encryption=none&flow=&host=play.parsgamesonline.tech&path=%2F&sni=discordapp.com&fp=ios&security=reality&pbk=wbgbRBXas-xHjm59gSQ39-NU3uHM9tmkg7ipS93Y1nU&sid=178a8544#https://t.me/msv2raynp
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MVBnZHBHT19mVFRVQ2xlNjhkaGJ3@46.151.29.2:1165#t.me/ConfigsHub`
-vless://d48e8f9f-25ff-4795-acb7-b01c0a96297a@193.203.51.15:443/?type=http&encryption=none&flow=&host=play.parsgamesonline.tech&path=%2F&sni=discordapp.com&fp=ios&security=reality&pbk=wbgbRBXas-xHjm59gSQ39-NU3uHM9tmkg7ipS93Y1nU&sid=178a8544#t.me/ConfigsHub`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MVBnZHBHT19mVFRVQ2xlNjhkaGJ3@46.151.29.2:1165#%40AstroVPN_official+%F0%9F%87%B3%F0%9F%87%B1
-vless://d48e8f9f-25ff-4795-acb7-b01c0a96297a@193.203.51.15:443/?type=http&encryption=none&flow=&host=play.parsgamesonline.tech&path=%2F&sni=discordapp.com&fp=ios&security=reality&pbk=wbgbRBXas-xHjm59gSQ39-NU3uHM9tmkg7ipS93Y1nU&sid=178a8544#https://t.me/msv2raynp
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MVBnZHBHT19mVFRVQ2xlNjhkaGJ3@46.151.29.2:1165#t.me/ConfigsHub
-vless://d48e8f9f-25ff-4795-acb7-b01c0a96297a@193.203.51.15:443/?type=http&encryption=none&flow=&host=play.parsgamesonline.tech&path=%2F&sni=discordapp.com&fp=ios&security=reality&pbk=wbgbRBXas-xHjm59gSQ39-NU3uHM9tmkg7ipS93Y1nU&sid=178a8544#t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MVBnZHBHT19mVFRVQ2xlNjhkaGJ3@46.151.29.2:1165#%40AstroVPN_official+%F0%9F%87%B3%F0%9F%87%B1`
-vless://d48e8f9f-25ff-4795-acb7-b01c0a96297a@193.203.51.15:443/?type=http&encryption=none&flow=&host=play.parsgamesonline.tech&path=%2F&sni=discordapp.com&fp=ios&security=reality&pbk=wbgbRBXas-xHjm59gSQ39-NU3uHM9tmkg7ipS93Y1nU&sid=178a8544#https://t.me/msv2raynp
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MVBnZHBHT19mVFRVQ2xlNjhkaGJ3@46.151.29.2:1165#t.me/ConfigsHub`
-vless://d48e8f9f-25ff-4795-acb7-b01c0a96297a@193.203.51.15:443/?type=http&encryption=none&flow=&host=play.parsgamesonline.tech&path=%2F&sni=discordapp.com&fp=ios&security=reality&pbk=wbgbRBXas-xHjm59gSQ39-NU3uHM9tmkg7ipS93Y1nU&sid=178a8544#t.me/ConfigsHub`
 vless://80e63c5f-e243-46f3-b099-4dd32174b597@eapanel.proxystore11.site:2083?type=grpc&serviceName=%40proxystore11-+%40proxystoremt11+%40proxystore11-+%40proxystoremt11+%40proxystore11-+%40proxystoremt11&mode=multi&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=proxystore11.ddns.net#proxystore11%3Aproxystore11-11
 vless://80e63c5f-e243-46f3-b099-4dd32174b597@eapanel.proxystore11.site:2083?type=grpc&serviceName=%40proxystore11-+%40proxystoremt11+%40proxystore11-+%40proxystoremt11+%40proxystore11-+%40proxystoremt11&mode=multi&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=proxystore11.ddns.net#proxystore11%3Aproxystore11-11
 vless://47cb67c7-00ec-49b5-cd2b-a3edbcfcae2c@172.233.57.233:54538?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
