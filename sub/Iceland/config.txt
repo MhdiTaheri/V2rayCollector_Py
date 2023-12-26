@@ -1,1 +1,4 @@
+trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80/?type=tcp&security=tls&sni=is2-t.sshmax.xyz&allowInsecure=1#t.me/ConfigsHub`
+trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80/?type=tcp&security=tls&sni=is2-t.sshmax.xyz&allowInsecure=1#t.me/ConfigsHub
+trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80/?type=tcp&security=tls&sni=is2-t.sshmax.xyz&allowInsecure=1#t.me/ConfigsHub`
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.152:989#213@ShadowsocksM
