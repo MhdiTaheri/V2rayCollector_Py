@@ -1,11 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#t.me/ConfigsHub`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#t.me/ConfigsHub`
 trojan://telegram-id-privatevpns@3.11.59.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.41.144.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.135.133.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.41.95.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S118)🇬🇧t.me/PrivateVPNs
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.9.8.75:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.56.194.147:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.249.255:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.152.216:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
@@ -15,7 +11,6 @@ trojan://telegram-id-privatevpns@3.11.59.36:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-privatevpns@13.41.144.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.135.133.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.41.95.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S118)🇬🇧t.me/PrivateVPNs
-trojan://telegram-id-directvpn@3.9.3.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@35.179.25.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 vless://join-channel-foxrayiran@45.67.85.111:443?security=reality&encryption=none&pbk=oSBCQtFYo78mD4BFlVVx6J6ykyXUQRoiOtfLdDnkGzI&headerType=none&fp=ios&spx=%2Ffoxrayiran&type=tcp&flow=xtls-rprx-vision&sni=ftp.debian.org&sid=289ce33d#join+channel+%40foxrayiran
 vless://join-channel-foxrayiran@45.67.85.111:443?security=reality&encryption=none&pbk=oSBCQtFYo78mD4BFlVVx6J6ykyXUQRoiOtfLdDnkGzI&headerType=none&fp=ios&spx=%2Ffoxrayiran&type=tcp&flow=xtls-rprx-vision&sni=ftp.debian.org&sid=289ce33d#join+channel+%40foxrayiran
