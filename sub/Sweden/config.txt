@@ -1,6 +1,3 @@
-vless://2fb17e69-5b6f-49d4-991f-8bf26c001eb3@5.42.72.194:443?security=reality&encryption=none&pbk=IOJu9lxe2-fXVJ9z0-v2_5puh1NFagIr_nFHsBQty0w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ftp.debian.org&sid=e241272d#t.me/ConfigsHub`
-vless://2fb17e69-5b6f-49d4-991f-8bf26c001eb3@5.42.72.194:443?security=reality&encryption=none&pbk=IOJu9lxe2-fXVJ9z0-v2_5puh1NFagIr_nFHsBQty0w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ftp.debian.org&sid=e241272d#t.me/ConfigsHub
-vless://2fb17e69-5b6f-49d4-991f-8bf26c001eb3@5.42.72.194:443?security=reality&encryption=none&pbk=IOJu9lxe2-fXVJ9z0-v2_5puh1NFagIr_nFHsBQty0w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ftp.debian.org&sid=e241272d#t.me/ConfigsHub`
 trojan://telegram-id-privatevpns@16.170.104.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.50.203.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.170.12.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S101)🇸🇪t.me/PrivateVPNs
