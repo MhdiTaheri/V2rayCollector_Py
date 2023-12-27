@@ -1,5 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOamsyTnpjeQ@5.181.21.19:8388#t.me/ConfigsHub`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOamsyTnpjeQ@5.181.21.19:8388#t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOamsyTnpjeQ@5.181.21.19:8388#t.me/ConfigsHub`
 vless://6caa9143-3268-44e3-9a67-e906939ddf2e@212.113.119.169:80?path=%2Fproxystore11&security=none&encryption=none&host=km.proxystore11.site&type=ws#proxystore11-http%3AProxystore11-1
 vless://6caa9143-3268-44e3-9a67-e906939ddf2e@212.113.119.169:80?path=%2Fproxystore11&security=none&encryption=none&host=km.proxystore11.site&type=ws#proxystore11-http%3AProxystore11-1
