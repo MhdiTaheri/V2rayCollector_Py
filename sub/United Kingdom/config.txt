@@ -69,6 +69,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@195.181.165.151:443#105@ShadowsocksM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRbWNES1AxRHlZOGJjQVp0@13.43.33.37:443#%40V2RAY_VMESS_free
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOTnRrSmlOeGRkT09EMmRN@series-a2-mec.samanehha.co:443#%40V2RAY_VMESS_freess://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphbHBMemE0RXpBck1DeDNL@series-a2.samanehha.co:443#%40V2RAY_VMESS_free
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToycGNDUzhGWXA2V3VYRDVJ@18.132.224.181:443#%F0%9F%87%AC%F0%9F%87%A7%40VPN_OCEAN
 trojan://telegram-id-privatevpns@35.178.213.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S913)🇬🇧t.me/vmess_iran
 trojan://telegram-id-privatevpns@35.178.213.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S913)🇬🇧t.me/vmess_iran
 trojan://telegram-id-privatevpns@35.178.213.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S913)🇬🇧t.me/vmess_iran
