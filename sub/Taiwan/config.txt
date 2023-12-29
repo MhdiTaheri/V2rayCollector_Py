@@ -1,0 +1,3 @@
+trojan://e8d23f6d-b1b3-3bec-a67a-b8b3df55aa95@tj-tw02.yiyo2way.xyz:9980?security=tls&headerType=none&type=tcp&sni=tj-tw02.yiyo2way.xyz#ConfigV2RayNG
+trojan://e8d23f6d-b1b3-3bec-a67a-b8b3df55aa95@tj-tw02.yiyo2way.xyz:9980?security=tls&headerType=none&type=tcp&sni=tj-tw02.yiyo2way.xyz#ConfigV2RayNG
+trojan://e8d23f6d-b1b3-3bec-a67a-b8b3df55aa95@tj-tw02.yiyo2way.xyz:9980?security=tls&headerType=none&type=tcp&sni=tj-tw02.yiyo2way.xyz#ConfigV2RayNG
