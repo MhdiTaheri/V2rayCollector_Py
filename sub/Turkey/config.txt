@@ -1,12 +1,3 @@
-vless://b93cddba-1e99-4d2d-dcbe-eca7f57dbbec@estar.cafeplus.site:50102?security=tls&sni=www.telewebion.com&allowInsecure=1&fp=chrome&type=grpc&serviceName=@antimeli&encryption=none#@antimeli-All
-vless://b93cddba-1e99-4d2d-dcbe-eca7f57dbbec@estar.cafeplus.site:50102?security=tls&sni=www.telewebion.com&allowInsecure=1&fp=chrome&type=grpc&serviceName=@antimeli&encryption=none#t.me/ConfigsHub`
-vless://b93cddba-1e99-4d2d-dcbe-eca7f57dbbec@estar.cafeplus.site:50102?security=tls&sni=www.telewebion.com&allowInsecure=1&fp=chrome&type=grpc&serviceName=@antimeli&encryption=none#t.me/ConfigsHub`
-vless://b93cddba-1e99-4d2d-dcbe-eca7f57dbbec@estar.cafeplus.site:50102?security=tls&sni=www.telewebion.com&allowInsecure=1&fp=chrome&type=grpc&serviceName=@antimeli&encryption=none#@antimeli-All
-vless://b93cddba-1e99-4d2d-dcbe-eca7f57dbbec@estar.cafeplus.site:50102?security=tls&sni=www.telewebion.com&allowInsecure=1&fp=chrome&type=grpc&serviceName=@antimeli&encryption=none#t.me/ConfigsHub
-vless://b93cddba-1e99-4d2d-dcbe-eca7f57dbbec@estar.cafeplus.site:50102?security=tls&sni=www.telewebion.com&allowInsecure=1&fp=chrome&type=grpc&serviceName=@antimeli&encryption=none#t.me/ConfigsHub
-vless://b93cddba-1e99-4d2d-dcbe-eca7f57dbbec@estar.cafeplus.site:50102?security=tls&sni=www.telewebion.com&allowInsecure=1&fp=chrome&type=grpc&serviceName=@antimeli&encryption=none#@antimeli-All
-vless://b93cddba-1e99-4d2d-dcbe-eca7f57dbbec@estar.cafeplus.site:50102?security=tls&sni=www.telewebion.com&allowInsecure=1&fp=chrome&type=grpc&serviceName=@antimeli&encryption=none#t.me/ConfigsHub`
-vless://b93cddba-1e99-4d2d-dcbe-eca7f57dbbec@estar.cafeplus.site:50102?security=tls&sni=www.telewebion.com&allowInsecure=1&fp=chrome&type=grpc&serviceName=@antimeli&encryption=none#t.me/ConfigsHub`
 vless://ff20725a-e351-42e5-9bc4-838b10cc2531@84.32.230.81:443?mode=gun&security=reality&encryption=none&pbk=eSq2viks3QTjVd77cFKfenQfxAL2JBxoJX9xxblcsno&fp=chrome&type=grpc&serviceName=Dr.Phone&sni=sourceforge.net&sid=7b6e4dd3#%40dailyv2ry%E2%9B%88
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@45.89.52.66:9041#249@ShadowsocksM
 vless://30fd8f8c-a6dc-4797-8dba-0ecd796e1db0@turkycf.configforvpn.fun:2053?mode=gun&security=reality&encryption=none&pbk=z1tAnqd5RA4I99LrK5FCJgjCd2qWJ2f1ID5xlNUD21M&fp=chrome&spx=%2F&type=grpc&serviceName=@configforVPN&sni=discordapp.com&sid=b1803d25#%40ConfigforVPN

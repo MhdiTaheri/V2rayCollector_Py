@@ -1,3 +1,0 @@
-trojan://mainssh-Ccgftff@192.65.217.129:443?security=tls&sni=idtws.mainssh.xyz&type=ws&host=idtws.mainssh.xyz&path=%2Ftrojan#t.me/ConfigsHub`
-trojan://mainssh-Ccgftff@192.65.217.129:443?security=tls&sni=idtws.mainssh.xyz&type=ws&host=idtws.mainssh.xyz&path=%2Ftrojan#t.me/ConfigsHub
-trojan://mainssh-Ccgftff@192.65.217.129:443?security=tls&sni=idtws.mainssh.xyz&type=ws&host=idtws.mainssh.xyz&path=%2Ftrojan#t.me/ConfigsHub`

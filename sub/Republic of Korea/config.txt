@@ -1,3 +1,1 @@
-vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@jp.jianxian.love:443?encryption=none&security=tls&sni=3k.dabee.top&type=ws&host=3k.dabee.top&path=telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai_8%20%2F%3Fed%3D2048#t.me/ConfigsHub
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@jp.jianxian.love:443?encryption=none&security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai_8%20%2F%3Fed%3D2048#t.me/ConfigsHub
 trojan://f3801cdd-2473-472a-8da4-77b1a17661c0@131.186.25.198:20802?security=tls&headerType=none&type=tcp&sni=206.237.5.220#%F0%9F%87%B0%F0%9F%87%B7%40VPN_OCEAN
