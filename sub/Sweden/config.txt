@@ -1,9 +1,3 @@
-vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.16.220.210:3074?security=reality&encryption=none&pbk=yUroPWIXzHA8vQg4cC7kEZqwA-JOW3uA0Xlhi0uRmTQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=fe#t.me/ConfigsHub`
-vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.16.220.210:3074?security=reality&encryption=none&pbk=yUroPWIXzHA8vQg4cC7kEZqwA-JOW3uA0Xlhi0uRmTQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=fe#%F0%9F%94%92+VL-TCP-RLT+%F0%9F%87%B8%F0%9F%87%AA+SE-16.16.220.210%3A3074+%F0%9F%93%A1+PING-110.05-MS
-vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.16.220.210:3074?security=reality&encryption=none&pbk=yUroPWIXzHA8vQg4cC7kEZqwA-JOW3uA0Xlhi0uRmTQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=fe#t.me/ConfigsHub
-vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.16.220.210:3074?security=reality&encryption=none&pbk=yUroPWIXzHA8vQg4cC7kEZqwA-JOW3uA0Xlhi0uRmTQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=fe#%F0%9F%94%92+VL-TCP-RLT+%F0%9F%87%B8%F0%9F%87%AA+SE-16.16.220.210%3A3074+%F0%9F%93%A1+PING-110.05-MS
-vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.16.220.210:3074?security=reality&encryption=none&pbk=yUroPWIXzHA8vQg4cC7kEZqwA-JOW3uA0Xlhi0uRmTQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=fe#t.me/ConfigsHub`
-vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.16.220.210:3074?security=reality&encryption=none&pbk=yUroPWIXzHA8vQg4cC7kEZqwA-JOW3uA0Xlhi0uRmTQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=fe#%F0%9F%94%92+VL-TCP-RLT+%F0%9F%87%B8%F0%9F%87%AA+SE-16.16.220.210%3A3074+%F0%9F%93%A1+PING-110.05-MS
 trojan://telegram-id-privatevpns@13.60.0.210:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.43.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.50.66.97:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S111)🇸🇪t.me/PrivateVPNs
@@ -21,7 +15,6 @@ trojan://telegram-id-privatevpns@13.60.0.210:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@51.21.43.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.50.66.97:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.16.223.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S112)🇸🇪t.me/PrivateVPNs
-trojan://telegram-id-directvpn@51.21.70.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.21.119.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.50.90.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.50.2.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
