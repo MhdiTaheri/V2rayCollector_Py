@@ -1,2 +1,0 @@
-vless://3724eddf-f260-4103-930a-6bfa308f45a6@45.131.208.94:80/?type=ws&encryption=none&flow=&host=fin-node.s-xui.com&path=%2F#%40Network_442_%F0%9F%87%B3%F0%9F%87%B1.%20irancell%F0%9F%93%A1%20
-vless://3724eddf-f260-4103-930a-6bfa308f45a6@45.131.208.94:80/?type=ws&encryption=none&flow=&host=fin-node.s-xui.com&path=%2F#%40Network_442_%F0%9F%87%B3%F0%9F%87%B1.%20irancell%F0%9F%93%A1%20
