@@ -1,3 +1,12 @@
+trojan://telegram-id-privatevpns@54.74.54.96:22222?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1#t.me/ConfigsHub`
+trojan://telegram-id-privatevpns@54.74.54.96:22222?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1#t.me/ConfigsHub`
+trojan://telegram-id-privatevpns@54.74.54.96:22222?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1#t.me/ConfigsHub`
+trojan://telegram-id-privatevpns@54.74.54.96:22222?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1#t.me/ConfigsHub
+trojan://telegram-id-privatevpns@54.74.54.96:22222?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1#t.me/ConfigsHub
+trojan://telegram-id-privatevpns@54.74.54.96:22222?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1#t.me/ConfigsHub
+trojan://telegram-id-privatevpns@54.74.54.96:22222?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1#t.me/ConfigsHub`
+trojan://telegram-id-privatevpns@54.74.54.96:22222?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1#t.me/ConfigsHub`
+trojan://telegram-id-privatevpns@54.74.54.96:22222?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1#t.me/ConfigsHub`
 trojan://telegram-id-privatevpns@54.74.54.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S109)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@54.216.84.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S110)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.19.143.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S119)🇨🇮t.me/PrivateVPNs
