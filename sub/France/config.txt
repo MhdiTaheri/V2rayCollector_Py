@@ -5,6 +5,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.123.167:22222?path=/telegram
 trojan://telegram-id-privatevpns@13.37.174.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.214.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S116)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-directvpn@35.181.193.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@15.188.175.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 vless://f89dfd86-7994-46ed-8846-6ea38f76a4dd@98.66.160.227:29494/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=grpc&encryption=none&serviceName=%40enani5&sni=dnschecker.org&fp=firefox&security=reality&pbk=NSzxLt7w8kfyxl7C4kjH3Mg7mxW1UZKiTNI_3SsddBU&sid=86ee9777#Reality-@ELiV2ray
 trojan://telegram-id-privatevpns@13.37.174.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.214.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S116)🇨🇵t.me/PrivateVPNs
