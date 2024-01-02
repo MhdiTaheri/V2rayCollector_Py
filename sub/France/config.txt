@@ -1,3 +1,6 @@
+trojan://VZlHU01v6p@152.228.242.128:37024?security=tls&headerType=none&type=tcp&sni=box.mtpmio.sbs#%F0%9F%91%BE+WebRovers
+trojan://VZlHU01v6p@152.228.242.128:37024?security=tls&headerType=none&type=tcp&sni=box.mtpmio.sbs#%F0%9F%91%BE+WebRovers
+trojan://VZlHU01v6p@152.228.242.128:37024?security=tls&headerType=none&type=tcp&sni=box.mtpmio.sbs#%F0%9F%91%BE+WebRovers
 trojan://telegram-id-privatevpns@13.37.174.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.214.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S116)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.38.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S105)🇨🇵t.me/PrivateVPNs
