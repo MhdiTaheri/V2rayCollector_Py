@@ -1,0 +1,3 @@
+vless://e522a248-a7d4-48ad-aa0f-c8a434aae684@boost.daryadel.tech:35378?type=grpc&serviceName=boost.daryadel.tech&mode=multi&security=reality&pbk=5LUSifsAGFLhvkBoksI1KEp6m7mxT_g7x7oiwcZ7wWw&fp=firefox&sni=yahoo.com&sid=96e7921d&spx=%2F#ConfogBooster-3750
+vless://e522a248-a7d4-48ad-aa0f-c8a434aae684@boost.daryadel.tech:35378?type=grpc&serviceName=boost.daryadel.tech&mode=multi&security=reality&pbk=5LUSifsAGFLhvkBoksI1KEp6m7mxT_g7x7oiwcZ7wWw&fp=firefox&sni=yahoo.com&sid=96e7921d&spx=%2F#ConfogBooster-3750
+vless://e522a248-a7d4-48ad-aa0f-c8a434aae684@boost.daryadel.tech:35378?type=grpc&serviceName=boost.daryadel.tech&mode=multi&security=reality&pbk=5LUSifsAGFLhvkBoksI1KEp6m7mxT_g7x7oiwcZ7wWw&fp=firefox&sni=yahoo.com&sid=96e7921d&spx=%2F#ConfogBooster-3750
