@@ -1,5 +1,4 @@
 vless://37b5d06f-3c77-4d8d-b7c8-abda517cd43a@snapp.ir:80?path=%2F&security=none&encryption=none&host=steroids.nanosync.ir&type=ws#%40v2rayng_org
-vless://37b5d06f-3c77-4d8d-b7c8-abda517cd43a@snapp.ir:80?path=%2F&security=none&encryption=none&host=steroids.nanosync.ir&type=ws#%40v2rayng_org
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
 vless://7c97f4b9-4e6f-4fa5-f163-b47fb78e2322@appleplus.chartacharta.monster:49589?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6kozca6p
 vless://d4bd1237-afa2-43b1-8c9b-9ed2eb370b2f@appleplus.mashalla.monster:54906?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6thc7mg2
