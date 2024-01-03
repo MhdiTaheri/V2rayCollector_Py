@@ -1,1 +1,0 @@
-vless://6f549c04-8fc3-4885-8cdf-c2492c0bf257@206.238.236.11:8443/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=grpc&encryption=none&serviceName=freevpn&security=tls&sni=yalda20232912.freedns.site&fp=chrome#ALL+@ΞLiV2RAY
