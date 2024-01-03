@@ -1,3 +1,9 @@
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@195.154.169.198:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.169.198-1035
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.159.111.208:989#%F0%9F%9A%BB3%40oneclickvpnkeys
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@195.154.169.198:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.169.198-1035
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.159.111.208:989#%F0%9F%9A%BB3%40oneclickvpnkeys
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@195.154.169.198:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.169.198-1035
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.159.111.208:989#%F0%9F%9A%BB3%40oneclickvpnkeys
 trojan://telegram-id-privatevpns@13.38.139.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.3.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.183.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S115)🇨🇵t.me/PrivateVPNs
