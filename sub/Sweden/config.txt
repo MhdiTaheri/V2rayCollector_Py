@@ -1,3 +1,6 @@
+vless://2c59ff33-916d-459b-a4c0-8b7432c4c3bb@16.16.160.109:443?security=reality&encryption=none&pbk=dukFLeTqOoiFe4NTKH7oYIsTNcPStlbgkFoIhcaIQEU&headerType=none&fp=chrome&spx=%2Fheadlines%2Fnews%2F&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=1db3#%40V2ray1_Ng+ALL
+vless://2c59ff33-916d-459b-a4c0-8b7432c4c3bb@16.16.160.109:443?security=reality&encryption=none&pbk=dukFLeTqOoiFe4NTKH7oYIsTNcPStlbgkFoIhcaIQEU&headerType=none&fp=chrome&spx=%2Fheadlines%2Fnews%2F&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=1db3#%40V2ray1_Ng+ALL
+vless://2c59ff33-916d-459b-a4c0-8b7432c4c3bb@16.16.160.109:443?security=reality&encryption=none&pbk=dukFLeTqOoiFe4NTKH7oYIsTNcPStlbgkFoIhcaIQEU&headerType=none&fp=chrome&spx=%2Fheadlines%2Fnews%2F&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=1db3#%40V2ray1_Ng+ALL
 trojan://telegram-id-privatevpns@51.21.41.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.170.97.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.51.213.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S101)🇸🇪t.me/PrivateVPNs
