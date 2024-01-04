@@ -1,6 +1,3 @@
-vless://8d6d02e4-9aea-49db-bf55-8738e04e9c78@81.12.27.2:8443?path=%2F&security=none&encryption=none&type=ws#%40v2ray_swhil+ALL
-vless://8d6d02e4-9aea-49db-bf55-8738e04e9c78@81.12.27.2:8443?path=%2F&security=none&encryption=none&type=ws#%40v2ray_swhil+ALL
-vless://8d6d02e4-9aea-49db-bf55-8738e04e9c78@81.12.27.2:8443?path=%2F&security=none&encryption=none&type=ws#%40v2ray_swhil+ALL
 vless://00929fbb-88a0-46a2-9b37-4b99404fb34c@6v.fastv2.com:19021?path=%2F&security=none&encryption=none&type=ws#%40v2rayng_org
 ss://YWVzLTEyOC1nY206emtNYW5OTDdMOQ==@viptoptechnology.shop:32795#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84napsternetv_config%40%E2%9C%85
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
