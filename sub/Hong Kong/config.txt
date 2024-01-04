@@ -1,3 +1,5 @@
 vless://829362ac-f55b-4fe9-982b-73fa6e6072bc@hk-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281394%29%20HK
 vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@43.154.209.116:443?path=telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai_8+%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.dabee.top&type=ws&sni=3k.dabee.top#%40proxystore11
+vless://06c912d6-2727-40f5-8f26-f295dfaacf6e@206.238.236.11:8443/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=grpc&encryption=none&flow=&serviceName=freevpn&security=tls&sni=yalda20230103.freedns.site&fp=chrome#🇫🇮ALL+@ΞLiV2RAY
+vless://06c912d6-2727-40f5-8f26-f295dfaacf6e@206.238.236.36:8443/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY@-ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=grpc&encryption=none&flow=&serviceName=freevpn&security=tls&sni=yalda20230103.freedns.site&fp=chrome#S2+🇫🇮ALL+@ΞLiV2RAY
 vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@43.154.209.116:443?path=telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai_8+%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.dabee.top&type=ws&sni=3k.dabee.top#%40proxystore11
