@@ -1,6 +1,3 @@
-vless://e09f05e9-cf2b-4464-9e94-8749a3213a9f@tv.funous.me:443?encryption=none&flow=&security=tls&sni=&type=ws&host=&path=%2F&headerType=#%F0%9F%8C%BB%40hamedp71_%F0%9F%87%AE%F0%9F%87%B7Iran`
-vless://e09f05e9-cf2b-4464-9e94-8749a3213a9f@tv.funous.me:443?encryption=none&flow=&security=tls&sni=&type=ws&host=&path=%2F&headerType=#%F0%9F%8C%BB%40hamedp71_%F0%9F%87%AE%F0%9F%87%B7Iran
-vless://e09f05e9-cf2b-4464-9e94-8749a3213a9f@tv.funous.me:443?encryption=none&flow=&security=tls&sni=&type=ws&host=&path=%2F&headerType=#%F0%9F%8C%BB%40hamedp71_%F0%9F%87%AE%F0%9F%87%B7Iran`
 vless://00929fbb-88a0-46a2-9b37-4b99404fb34c@6v.fastv2.com:19021?path=%2F&security=none&encryption=none&type=ws#%40v2rayng_org
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
 vless://7c97f4b9-4e6f-4fa5-f163-b47fb78e2322@appleplus.chartacharta.monster:49589?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6kozca6p
