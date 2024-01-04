@@ -1,2 +1,0 @@
-vless://40abc17b-b527-4163-9bc5-30615b0592a0@::ffff:5.75.204.51:34782?security=reality&encryption=none&pbk=IbSV9OnRyp0C7t5HuUpapZ6Z3HEVd0m7P8D5Wb4olBM&headerType=none&fp=chrome&type=tcp&sni=kodular.io&sid=22e9d71e#%F0%9F%87%BA%F0%9F%87%B8+%7C+%40FreakConfig
-vless://40abc17b-b527-4163-9bc5-30615b0592a0@::ffff:5.75.204.51:34782?security=reality&encryption=none&pbk=IbSV9OnRyp0C7t5HuUpapZ6Z3HEVd0m7P8D5Wb4olBM&headerType=none&fp=chrome&type=tcp&sni=kodular.io&sid=22e9d71e#%F0%9F%87%BA%F0%9F%87%B8+%7C+%40FreakConfig
