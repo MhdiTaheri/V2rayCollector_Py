@@ -1,3 +1,6 @@
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q3JsOGJWdGVCbmJMSGVoMEt5NmNBUDhMZzZDZ2hleWdMcThIN3J1SkNTND0=@bot1.vipfast1.xyz:2053#t.me/ConfigsHub`
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q3JsOGJWdGVCbmJMSGVoMEt5NmNBUDhMZzZDZ2hleWdMcThIN3J1SkNTND0=@bot1.vipfast1.xyz:2053#t.me/ConfigsHub
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q3JsOGJWdGVCbmJMSGVoMEt5NmNBUDhMZzZDZ2hleWdMcThIN3J1SkNTND0=@bot1.vipfast1.xyz:2053#t.me/ConfigsHub`
 vless://3d661c3e-c874-4766-b250-3abea3d410b0@159.69.108.202:38067?mode=gun&security=reality&encryption=none&pbk=7_kJ3U4tljDv5go9_XqWrnjTcgH6nEVg85pB-4j9iFA&fp=chrome&type=grpc&serviceName=&sni=greenpepper.ir&sid=cffbe3b5#MTN-ELI
 trojan://telegram-id-privatevpns@3.71.208.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.125.151.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S114)🇩🇪t.me/PrivateVPNs
@@ -11,7 +14,6 @@ trojan://telegram-id-privatevpns@3.71.208.112:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@3.125.151.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.74.195.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.73.19.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S104)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-directvpn@18.158.230.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.192.59.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.75.108.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:5001#t.me%2FOutlineVpnOfficial%20%7C%20%282007%29%20DE
