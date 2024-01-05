@@ -1,6 +1,6 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@217.182.198.219:3306#%E2%99%BF6%40oneclickvpnkeys
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@217.182.198.219:3306#%E2%99%BF6%40oneclickvpnkeys
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@217.182.198.219:3306#%E2%99%BF6%40oneclickvpnkeys
+vless://9701c8b3-b2c0-4a70-b5af-da5cf5361a47@45.84.196.148:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=firefox&security=reality&pbk=SuZTEyms4vQtWwsT7PC6tP1HZFAStjxuzvnI1-xRogU&sid=90462b6a#@hamedp71%F0%9F%87%A9%F0%9F%87%AA%20%281%29`
+vless://9701c8b3-b2c0-4a70-b5af-da5cf5361a47@45.84.196.148:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=firefox&security=reality&pbk=SuZTEyms4vQtWwsT7PC6tP1HZFAStjxuzvnI1-xRogU&sid=90462b6a#@hamedp71%F0%9F%87%A9%F0%9F%87%AA%20%281%29
+vless://9701c8b3-b2c0-4a70-b5af-da5cf5361a47@45.84.196.148:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=firefox&security=reality&pbk=SuZTEyms4vQtWwsT7PC6tP1HZFAStjxuzvnI1-xRogU&sid=90462b6a#@hamedp71%F0%9F%87%A9%F0%9F%87%AA%20%281%29`
 vless://3d661c3e-c874-4766-b250-3abea3d410b0@159.69.108.202:38067?mode=gun&security=reality&encryption=none&pbk=7_kJ3U4tljDv5go9_XqWrnjTcgH6nEVg85pB-4j9iFA&fp=chrome&type=grpc&serviceName=&sni=greenpepper.ir&sid=cffbe3b5#MTN-ELI
 trojan://telegram-id-privatevpns@18.158.199.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.153.196.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S104)🇩🇪t.me/PrivateVPNs
