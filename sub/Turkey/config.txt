@@ -1,10 +1,7 @@
 vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281397%29%20TR
-vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me/ConfigsHub`
-vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me/ConfigsHub`
-vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me/ConfigsHub
-vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me/ConfigsHub
-vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me/ConfigsHub`
-vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me/ConfigsHub`
+vless://cd1af18c-6070-4f1e-a41a-aabbdc7aa044@tr.moori5.eu.org:47521?mode=gun&security=none&encryption=none&type=grpc&serviceName=@AB_841_VPN,@AB_841_VPN,@AB_841_VPN,@AB_841_VPN,@AB_841_VPN,@AB_841_VPN,@AB_841_VPN,@AB_841_VPN,#Vip%F0%9F%87%B9%F0%9F%87%B7-%40AB_841_VPN```
+vless://cd1af18c-6070-4f1e-a41a-aabbdc7aa044@tr.moori5.eu.org:47521?mode=gun&security=none&encryption=none&type=grpc&serviceName=@AB_841_VPN,@AB_841_VPN,@AB_841_VPN,@AB_841_VPN,@AB_841_VPN,@AB_841_VPN,@AB_841_VPN,@AB_841_VPN,#Vip%F0%9F%87%B9%F0%9F%87%B7-%40AB_841_VPN
+vless://cd1af18c-6070-4f1e-a41a-aabbdc7aa044@tr.moori5.eu.org:47521?mode=gun&security=none&encryption=none&type=grpc&serviceName=@AB_841_VPN,@AB_841_VPN,@AB_841_VPN,@AB_841_VPN,@AB_841_VPN,@AB_841_VPN,@AB_841_VPN,@AB_841_VPN,#Vip%F0%9F%87%B9%F0%9F%87%B7-%40AB_841_VPN```
 vless://30fd8f8c-a6dc-4797-8dba-0ecd796e1db0@turkycf.configforvpn.fun:2053?mode=gun&security=reality&encryption=none&pbk=z1tAnqd5RA4I99LrK5FCJgjCd2qWJ2f1ID5xlNUD21M&fp=chrome&spx=%2F&type=grpc&serviceName=@configforVPN&sni=discordapp.com&sid=b1803d25#%40ConfigforVPN
 vless://01a81336-ab38-47b5-b9b0-cdec837c645b@turkycf.configforvpn.fun:2053?mode=gun&security=reality&encryption=none&pbk=z1tAnqd5RA4I99LrK5FCJgjCd2qWJ2f1ID5xlNUD21M&fp=chrome&spx=%2F&type=grpc&serviceName=@configforVPN&sni=discordapp.com&sid=b1803d25#%40ConfigforVPN
 vless://01a81336-ab38-47b5-b9b0-cdec837c645b@turkycf.configforvpn.fun:2053?mode=gun&security=reality&encryption=none&pbk=z1tAnqd5RA4I99LrK5FCJgjCd2qWJ2f1ID5xlNUD21M&fp=chrome&spx=%2F&type=grpc&serviceName=@configforVPN&sni=discordapp.com&sid=b1803d25#%40ConfigforVPN
