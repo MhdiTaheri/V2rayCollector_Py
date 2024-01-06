@@ -1,15 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLbEpsWFhlOUtqUVg0bWg0eEMwNWM5@51.145.68.57:13751#%40V2rayi_net+%7C+United+Kingdom+%F0%9F%87%AC%F0%9F%87%A7+2+%7C+Jan+6th
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRVlobFZRbVAxbmVkSUlJbE1nTm01@51.142.75.225:47430#%40V2rayi_net+%7C+United+Kingdom+%F0%9F%87%AC%F0%9F%87%A7+%7C+Jan+6th
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLbEpsWFhlOUtqUVg0bWg0eEMwNWM5@51.145.68.57:13751#t.me/ConfigsHub`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRVlobFZRbVAxbmVkSUlJbE1nTm01@51.142.75.225:47430#t.me/ConfigsHub`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLbEpsWFhlOUtqUVg0bWg0eEMwNWM5@51.145.68.57:13751#%40V2rayi_net+%7C+United+Kingdom+%F0%9F%87%AC%F0%9F%87%A7+2+%7C+Jan+6th
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRVlobFZRbVAxbmVkSUlJbE1nTm01@51.142.75.225:47430#%40V2rayi_net+%7C+United+Kingdom+%F0%9F%87%AC%F0%9F%87%A7+%7C+Jan+6th
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLbEpsWFhlOUtqUVg0bWg0eEMwNWM5@51.145.68.57:13751#t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRVlobFZRbVAxbmVkSUlJbE1nTm01@51.142.75.225:47430#t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLbEpsWFhlOUtqUVg0bWg0eEMwNWM5@51.145.68.57:13751#%40V2rayi_net+%7C+United+Kingdom+%F0%9F%87%AC%F0%9F%87%A7+2+%7C+Jan+6th
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRVlobFZRbVAxbmVkSUlJbE1nTm01@51.142.75.225:47430#%40V2rayi_net+%7C+United+Kingdom+%F0%9F%87%AC%F0%9F%87%A7+%7C+Jan+6th
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLbEpsWFhlOUtqUVg0bWg0eEMwNWM5@51.145.68.57:13751#t.me/ConfigsHub`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRVlobFZRbVAxbmVkSUlJbE1nTm01@51.142.75.225:47430#t.me/ConfigsHub`
 trojan://telegram-id-privatevpns@13.43.105.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.135.106.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.43.248.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S107)🇬🇧t.me/PrivateVPNs
@@ -22,9 +10,9 @@ trojan://telegram-id-privatevpns@13.43.105.242:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@18.135.106.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.43.248.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.56.218.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S108)🇬🇧t.me/PrivateVPNs
-trojan://telegram-id-directvpn@13.41.95.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.43.196.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.171.65.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@13.43.81.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 vless://join-channel-foxrayiran@45.67.85.111:443?security=reality&encryption=none&pbk=oSBCQtFYo78mD4BFlVVx6J6ykyXUQRoiOtfLdDnkGzI&headerType=none&fp=ios&spx=%2Ffoxrayiran&type=tcp&flow=xtls-rprx-vision&sni=ftp.debian.org&sid=289ce33d#join+channel+%40foxrayiran
 vless://join-channel-foxrayiran@45.67.85.111:443?security=reality&encryption=none&pbk=oSBCQtFYo78mD4BFlVVx6J6ykyXUQRoiOtfLdDnkGzI&headerType=none&fp=ios&spx=%2Ffoxrayiran&type=tcp&flow=xtls-rprx-vision&sni=ftp.debian.org&sid=289ce33d#join+channel+%40foxrayiran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%F0%9F%87%A7%F0%9F%87%AA
