@@ -1,6 +1,9 @@
-vless://cc67b8b5-6ff9-4190-8c5c-e6f09d625515@de3-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#@Hope_Net-join-us-on-Telegram
-vless://cc67b8b5-6ff9-4190-8c5c-e6f09d625515@de3-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#@Hope_Net-join-us-on-Telegram
-vless://cc67b8b5-6ff9-4190-8c5c-e6f09d625515@de3-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#@Hope_Net-join-us-on-Telegram
+vless://974d4696-a900-4d44-b627-9833b8a7b27a@51.75.86.63:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=UDABcxpKzAYkuyE4pmST0OSzEUJpQNuSgYIKcgppeh8&security=reality&sid=d73382b02fa94fc2&sni=flightradar24.com&type=tcp#18✊t.me/vPlusVPN_FREE`
+vless://9701c8b3-b2c0-4a70-b5af-da5cf5361a47@45.84.196.148:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SuZTEyms4vQtWwsT7PC6tP1HZFAStjxuzvnI1-xRogU&security=reality&sid=90462b6a&sni=speed.cloudflare.com&type=tcp#5✊t.me/vPlusVPN_FREE`
+vless://974d4696-a900-4d44-b627-9833b8a7b27a@51.75.86.63:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=UDABcxpKzAYkuyE4pmST0OSzEUJpQNuSgYIKcgppeh8&security=reality&sid=d73382b02fa94fc2&sni=flightradar24.com&type=tcp#18✊t.me/vPlusVPN_FREE
+vless://9701c8b3-b2c0-4a70-b5af-da5cf5361a47@45.84.196.148:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SuZTEyms4vQtWwsT7PC6tP1HZFAStjxuzvnI1-xRogU&security=reality&sid=90462b6a&sni=speed.cloudflare.com&type=tcp#5✊t.me/vPlusVPN_FREE
+vless://974d4696-a900-4d44-b627-9833b8a7b27a@51.75.86.63:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=UDABcxpKzAYkuyE4pmST0OSzEUJpQNuSgYIKcgppeh8&security=reality&sid=d73382b02fa94fc2&sni=flightradar24.com&type=tcp#18✊t.me/vPlusVPN_FREE`
+vless://9701c8b3-b2c0-4a70-b5af-da5cf5361a47@45.84.196.148:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SuZTEyms4vQtWwsT7PC6tP1HZFAStjxuzvnI1-xRogU&security=reality&sid=90462b6a&sni=speed.cloudflare.com&type=tcp#5✊t.me/vPlusVPN_FREE`
 vless://3d661c3e-c874-4766-b250-3abea3d410b0@159.69.108.202:38067?mode=gun&security=reality&encryption=none&pbk=7_kJ3U4tljDv5go9_XqWrnjTcgH6nEVg85pB-4j9iFA&fp=chrome&type=grpc&serviceName=&sni=greenpepper.ir&sid=cffbe3b5#MTN-ELI
 trojan://telegram-id-privatevpns@3.76.169.10:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.159.80.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S114)🇩🇪t.me/PrivateVPNs

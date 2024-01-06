@@ -1,4 +1,7 @@
 trojan://05699368-52c7-4ae7-bef9-bd9099718f4e@sg-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281396%29%20SG
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eElxYTRocDVLMHJDNlBPZjZCREgz@singapore.telegavpn.org:16759#🇸🇬 Singapore, 5 GB, FREE`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eElxYTRocDVLMHJDNlBPZjZCREgz@singapore.telegavpn.org:16759#🇸🇬 Singapore, 5 GB, FREE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eElxYTRocDVLMHJDNlBPZjZCREgz@singapore.telegavpn.org:16759#🇸🇬 Singapore, 5 GB, FREE`
 vless://06c912d6-2727-40f5-8f26-f295dfaacf6e@206.238.236.11:8443/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=grpc&encryption=none&flow=&serviceName=freevpn&security=tls&sni=yalda20230103.freedns.site&fp=chrome#🇫🇮ALL+@ΞLiV2RAY
 vless://06c912d6-2727-40f5-8f26-f295dfaacf6e@206.238.236.36:8443/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY@-ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=grpc&encryption=none&flow=&serviceName=freevpn&security=tls&sni=yalda20230103.freedns.site&fp=chrome#S2+🇫🇮ALL+@ΞLiV2RAY
 vless://06c912d6-2727-40f5-8f26-f295dfaacf6e@206.238.236.36:8443/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY@-ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=grpc&encryption=none&flow=&serviceName=freevpn&security=tls&sni=yalda20230103.freedns.site&fp=chrome#gRPC-@ΞLiV2RAY
