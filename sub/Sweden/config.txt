@@ -1,3 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@passconf.xyz:8080#@Shahbaaba%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@passconf.xyz:8080#@Shahbaaba%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@passconf.xyz:8080#@Shahbaaba%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 trojan://telegram-id-privatevpns@13.51.229.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.16.84.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 vless://2c59ff33-916d-459b-a4c0-8b7432c4c3bb@13.53.139.180:443?security=reality&encryption=none&pbk=EmcJnAmgmizra9H-aY3vS2UpyjJ9CcdpygtVWs2fRVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lolstatic-a.akamaihd.net&sid=e4#%F0%9F%87%A7%F0%9F%87%B8telegram+%E2%9E%A0+%40v2rayNG_Matsurivless://2c59ff33-916d-459b-a4c0-8b7432c4c3bb@13.49.159.247:443?security=reality&encryption=none&pbk=2kFalTuNFrCI4cnIqoNVkKKeQ4DwPZZIqsZLv13_sAg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lolstatic-a.akamaihd.net&sid=90031b#%F0%9F%87%A7%F0%9F%87%B7telegram+%E2%9E%A0+%40v2rayNG_Matsurivless://2c59ff33-916d-459b-a4c0-8b7432c4c3bb@16.16.253.59:443?security=reality&encryption=none&pbk=epYeD9A7qEJL4zfdb2YgYK7q7RrX_CEYj_xP5arOIkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lolstatic-a.akamaihd.net&sid=87bf#%F0%9F%87%A6%F0%9F%87%B9telegram+%E2%9E%A0+%40v2rayNG_Matsurivless://2c59ff33-916d-459b-a4c0-8b7432c4c3bb@13.50.231.56:443?security=reality&encryption=none&pbk=hSJ9dxBiyK-r8AEJ31tQvOdEfADk8BthO-Y9N8C56Q4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lolstatic-a.akamaihd.net&sid=249e#%F0%9F%87%AE%F0%9F%87%AAtelegram+%E2%9E%A0+%40v2rayNG_Matsuri
@@ -12,13 +15,6 @@ trojan://telegram-id-privatevpns@13.51.229.89:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@16.16.84.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@13.50.111.194:8443?security=reality&encryption=none&pbk=02kJWGZopoxAxP6vw5x_kyiWiqfBF881aaEEyWi2ogw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.makers.com&sid=3c#%40V2ray_NG
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@13.50.111.194:8443?security=reality&encryption=none&pbk=02kJWGZopoxAxP6vw5x_kyiWiqfBF881aaEEyWi2ogw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.makers.com&sid=3c#%40V2ray_NG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMXBiN1h4eHJvbHZQU2IwdTJ4U09B@172.232.152.164:8080#63@ShadowsocksM
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@195.181.166.175:443#99@ShadowsocksM
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@195.181.166.170:443#102@ShadowsocksM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QkczZ0czbGZwbDExTkU0eWZzSUN4@passconf.xyz:8080#103@ShadowsocksM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@172.232.152.142:8080#104@ShadowsocksM
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@195.181.166.170:443#109@ShadowsocksM
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@195.181.166.174:443#115@ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@195.181.166.176:443#120@ShadowsocksM
 vless://319e3dc1-ceb3-4258-b069-675db969ad62@185.146.173.20:80?path=%2Fbackup&security=none&encryption=none&host=crtU6u.dl-aPARaT.coM&type=ws#%40V2RAY_VMESS_free
 vless://a0ac6650-2c3e-48d4-d873-c1beaa12d4f4@172.232.128.41:33345?mode=gun&security=none&encryption=none&type=grpc&serviceName=#RTL-MTN+mci+%F0%9F%91%91+%40V2rayN_Free
