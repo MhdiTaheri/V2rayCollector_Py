@@ -1,9 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40eliya_chiter0+%D9%82%D8%B7+%D8%B4%D8%AF%DB%8C+%D8%A8%DB%8C%D8%A7+%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#t.me/ConfigsHub`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40eliya_chiter0+%D9%82%D8%B7+%D8%B4%D8%AF%DB%8C+%D8%A8%DB%8C%D8%A7+%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40eliya_chiter0+%D9%82%D8%B7+%D8%B4%D8%AF%DB%8C+%D8%A8%DB%8C%D8%A7+%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#t.me/ConfigsHub`
 trojan://telegram-id-privatevpns@18.171.99.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.130.197.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.178.53.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S117)🇬🇧t.me/PrivateVPNs
