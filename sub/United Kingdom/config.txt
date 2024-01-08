@@ -11,7 +11,6 @@ trojan://telegram-id-privatevpns@35.178.53.188:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@18.171.84.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.168.240.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.171.122.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S108)🇬🇧t.me/PrivateVPNs
-trojan://telegram-id-directvpn@18.171.112.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.8.213.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.9.122.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#t.me%2FOutlineVpnOfficial%20%7C%20%282019%29%20GB
