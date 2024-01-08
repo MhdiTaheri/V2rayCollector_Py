@@ -1,7 +1,5 @@
 trojan://05699368-52c7-4ae7-bef9-bd9099718f4e@sg-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281396%29%20SG
 ss://YWVzLTI1Ni1nY206RHZNZVkvUzhjM2hzU1FxckwxYVdibGFIc2NFVlEwM2w1bEZnbmVNeDU2Yz0=@sg-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282015%29%20SG
-vless://06c912d6-2727-40f5-8f26-f295dfaacf6e@206.238.236.36:8443/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=grpc&encryption=none&flow=&serviceName=freevpn&security=tls&sni=yalda20230103.freedns.site&fp=chrome#🇫🇮@ELiV2RAY
-vless://06c912d6-2727-40f5-8f26-f295dfaacf6e@206.238.236.11:8443/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=grpc&encryption=none&flow=&serviceName=freevpn&security=tls&sni=yalda20230103.freedns.site&fp=chrome#🇫🇮S1+@ELiV2RAY
 vless://06c912d6-2727-40f5-8f26-f295dfaacf6e@206.238.236.11:8443/?type=grpc&encryption=none&serviceName=freevpn&security=tls&sni=yalda20230103.freedns.site&fp=chrome#S1+@ELiV2ray
 vless://06c912d6-2727-40f5-8f26-f295dfaacf6e@206.238.236.36:8443/?type=grpc&encryption=none&serviceName=freevpn&security=tls&sni=yalda20230103.freedns.site&fp=chrome#S2+ELiV2RAY
 vless://06c912d6-2727-40f5-8f26-f295dfaacf6e@206.238.236.36:8443/?type=grpc&encryption=none&flow=&serviceName=freevpn&security=tls&sni=yalda20230103.freedns.site&fp=chrome#@ELiV2ray
