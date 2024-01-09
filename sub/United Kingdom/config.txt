@@ -2,6 +2,7 @@ trojan://telegram-id-privatevpns@18.168.240.92:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@18.171.122.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.9.234.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.11.76.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S118)🇬🇧t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.9.223.15:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.178.35.225:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.132.75.52:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.41.2.87:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
@@ -9,11 +10,12 @@ trojan://telegram-id-privatevpns@18.168.240.92:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@18.171.122.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.9.234.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.11.76.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S118)🇬🇧t.me/PrivateVPNs
+trojan://telegram-id-directvpn@3.8.213.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@3.9.122.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@35.176.229.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#t.me%2FOutlineVpnOfficial%20%7C%20%282019%29%20GB
 vless://join-channel-foxrayiran@45.67.85.111:443?security=reality&encryption=none&pbk=oSBCQtFYo78mD4BFlVVx6J6ykyXUQRoiOtfLdDnkGzI&headerType=none&fp=ios&spx=%2Ffoxrayiran&type=tcp&flow=xtls-rprx-vision&sni=ftp.debian.org&sid=289ce33d#join+channel+%40foxrayiran
 vless://join-channel-foxrayiran@45.67.85.111:443?security=reality&encryption=none&pbk=oSBCQtFYo78mD4BFlVVx6J6ykyXUQRoiOtfLdDnkGzI&headerType=none&fp=ios&spx=%2Ffoxrayiran&type=tcp&flow=xtls-rprx-vision&sni=ftp.debian.org&sid=289ce33d#join+channel+%40foxrayiran
-vless://cbccea04-a31c-4389-bb07-1243d76896d2@138.68.176.193:44229?mode=gun&security=reality&encryption=none&pbk=F8sSqP6IR0LjzhOj_x60rKu-cI9iyqhj_l2PTrLrrE8&fp=chrome&spx=%2F&type=grpc&serviceName=@SABZ_V2RAY,@SABZ_V2RAY,@SABZ_V2RAY,@SABZ_V2RAY,@SABZ_V2RAY,@SABZ_V2RAY,@SABZ_V2RAY,@SABZ_V2RAY,@SABZ_V2RAY,@SABZ_V2RAY,@SABZ_V2RAY,@SABZ_V2RAY,@SABZ_V2RAY,@SABZ_V2RAY&sni=cn.pjv2ray.sbs&sid=213f591d#%40v2rayng_org
 trojan://telegram-id-privatevpns@18.168.240.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.171.122.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.9.234.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S117)🇬🇧t.me/PrivateVPNs
