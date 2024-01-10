@@ -177,7 +177,6 @@ vless://da8d0369-0121-4d2b-9fe1-c071833604cf@104.26.15.85:80?path=%2F%3Fed%3D204
 vless://da8d0369-0121-4d2b-9fe1-c071833604cf@104.26.14.85:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=fl.gooldeneaglee.eu.org&type=ws#mci.%40proxystore11
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#mtn.proxystore11
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@190.93.247.155:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#mtn.proxystore11
-trojan://ffk6awd3VX@de.melov2ray.shop:2096?path=%2Fmelov2ray&security=tls&alpn=h2,http/1.1&fp=chrome&type=ws&sni=De.Melov2ray.Shop#%40v2rayng_org
 vless://2e6797e9-16d3-4390-91d7-3e1be61a944a@All.MsV2ray.online:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray&sni=fe.MsV2ray.space#%40v2rayng_org
 trojan://ffk6awd3VX@de.melov2ray.shop:2096?path=%2Fmelov2ray&security=tls&alpn=h2,http/1.1&fp=chrome&type=ws&sni=De.Melov2ray.Shop#%40v2rayng_org
 vless://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.73.163:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=fkhamnei.kosnanatfilterchi.eu.org&type=ws#%40v2rayng_org
