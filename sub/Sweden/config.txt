@@ -1,3 +1,6 @@
+vless://2c34ea48-6f40-4aa3-9ddb-69718b48c3f8@5.42.86.225:22/?type=tcp&encryption=none&sni=ftp.debian.org&fp=chrome&security=reality&pbk=1yjMDe_3ZcrJDc4fGqWPmy-udJRLW502p2EjplmCWx8&sid=76753364#%F0%9F%9A%AF38%40oneclickvpnkeys
+vless://2c34ea48-6f40-4aa3-9ddb-69718b48c3f8@5.42.86.225:22/?type=tcp&encryption=none&sni=ftp.debian.org&fp=chrome&security=reality&pbk=1yjMDe_3ZcrJDc4fGqWPmy-udJRLW502p2EjplmCWx8&sid=76753364#%F0%9F%9A%AF38%40oneclickvpnkeys
+vless://2c34ea48-6f40-4aa3-9ddb-69718b48c3f8@5.42.86.225:22/?type=tcp&encryption=none&sni=ftp.debian.org&fp=chrome&security=reality&pbk=1yjMDe_3ZcrJDc4fGqWPmy-udJRLW502p2EjplmCWx8&sid=76753364#%F0%9F%9A%AF38%40oneclickvpnkeys
 trojan://telegram-id-privatevpns@51.21.145.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.171.213.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.171.213.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S102)🇸🇪t.me/PrivateVPNs
@@ -13,7 +16,6 @@ trojan://telegram-id-privatevpns@16.171.213.155:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@16.171.213.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.51.123.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.20.168.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S112)🇸🇪t.me/PrivateVPNs
-trojan://telegram-id-directvpn@51.21.100.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.48.60.10:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.21.139.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@16.16.85.214:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
