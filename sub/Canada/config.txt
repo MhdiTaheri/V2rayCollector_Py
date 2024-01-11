@@ -26,9 +26,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSW9iNXc1dmMzTXc4eHZWcml3NEJj@toronto.telega
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSW9iNXc1dmMzTXc4eHZWcml3NEJj@toronto.telegavpn.org:31024#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSW9iNXc1dmMzTXc4eHZWcml3NEJj@toronto.telegavpn.org:31024#
 vless://97d26fd0-e2ac-4b1f-a098-f422fc49bd30@188.114.96.7:443?path=%2Fcypherpunks&security=tls&encryption=none&host=singbox.cypherpunks.asia&type=ws&sni=singbox.cypherpunks.asia#%F0%9F%87%BA%F0%9F%87%B8+%40V2rayN_Free
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqYlBCa0VSQUVObDRvYTR5UFFnbGFm@twlatx.dnset.com:8443#Canada+Telus
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0QmlWVmh4WEIwWHlCRXZiVU9nd2pt@twlatx.dnset.com:8443#Canada+Telus
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3WFNGbWdDdXdhVEVIUklRTUNmQlZO@twlatx.dnset.com:8443#Canada+Telus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpITmtra2N4UmdDa1BEUTBaMGxuN3d4@ca.yangon.club:443#Canada+eSecureData
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:804#%40Network_442%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:804#%40Network_442%F0%9F%87%A8%F0%9F%87%A6
