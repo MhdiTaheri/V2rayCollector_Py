@@ -1,16 +1,15 @@
-vless://f1c76a9c-b774-4802-e0ca-eb0617e208ed@49.13.147.128:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=config-v2rayng-connectionv2ray7.mazhabi.co#%DA%AF%D9%84`
-vless://f1c76a9c-b774-4802-e0ca-eb0617e208ed@49.13.147.128:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=config-v2rayng-connectionv2ray7.mazhabi.co#%DA%AF%D9%84
-vless://f1c76a9c-b774-4802-e0ca-eb0617e208ed@49.13.147.128:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=config-v2rayng-connectionv2ray7.mazhabi.co#%DA%AF%D9%84`
 vless://3d661c3e-c874-4766-b250-3abea3d410b0@159.69.108.202:38067?mode=gun&security=reality&encryption=none&pbk=7_kJ3U4tljDv5go9_XqWrnjTcgH6nEVg85pB-4j9iFA&fp=chrome&type=grpc&serviceName=&sni=greenpepper.ir&sid=cffbe3b5#MTN-ELI
 tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@199.247.1.134:443/?congestion_control=bbr&udp_relay_mode=native&sni=www.apple.com&alpn=h3&allow_insecure=1#TUIC-MCI
-trojan://telegram-id-privatevpns@3.69.76.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.72.127.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.79.71.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S104)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.121.137.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S113)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@35.158.212.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.120.163.159:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.165.228:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
-trojan://telegram-id-privatevpns@3.69.76.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.72.127.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.79.71.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S104)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.121.137.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S113)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@35.158.212.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-directvpn@52.58.7.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.199.9.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.79.146.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
@@ -22,9 +21,10 @@ vless://af0be8f3-8c2c-4e64-bd96-4c442bd286f7@140.82.38.90:4528/?type=grpc&encryp
 vless://da0c4b49-5565-4ff0-9848-1bb602fad0dd@168.119.184.138:57149?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://CONFIG-WANCLOUDFA@49.12.64.220:443?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
-trojan://telegram-id-privatevpns@3.69.76.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.72.127.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.79.71.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S104)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.121.137.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S113)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@35.158.212.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 vless://e25fc003-2b45-46a2-8744-294adce8e377@167.235.79.51:443?mode=gun&security=reality&encryption=none&pbk=s0avrTyBoB2nxEtxzFbMEXkvylcAwQN4Px2I5Mu5EhA&fp=firefox&spx=%2F&type=grpc&serviceName=%40ipV2Ray&sni=dnschecker.org&sid=2b8c4500#%F0%9F%87%A9%F0%9F%87%AA+%7C+@FreeLand8+%3A%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://bd6fa3a5-68a0-49f4-9f7f-78e38612245f@168.119.177.49:2087?mode=gun&security=reality&encryption=none&pbk=iWgxGQVQZUfOCw4EqmHQToaQPqYt0V5hAfnDo6p-Izg&fp=firefox&type=grpc&serviceName=TelegramID:@iranbaxvpn&sni=iranserver.com&sid=33fb#iOS..V2box
 vless://bd6fa3a5-68a0-49f4-9f7f-78e38612245f@168.119.177.49:2087?mode=gun&security=reality&encryption=none&pbk=iWgxGQVQZUfOCw4EqmHQToaQPqYt0V5hAfnDo6p-Izg&fp=firefox&type=grpc&serviceName=TelegramID:@iranbaxvpn&sni=iranserver.com&sid=33fb#iOS..V2box
