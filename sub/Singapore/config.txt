@@ -1,4 +1,7 @@
 trojan://05699368-52c7-4ae7-bef9-bd9099718f4e@sg-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281396%29%20SG
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToweTRKSnRUVFp2S2JCZHpmUnp2VTlC@singapore.telegavpn.org:16759#🇸🇬 Singapore, 5 GB, FREE`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToweTRKSnRUVFp2S2JCZHpmUnp2VTlC@singapore.telegavpn.org:16759#🇸🇬 Singapore, 5 GB, FREE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToweTRKSnRUVFp2S2JCZHpmUnp2VTlC@singapore.telegavpn.org:16759#🇸🇬 Singapore, 5 GB, FREE`
 ss://YWVzLTI1Ni1nY206RHZNZVkvUzhjM2hzU1FxckwxYVdibGFIc2NFVlEwM2w1bEZnbmVNeDU2Yz0=@sg-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282015%29%20SG
 vless://06c912d6-2727-40f5-8f26-f295dfaacf6e@206.238.236.36:8443/?type=grpc&encryption=none&flow=&serviceName=freevpn&security=tls&sni=yalda20230103.freedns.site&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%40FreakConfigvless://3a816e82-5f22-4ac9-a145-0290e6875a0e@172.67.197.162:2087/?type=grpc&encryption=none&flow=&serviceName=%40v2rray1_ng&security=tls&sni=vio.1lagvpn13.cfd&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%40FreakConfigvless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%80%8C+%40FreakConfig
 vless://06c912d6-2727-40f5-8f26-f295dfaacf6e@206.238.236.36:8443/?type=grpc&encryption=none&flow=&serviceName=freevpn&security=tls&sni=yalda20230103.freedns.site&fp=chrome#🇫🇮@ELiV2ray
