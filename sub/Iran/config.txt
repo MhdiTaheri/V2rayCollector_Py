@@ -6,6 +6,7 @@ vless://de8b6278-08df-4e29-b0c7-714870fe4534@185.147.178.11:2053?encryption=none
 vless://8e5c3630-6f77-4c2e-bbec-cd43eebf5c9d@maskunlimit2.api-tel.online:42200?security=reality&encryption=none&pbk=-BbL9KQW3OIhIysI6oKyNVuFOkaHXvTh-IIxFX0P3yY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zula.ir&sid=c068163cf9#%40V2rayNG3---iOS-v2box
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
 vless://5bd6140a-3c56-4053-a53d-c782a3f26e27@f3.maryam1800.com:443?path=%2F&security=tls&encryption=none&fp=firefox&type=ws&sni=f3.maryam1800.com#%40VPN_OCEAN
+vless://aacc2248-49a1-436e-ade5-e089f3a9c2db@svt200.iranvipnet.com:59850?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%40VPN_OCEAN
 vless://7c97f4b9-4e6f-4fa5-f163-b47fb78e2322@appleplus.chartacharta.monster:49589?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6kozca6p
 vless://d4bd1237-afa2-43b1-8c9b-9ed2eb370b2f@appleplus.mashalla.monster:54906?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6thc7mg2
 vless://3f676a5e-85e3-4f90-a211-beced6407137@bia-to.savagev2ray.site:2085?mode=gun&security=reality&encryption=none&pbk=ZGYsrxxt_esOp37qLKsTKbHw8UhqmbOIPH3Y_yAC-Dw&fp=chrome&spx=%2F&type=grpc&serviceName=@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi&sni=blue.kodular.io&sid=f0d4b3d6#%40Vpnmasi-8hfy8sen
