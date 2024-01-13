@@ -1,5 +1,2 @@
 vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281397%29%20TR
-vless://9c067f15-1108-43db-b98e-94641b5758a1@gold.tap4connect.me:57986?security=none&encryption=none&headerType=http&type=tcp#%40Vpnfree85
-vless://9c067f15-1108-43db-b98e-94641b5758a1@gold.tap4connect.me:57986?security=none&encryption=none&headerType=http&type=tcp#%40Vpnfree85
-vless://9c067f15-1108-43db-b98e-94641b5758a1@gold.tap4connect.me:57986?security=none&encryption=none&headerType=http&type=tcp#%40Vpnfree85
 ss://YWVzLTI1Ni1nY206UHFHcGhYV1dGdw==@tr-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282017%29%20TR
