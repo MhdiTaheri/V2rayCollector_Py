@@ -1,1 +1,2 @@
 vless://8b7db47d-40a6-4c6e-b810-6c03cc0ffd04@dk1.v2vless.xyz:80?encryption=none&security=none&sni=dk1.v2vless.xyz&type=ws&host=dk1.v2vless.xyz&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281402%29%20DK
+vless://f2823d10-2fa8-4064-ab49-bf69250ee309@176.120.64.12:80?path=%2F&security=none&encryption=none&type=ws#🇩🇰DK-MTN-@ELIV2RAY
