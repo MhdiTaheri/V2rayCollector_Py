@@ -1,1 +1,7 @@
+vless://f113953f-9a93-4970-a6b1-c457232480d3@kinsta.sjmek.ir:3389?type=tcp&path=%2Fkinsta_service&host=http%3A%2F%2Fkinsta.sjmek.ir&headerType=http&security=none#t.me/ConfigsHub`
+vless://f113953f-9a93-4970-a6b1-c457232480d3@kinsta.sjmek.ir:3389?type=tcp&path=%2Fkinsta_service&host=http%3A%2F%2Fkinsta.sjmek.ir&headerType=http&security=none#t.me/kralvpn`
+vless://f113953f-9a93-4970-a6b1-c457232480d3@kinsta.sjmek.ir:3389?type=tcp&path=%2Fkinsta_service&host=http%3A%2F%2Fkinsta.sjmek.ir&headerType=http&security=none#t.me/ConfigsHub
+vless://f113953f-9a93-4970-a6b1-c457232480d3@kinsta.sjmek.ir:3389?type=tcp&path=%2Fkinsta_service&host=http%3A%2F%2Fkinsta.sjmek.ir&headerType=http&security=none#t.me/kralvpn
+vless://f113953f-9a93-4970-a6b1-c457232480d3@kinsta.sjmek.ir:3389?type=tcp&path=%2Fkinsta_service&host=http%3A%2F%2Fkinsta.sjmek.ir&headerType=http&security=none#t.me/ConfigsHub`
+vless://f113953f-9a93-4970-a6b1-c457232480d3@kinsta.sjmek.ir:3389?type=tcp&path=%2Fkinsta_service&host=http%3A%2F%2Fkinsta.sjmek.ir&headerType=http&security=none#t.me/kralvpn`
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@54.36.174.181:9102#t.me%2FOutlineVpnOfficial%20%7C%20%282013%29%20PL
