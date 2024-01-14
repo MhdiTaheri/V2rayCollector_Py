@@ -1,9 +1,0 @@
-vless://37314b2d-b3b0-4a26-86d3-1247400eec73@208.76.221.68:46640?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#%40sabz_v2ray%7CTELEGRAM`
-vless://37314b2d-b3b0-4a26-86d3-1247400eec73@208.76.221.68:46640?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#t.me/ConfigsHub`
-vless://37314b2d-b3b0-4a26-86d3-1247400eec73@208.76.221.68:46640?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#t.me/kralvpn`
-vless://37314b2d-b3b0-4a26-86d3-1247400eec73@208.76.221.68:46640?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#%40sabz_v2ray%7CTELEGRAM
-vless://37314b2d-b3b0-4a26-86d3-1247400eec73@208.76.221.68:46640?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#t.me/ConfigsHub
-vless://37314b2d-b3b0-4a26-86d3-1247400eec73@208.76.221.68:46640?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#t.me/kralvpn
-vless://37314b2d-b3b0-4a26-86d3-1247400eec73@208.76.221.68:46640?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#%40sabz_v2ray%7CTELEGRAM`
-vless://37314b2d-b3b0-4a26-86d3-1247400eec73@208.76.221.68:46640?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#t.me/ConfigsHub`
-vless://37314b2d-b3b0-4a26-86d3-1247400eec73@208.76.221.68:46640?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#t.me/kralvpn`
