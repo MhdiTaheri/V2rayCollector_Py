@@ -1,0 +1,3 @@
+vless://12c4a635-fbdd-4eac-8776-908e21740d33@172.64.28.12:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=usa.servervless.de&type=ws&sni=usa.servervless.de#t.me/kralvpn`
+vless://12c4a635-fbdd-4eac-8776-908e21740d33@172.64.28.12:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=usa.servervless.de&type=ws&sni=usa.servervless.de#t.me/kralvpn
+vless://12c4a635-fbdd-4eac-8776-908e21740d33@172.64.28.12:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=usa.servervless.de&type=ws&sni=usa.servervless.de#t.me/kralvpn`
