@@ -11,8 +11,6 @@ trojan://telegram-id-privatevpns@18.199.55.108:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@3.127.185.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.75.36.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.64.97.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-directvpn@3.78.171.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
-trojan://telegram-id-directvpn@3.123.119.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.195.109.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:5001#t.me%2FOutlineVpnOfficial%20%7C%20%282007%29%20DE
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6VGVsZWdyYW0tSUQtVjJyYXlfQWxwaGE=@ss-panel.alphav.top:8443#Mokhabrat+2+%40dailyv2ry%E2%9D%A4ss://Y2hhY2hhMjAtcG9seTEzMDU6VGVsZWdyYW0tSUQtVjJyYXlfQWxwaGE=@ss-panel.alphav.top:443#Mokhabrat+1+%40dailyv2ry%E2%9D%A4ss://Y2hhY2hhMjAtcG9seTEzMDU6VGVsZWdyYW0tSUQtVjJyYXlfQWxwaGE=@bia-kanal-asli.alphav.top:443#Hamrah+2+%40dailyv2ry%E2%9D%A4ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6VGVsZWdyYW0tSUQtVjJyYXlfQWxwaGE=@bia-kanal-asli.alphav.top:8443#Hamrah+1+%40dailyv2ry%E2%9D%A4
