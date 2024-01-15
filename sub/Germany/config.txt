@@ -1,3 +1,9 @@
+vless://946cc327-619e-44bf-a7f0-fd001dd9c833@168.119.187.147:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=@croownvpn#t.me/ConfigsHub`
+vless://946cc327-619e-44bf-a7f0-fd001dd9c833@168.119.187.147:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=@croownvpn#t.me/kralvpn`
+vless://946cc327-619e-44bf-a7f0-fd001dd9c833@168.119.187.147:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=@croownvpn#t.me/ConfigsHub
+vless://946cc327-619e-44bf-a7f0-fd001dd9c833@168.119.187.147:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=@croownvpn#t.me/kralvpn
+vless://946cc327-619e-44bf-a7f0-fd001dd9c833@168.119.187.147:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=@croownvpn#t.me/ConfigsHub`
+vless://946cc327-619e-44bf-a7f0-fd001dd9c833@168.119.187.147:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=@croownvpn#t.me/kralvpn`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYbFVGZ29PcURsVnFsWkZEM0pzMFlB@168.119.124.17:8080#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29_007
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYd1dWUm1PMmtLdTZxSzFYbGloM0xmZTZMaDNSUmE5cg@213.183.44.17:8388#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29_009
 trojan://telegram-id-privatevpns@52.58.94.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S113)🇩🇪t.me/PrivateVPNs
