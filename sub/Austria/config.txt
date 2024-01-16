@@ -1,2 +1,5 @@
 vless://c87608ba-a3f1-4a01-9ccf-82a86df608c9@at1.v2vless.xyz:80?encryption=none&security=none&sni=at1.v2vless.xyz&type=ws&host=at1.v2vless.xyz&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281391%29%20AT
+vless://ff6c5236-b317-403b-87e3-ec61c08b233a@a.pannel4site.monster:53024?security=none&encryption=none&type=ws&headerType=none&path=%252F#t.me/kralvpn`
+vless://ff6c5236-b317-403b-87e3-ec61c08b233a@a.pannel4site.monster:53024?security=none&encryption=none&type=ws&headerType=none&path=%252F#t.me/kralvpn
+vless://ff6c5236-b317-403b-87e3-ec61c08b233a@a.pannel4site.monster:53024?security=none&encryption=none&type=ws&headerType=none&path=%252F#t.me/kralvpn`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#t.me%2FOutlineVpnOfficial%20%7C%20%282004%29%20AT
