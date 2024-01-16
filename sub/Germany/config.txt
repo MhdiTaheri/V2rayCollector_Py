@@ -2,6 +2,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYbFVGZ29PcURsVnFsWkZEM0pzMFlB@168.119.124.17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYd1dWUm1PMmtLdTZxSzFYbGloM0xmZTZMaDNSUmE5cg@213.183.44.17:8388#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29_009
 trojan://telegram-id-privatevpns@3.75.36.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.64.97.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.66.93.166:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 trojan://telegram-id-privatevpns@3.75.36.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.64.97.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-directvpn@18.195.109.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
@@ -9,7 +10,6 @@ trojan://telegram-id-directvpn@3.74.210.13:22222?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@18.153.125.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:5001#t.me%2FOutlineVpnOfficial%20%7C%20%282007%29%20DE
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6VGVsZWdyYW0tSUQtVjJyYXlfQWxwaGE=@ss-panel.alphav.top:8443#Mokhabrat+2+%40dailyv2ry%E2%9D%A4ss://Y2hhY2hhMjAtcG9seTEzMDU6VGVsZWdyYW0tSUQtVjJyYXlfQWxwaGE=@ss-panel.alphav.top:443#Mokhabrat+1+%40dailyv2ry%E2%9D%A4ss://Y2hhY2hhMjAtcG9seTEzMDU6VGVsZWdyYW0tSUQtVjJyYXlfQWxwaGE=@bia-kanal-asli.alphav.top:443#Hamrah+2+%40dailyv2ry%E2%9D%A4ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6VGVsZWdyYW0tSUQtVjJyYXlfQWxwaGE=@bia-kanal-asli.alphav.top:8443#Hamrah+1+%40dailyv2ry%E2%9D%A4
-vless://26225948-8f1b-429f-b45d-3772d01a145e@165.227.134.203:43233?path=%2F&security=none&encryption=none&type=ws#🇩🇪DE-MCI-@ELIV2RAY
 vless://16747acc-95c8-44ba-9b66-3d8a0c035347@49.13.126.64:2096/?type=grpc&encryption=none&sni=dash.cloudflare.com&fp=firefox&security=reality&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&sid=28f58957#🇩🇪@ELiV2RAY
 vless://75a747f3-f914-47dd-af5c-ec2f0a1438a6@91.107.181.102:29790/?type=grpc&encryption=none&sni=ea.com&fp=chrome&security=reality&pbk=gHpgh7fQoB9kzze4I6Pwvo8sXiAPIbja2ieX03dVjkE&sid=1bd52d06#🇩🇪Reality-@ELiV2RAY
 vless://55e0bcd5-fb8d-4ef7-9519-70f28b51dae0@116.203.131.97:443?mode=gun&security=reality&encryption=none&pbk=Soj156XmjzVViQwQ9MyUDANyOcOccHNT40DSDllhdVU&fp=firefox&spx=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY&type=grpc&serviceName=&sni=all2.vipfast1.xyz&sid=744c9deb#🇨🇵Reality-@ELiV2RAY
