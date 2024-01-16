@@ -1,6 +1,0 @@
-vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?type=tcp&security=reality&headerType=none&fp=chrome&sni=partner.g2.com&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#telegram:@o7b88
-vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:8443?type=grpc&security=reality&mode=gun&serviceName=g2com&fp=chrome&sni=partner.g2.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#telegram:@o7b88
-vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?type=tcp&security=reality&headerType=none&fp=chrome&sni=partner.g2.com&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#telegram:@o7b88
-vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:8443?type=grpc&security=reality&mode=gun&serviceName=g2com&fp=chrome&sni=partner.g2.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#telegram:@o7b88
-vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?type=tcp&security=reality&headerType=none&fp=chrome&sni=partner.g2.com&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#telegram:@o7b88
-vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:8443?type=grpc&security=reality&mode=gun&serviceName=g2com&fp=chrome&sni=partner.g2.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#telegram:@o7b88
