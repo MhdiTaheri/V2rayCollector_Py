@@ -2,6 +2,8 @@ vless://3c088323-70b2-4a48-8882-7331de3d761f@tunnel2.allform.top:16772?security=
 vless://3c088323-70b2-4a48-8882-7331de3d761f@tunnel2.allform.top:16772?security=reality&encryption=none&pbk=6SGt08L4xAjQPJKlPaya8Ee5zIwZHh9DNknxXwZXJDo&headerType=none&fp=firefox&spx=%2Fdownload&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=9a2b6bed#🇩🇪Reality-ELiV2RAY
 vless://c99c85a9-5e25-4e46-8674-7dafd4ccc486@81.12.27.30:19142?path=%2F&security=none&encryption=none&type=ws#@ELiV2RAY
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
+vless://be116e54-f06b-4cae-9eae-e4c658131b2a@customc.melodyfree.xyz:2053?security=none&encryption=none&headerType=none&type=tcp#%5B%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%DA%A9%3AFREE_TEST_KINGHOOMAN%2FVIP%5D
+vless://be116e54-f06b-4cae-9eae-e4c658131b2a@kinghooman.melodyfree.xyz:2053?security=none&encryption=none&headerType=none&type=tcp#%5B%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%DA%A9%3AFREE_TEST_KINGHOOMAN%2FVIP%5D
 vless://7c97f4b9-4e6f-4fa5-f163-b47fb78e2322@appleplus.chartacharta.monster:49589?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6kozca6p
 vless://d4bd1237-afa2-43b1-8c9b-9ed2eb370b2f@appleplus.mashalla.monster:54906?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6thc7mg2
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
