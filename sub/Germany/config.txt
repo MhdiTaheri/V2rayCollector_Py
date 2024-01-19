@@ -1,3 +1,9 @@
+vless://4c221afa-77ad-44b7-da4b-e1407b5e7b6d@167.233.13.48:8880?path=%2F&security=none&encryption=none&type=ws#@Ch_V2rayNGG
+vless://270f266a-63ba-406c-9087-28973ee7356c@195.201.6.97:330?security=reality&encryption=none&pbk=aKDCP8N-I_rt3CXtRc2TaLqHWGrZ48aDa6W9e7PblTs&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=dash.cloudflare.com#@Ch_V2rayNGG
+vless://4c221afa-77ad-44b7-da4b-e1407b5e7b6d@167.233.13.48:8880?path=%2F&security=none&encryption=none&type=ws#@Ch_V2rayNGG
+vless://270f266a-63ba-406c-9087-28973ee7356c@195.201.6.97:330?security=reality&encryption=none&pbk=aKDCP8N-I_rt3CXtRc2TaLqHWGrZ48aDa6W9e7PblTs&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=dash.cloudflare.com#@Ch_V2rayNGG
+vless://4c221afa-77ad-44b7-da4b-e1407b5e7b6d@167.233.13.48:8880?path=%2F&security=none&encryption=none&type=ws#@Ch_V2rayNGG
+vless://270f266a-63ba-406c-9087-28973ee7356c@195.201.6.97:330?security=reality&encryption=none&pbk=aKDCP8N-I_rt3CXtRc2TaLqHWGrZ48aDa6W9e7PblTs&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=dash.cloudflare.com#@Ch_V2rayNGG
 vless://270f266a-63ba-406c-9087-28973ee7356c@195.201.6.97:330?security=reality&encryption=none&pbk=aKDCP8N-I_rt3CXtRc2TaLqHWGrZ48aDa6W9e7PblTs&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=dash.cloudflare.com#R
 trojan://telegram-id-privatevpns@3.127.92.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.199.51.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
