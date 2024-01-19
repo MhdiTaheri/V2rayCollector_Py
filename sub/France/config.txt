@@ -1,6 +1,9 @@
 vless://e8e625a5-922b-4d93-8575-d08bd85bb684@57.128.16.152:27725?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
+trojan://telegram-id-directvpn@13.39.58.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN`
 vless://e8e625a5-922b-4d93-8575-d08bd85bb684@57.128.16.152:27725?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
+trojan://telegram-id-directvpn@13.39.58.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 vless://e8e625a5-922b-4d93-8575-d08bd85bb684@57.128.16.152:27725?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
+trojan://telegram-id-directvpn@13.39.58.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN`
 trojan://telegram-id-privatevpns@15.188.12.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.88.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S116)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.5.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S105)🇨🇵t.me/PrivateVPNs
@@ -13,9 +16,9 @@ trojan://telegram-id-privatevpns@15.188.12.145:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.39.88.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S116)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.5.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.32.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S106)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-directvpn@51.44.3.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@35.180.94.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@35.181.182.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@13.39.58.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5600#t.me%2FOutlineVpnOfficial%20%7C%20%282008%29%20FR
 trojan://telegram-id-privatevpns@15.188.12.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.88.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S116)🇨🇵t.me/PrivateVPNs
