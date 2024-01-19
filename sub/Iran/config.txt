@@ -5,7 +5,6 @@ vless://2180d14d-86f9-411e-a5c3-48bda809fa81@nim.webobin.site:8080?path=%2F&secu
 vless://3c088323-70b2-4a48-8882-7331de3d761f@tunnel2.allform.top:16772?security=reality&encryption=none&pbk=6SGt08L4xAjQPJKlPaya8Ee5zIwZHh9DNknxXwZXJDo&headerType=none&fp=firefox&spx=%2Fdownload&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=9a2b6bed#🇩🇪Reality-ELiV2RAY
 vless://3c088323-70b2-4a48-8882-7331de3d761f@tunnel2.allform.top:16772?security=reality&encryption=none&pbk=6SGt08L4xAjQPJKlPaya8Ee5zIwZHh9DNknxXwZXJDo&headerType=none&fp=firefox&spx=%2Fdownload&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=9a2b6bed#🇩🇪Reality-ELiV2RAY
 vless://c99c85a9-5e25-4e46-8674-7dafd4ccc486@81.12.27.30:19142?path=%2F&security=none&encryption=none&type=ws#@ELiV2RAY
-vless://199c07f3-60ea-4df8-c5cd-64287a30aea4@37.32.4.183:54462/@ELiV2RAY-@ELiV2RAY?type=ws&encryption=none&path=%2F#
 vless://efe70b53-38d6-4434-f41c-ad45862a9cd6@85.133.253.206:28585/?type=ws&encryption=none&path=%2F#ALL-@ELiV2RAY
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
 vless://7c97f4b9-4e6f-4fa5-f163-b47fb78e2322@appleplus.chartacharta.monster:49589?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6kozca6p
