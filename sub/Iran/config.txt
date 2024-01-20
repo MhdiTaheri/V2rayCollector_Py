@@ -1,3 +1,6 @@
+vless://efe70b53-38d6-4434-f41c-ad45862a9cd6@85.133.253.206:28585?path=%2F&security=none&encryption=none&type=ws#telegram+%40proxy_mtm
+vless://efe70b53-38d6-4434-f41c-ad45862a9cd6@85.133.253.206:28585?path=%2F&security=none&encryption=none&type=ws#telegram+%40proxy_mtm
+vless://efe70b53-38d6-4434-f41c-ad45862a9cd6@85.133.253.206:28585?path=%2F&security=none&encryption=none&type=ws#telegram+%40proxy_mtm
 vless://6435aa64-be46-4145-a05f-e074d5aebc43@81.12.27.16:2046?path=%2F&security=none&encryption=none&type=ws#MCI1
 vless://c99c85a9-5e25-4e46-8674-7dafd4ccc486@81.12.27.30:19142?path=%2F&security=none&encryption=none&type=ws#ELiV2RAYMCI
 vless://efe70b53-38d6-4434-f41c-ad45862a9cd6@85.133.253.206:28585?path=%2F&security=none&encryption=none&type=ws#Eli2
