@@ -1,6 +1,9 @@
-vless://74223fa8-3352-485f-9a73-668c85d992fa@57.128.60.71:48520?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%7CFR%7C%E6%B3%95%E5%9B%BD%7C%40wxgqlfx%7C41
-vless://74223fa8-3352-485f-9a73-668c85d992fa@57.128.60.71:48520?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%7CFR%7C%E6%B3%95%E5%9B%BD%7C%40wxgqlfx%7C41
-vless://74223fa8-3352-485f-9a73-668c85d992fa@57.128.60.71:48520?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%7CFR%7C%E6%B3%95%E5%9B%BD%7C%40wxgqlfx%7C41
+vless://02b533fd-1554-4f9f-ae7c-567c9bdc7e71@57.128.16.152:27725?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
+vless://02b533fd-1554-4f9f-ae7c-567c9bdc7e71@57.128.16.152:27725?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
+vless://02b533fd-1554-4f9f-ae7c-567c9bdc7e71@57.128.16.152:27725?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
+vless://02b533fd-1554-4f9f-ae7c-567c9bdc7e71@57.128.16.152:27725?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
+vless://02b533fd-1554-4f9f-ae7c-567c9bdc7e71@57.128.16.152:27725?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
+vless://02b533fd-1554-4f9f-ae7c-567c9bdc7e71@57.128.16.152:27725?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
 trojan://telegram-id-privatevpns@13.37.5.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.32.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.36.42.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
