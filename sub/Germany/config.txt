@@ -1,9 +1,3 @@
-vless://27df0898-df94-46b1-8fee-f1fbc1a7dde8@49.13.158.167:31811?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#@meli_proxyy`
-vless://f77daf83-828f-43e2-a4d0-bdd2ba837d7e@49.13.158.167:31811?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#@meli_proxyy`
-vless://27df0898-df94-46b1-8fee-f1fbc1a7dde8@49.13.158.167:31811?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#@meli_proxyy
-vless://f77daf83-828f-43e2-a4d0-bdd2ba837d7e@49.13.158.167:31811?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#@meli_proxyy
-vless://27df0898-df94-46b1-8fee-f1fbc1a7dde8@49.13.158.167:31811?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#@meli_proxyy`
-vless://f77daf83-828f-43e2-a4d0-bdd2ba837d7e@49.13.158.167:31811?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#@meli_proxyy`
 vless://270f266a-63ba-406c-9087-28973ee7356c@195.201.6.97:330?security=reality&encryption=none&pbk=aKDCP8N-I_rt3CXtRc2TaLqHWGrZ48aDa6W9e7PblTs&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=dash.cloudflare.com#R
 trojan://telegram-id-privatevpns@3.126.226.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.64.15.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
