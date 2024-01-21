@@ -1,4 +1,7 @@
 vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281397%29%20TR
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#@Shahbaaba%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#@Shahbaaba%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#@Shahbaaba%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 ss://YWVzLTI1Ni1nY206UHFHcGhYV1dGdw==@tr-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282017%29%20TR
 vless://0d690b77-f066-41ec-9dfc-b2e560937d8a@84.32.230.81:443/@ELiV2RAY?type=grpc&encryption=none&serviceName=Dr.Phone&sni=sourceforge.net&fp=chrome&security=reality&pbk=eSq2viks3QTjVd77cFKfenQfxAL2JBxoJX9xxblcsno&sid=7b6e4dd3#🇹🇷TR-@ELiV2RAY
 vless://ba99e64a-95b9-4eeb-bde4-470a5ed5d0c1@gold.tap4connect.me:63006?security=none&encryption=none&headerType=http&type=tcp#
