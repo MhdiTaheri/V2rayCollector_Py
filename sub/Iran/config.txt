@@ -1,6 +1,3 @@
-vless://ID---TUNELSERVER---@reza.mrv2ray.com:443?security=none&encryption=none&headerType=http&type=tcp#%40IRAN_V2RAY1`
-vless://ID---TUNELSERVER---@reza.mrv2ray.com:443?security=none&encryption=none&headerType=http&type=tcp#%40IRAN_V2RAY1
-vless://ID---TUNELSERVER---@reza.mrv2ray.com:443?security=none&encryption=none&headerType=http&type=tcp#%40IRAN_V2RAY1`
 vless://6435aa64-be46-4145-a05f-e074d5aebc43@81.12.27.16:2046?path=%2F&security=none&encryption=none&type=ws#MCI1
 vless://c99c85a9-5e25-4e46-8674-7dafd4ccc486@81.12.27.30:19142?path=%2F&security=none&encryption=none&type=ws#ELiV2RAYMCI
 vless://efe70b53-38d6-4434-f41c-ad45862a9cd6@85.133.253.206:28585?path=%2F&security=none&encryption=none&type=ws#Eli2
@@ -16,9 +13,6 @@ vless://d4bd1237-afa2-43b1-8c9b-9ed2eb370b2f@appleplus.mashalla.monster:54906?pa
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
-vless://VPNCUSTOMIZE@snapp.ir:80?host=upload.ir&type=ws#تست کنید نتیجه بگید😭خاموش کردم
-vless://VPNCUSTOMIZE@snapp.ir:80?host=upload.ir&type=ws#تست کنید نتیجه بگید😭خاموش کردم
-vless://VPNCUSTOMIZE@snapp.ir:80?host=upload.ir&type=ws#تست کنید نتیجه بگید😭خاموش کردم
 vless://32849afc-1632-4273-9db6-833dc02a7af7@free.miladiran1.shop:2001?security=none&encryption=none&headerType=http&type=tcp#%40vipvpn_v2ray%E2%9C%A8
 vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=none&encryption=none&headerType=http&type=tcp#%40vipvpn_v2ray%F0%9F%92%AF
 vless://c150043e-3d85-4474-b816-8e9ced5e4aae@31.216.62.112:556/?encryption=none&host=abiiidar.divarcdn.com.wallex.ir&type=tcp&headerType=http#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfigvless://a57d406c-796a-4b4a-a0d0-e410ddbe5bf6@188.213.199.74:1710/?encryption=none&flow=&host=Discord.com&type=tcp&headerType=http#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfigvless://06c912d6-2727-40f5-8f26-f295dfaacf6e@206.238.236.206:8443/?type=grpc&encryption=none&serviceName=freevpn&security=tls&sni=xn-----dtda1bdpbd8qc57j1kf.freedns.site&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%40FreakConfig
