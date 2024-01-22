@@ -1,6 +1,3 @@
-vless://a57d406c-796a-4b4a-a0d0-e410ddbe5bf6@188.213.199.74:1710?security=none&encryption=none&host=Discord.com&headerType=http&type=tcp#%40v2rayngzendegimamad%F0%9F%95%8A%EF%B8%8F`
-vless://a57d406c-796a-4b4a-a0d0-e410ddbe5bf6@188.213.199.74:1710?security=none&encryption=none&host=Discord.com&headerType=http&type=tcp#%40v2rayngzendegimamad%F0%9F%95%8A%EF%B8%8F
-vless://a57d406c-796a-4b4a-a0d0-e410ddbe5bf6@188.213.199.74:1710?security=none&encryption=none&host=Discord.com&headerType=http&type=tcp#%40v2rayngzendegimamad%F0%9F%95%8A%EF%B8%8F`
 vless://6435aa64-be46-4145-a05f-e074d5aebc43@81.12.27.16:2046?path=%2F&security=none&encryption=none&type=ws#MCI1
 vless://c99c85a9-5e25-4e46-8674-7dafd4ccc486@81.12.27.30:19142?path=%2F&security=none&encryption=none&type=ws#ELiV2RAYMCI
 vless://efe70b53-38d6-4434-f41c-ad45862a9cd6@85.133.253.206:28585?path=%2F&security=none&encryption=none&type=ws#Eli2
