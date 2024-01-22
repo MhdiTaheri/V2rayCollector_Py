@@ -1,1 +1,6 @@
+trojan://07f10d31-d247-440e-a921-23862e1148a9@sk01.trojanyyds.xyz:443?security=tls&headerType=none&type=tcp&sni=sk01.trojanyyds.xyz#%F0%9F%87%AF%F0%9F%87%B5%7CJP%7C%E6%97%A5%E6%9C%AC%7C%40wxgqlfx%7C14
+trojan://07f10d31-d247-440e-a921-23862e1148a9@sk01.trojanyyds.xyz:443?security=tls&headerType=none&type=tcp&sni=sk01.trojanyyds.xyz#%F0%9F%87%AF%F0%9F%87%B5%7CJP%7C%E6%97%A5%E6%9C%AC%7C%40wxgqlfx%7C14
+trojan://07f10d31-d247-440e-a921-23862e1148a9@in01.trojanyyds.xyz:443?security=tls&headerType=none&type=tcp&sni=in01.trojanyyds.xyz#%F0%9F%87%AD%F0%9F%87%B0%7CHK%7C%E9%A6%99%E6%B8%AF%7C%40wxgqlfx%7C16
+trojan://07f10d31-d247-440e-a921-23862e1148a9@sk01.trojanyyds.xyz:443?security=tls&headerType=none&type=tcp&sni=sk01.trojanyyds.xyz#%F0%9F%87%AF%F0%9F%87%B5%7CJP%7C%E6%97%A5%E6%9C%AC%7C%40wxgqlfx%7C14
+trojan://07f10d31-d247-440e-a921-23862e1148a9@in01.trojanyyds.xyz:443?security=tls&headerType=none&type=tcp&sni=in01.trojanyyds.xyz#%F0%9F%87%AD%F0%9F%87%B0%7CHK%7C%E9%A6%99%E6%B8%AF%7C%40wxgqlfx%7C16
 ss://YWVzLTI1Ni1nY206MHlaZVc4bE5VSTg2b0drU2drZ1BCLzBzS1oxQldyZ3J3RjloWXBRK0xRUT0=@jp-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282011%29%20JP
