@@ -1,0 +1,3 @@
+trojan://43fad462-cd67-5e80-a251-1145b94f9b0d@120.232.177.224:8313?security=tls&alpn=h2,http/1.1&headerType=none&type=tcp&sni=hk-13-568.duuk.info#%40free_shekan+%D8%AA%D8%B3%D8%AA%DB%8C`
+trojan://43fad462-cd67-5e80-a251-1145b94f9b0d@120.232.177.224:8313?security=tls&alpn=h2,http/1.1&headerType=none&type=tcp&sni=hk-13-568.duuk.info#%40free_shekan+%D8%AA%D8%B3%D8%AA%DB%8C
+trojan://43fad462-cd67-5e80-a251-1145b94f9b0d@120.232.177.224:8313?security=tls&alpn=h2,http/1.1&headerType=none&type=tcp&sni=hk-13-568.duuk.info#%40free_shekan+%D8%AA%D8%B3%D8%AA%DB%8C`
