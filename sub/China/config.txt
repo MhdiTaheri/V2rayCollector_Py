@@ -1,0 +1,9 @@
+trojan://43fad462-cd67-5e80-a251-1145b94f9b0d@120.232.177.224:8309/?type=tcp&security=tls&sni=hk-9-566.duuk.info#%F0%9F%9B%9023%40oneclickvpnkeys`
+trojan://43fad462-cd67-5e80-a251-1145b94f9b0d@120.232.177.224:8301/?type=tcp&security=tls&sni=hk-1-560.duuk.info#%F0%9F%9B%9028%40oneclickvpnkeys
+trojan://43fad462-cd67-5e80-a251-1145b94f9b0d@120.232.177.224:8011/?type=tcp&security=tls&sni=hk-11-497.duuk.info#%F0%9F%9B%9027%40oneclickvpnkeys`
+trojan://43fad462-cd67-5e80-a251-1145b94f9b0d@120.232.177.224:8309/?type=tcp&security=tls&sni=hk-9-566.duuk.info#%F0%9F%9B%9023%40oneclickvpnkeys
+trojan://43fad462-cd67-5e80-a251-1145b94f9b0d@120.232.177.224:8301/?type=tcp&security=tls&sni=hk-1-560.duuk.info#%F0%9F%9B%9028%40oneclickvpnkeys
+trojan://43fad462-cd67-5e80-a251-1145b94f9b0d@120.232.177.224:8011/?type=tcp&security=tls&sni=hk-11-497.duuk.info#%F0%9F%9B%9027%40oneclickvpnkeys
+trojan://43fad462-cd67-5e80-a251-1145b94f9b0d@120.232.177.224:8309/?type=tcp&security=tls&sni=hk-9-566.duuk.info#%F0%9F%9B%9023%40oneclickvpnkeys`
+trojan://43fad462-cd67-5e80-a251-1145b94f9b0d@120.232.177.224:8301/?type=tcp&security=tls&sni=hk-1-560.duuk.info#%F0%9F%9B%9028%40oneclickvpnkeys
+trojan://43fad462-cd67-5e80-a251-1145b94f9b0d@120.232.177.224:8011/?type=tcp&security=tls&sni=hk-11-497.duuk.info#%F0%9F%9B%9027%40oneclickvpnkeys`
