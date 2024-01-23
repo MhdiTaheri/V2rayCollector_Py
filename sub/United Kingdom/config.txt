@@ -28,6 +28,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RURCVWZMMlEwYlZxNDMyWFhvNUtF@51.104.230.125
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA+%40FreakConfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA+%40FreakConfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA+%40FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#serviceName=@ELiV2RAY@ELiV2RAY
 vless://b0bd8f69-f1bb-463b-9871-9c7430d061a3@198.244.211.128:26660/?type=grpc&encryption=none&sni=ea.com&fp=chrome&security=reality&pbk=HtcttM7t1OcuHNAtwnKH6XRmHyromTAy2yLapp9vamM&sid=00bfc73e#🇬🇧UK-Reality-@ELiV2RAY
+vless://b0bd8f69-f1bb-463b-9871-9c7430d061a3@198.244.211.128:26660?mode=gun&security=reality&encryption=none&pbk=HtcttM7t1OcuHNAtwnKH6XRmHyromTAy2yLapp9vamM&fp=chrome&spx=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY&type=grpc&serviceName=&sni=ea.com&sid=00bfc73e#%40ELiV2RAY
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%40proystore11
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#%40proxystore11
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#%40proxystore11
