@@ -1,3 +1,6 @@
+vless://bc1bcd44-ec6d-4520-8726-052eff3d4069@45.85.119.89:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&alpn=@mehrosaboran,@mehrosaboran&serviceName=%40L%49%47%48TN%49N%476&sni=liV2helg.LIGHTNING6.IR#%40mehrosaboran`
+vless://bc1bcd44-ec6d-4520-8726-052eff3d4069@45.85.119.89:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&alpn=@mehrosaboran,@mehrosaboran&serviceName=%40L%49%47%48TN%49N%476&sni=liV2helg.LIGHTNING6.IR#%40mehrosaboran
+vless://bc1bcd44-ec6d-4520-8726-052eff3d4069@45.85.119.89:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&alpn=@mehrosaboran,@mehrosaboran&serviceName=%40L%49%47%48TN%49N%476&sni=liV2helg.LIGHTNING6.IR#%40mehrosaboran`
 trojan://telegram-id-privatevpns@13.42.93.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.168.161.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.8.229.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S107)🇬🇧t.me/PrivateVPNs
