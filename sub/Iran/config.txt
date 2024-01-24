@@ -1,6 +1,3 @@
-vless://3de8c44d-c094-47d2-89dd-36b41a3accb3@95.81.90.83:5112?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%5BTunnel%F0%9F%87%AE%F0%9F%87%B7%5D+%E2%9E%A0+%40V2RaySeven+-+All`
-vless://3de8c44d-c094-47d2-89dd-36b41a3accb3@95.81.90.83:5112?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%5BTunnel%F0%9F%87%AE%F0%9F%87%B7%5D+%E2%9E%A0+%40V2RaySeven+-+All
-vless://3de8c44d-c094-47d2-89dd-36b41a3accb3@95.81.90.83:5112?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%5BTunnel%F0%9F%87%AE%F0%9F%87%B7%5D+%E2%9E%A0+%40V2RaySeven+-+All`
 vless://6435aa64-be46-4145-a05f-e074d5aebc43@81.12.27.16:2046?path=%2F&security=none&encryption=none&type=ws#MCI1
 vless://c99c85a9-5e25-4e46-8674-7dafd4ccc486@81.12.27.30:19142?path=%2F&security=none&encryption=none&type=ws#ELiV2RAYMCI
 vless://efe70b53-38d6-4434-f41c-ad45862a9cd6@85.133.253.206:28585?path=%2F&security=none&encryption=none&type=ws#Eli2
