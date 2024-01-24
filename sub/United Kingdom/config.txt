@@ -1,6 +1,6 @@
-vless://bc1bcd44-ec6d-4520-8726-052eff3d4069@45.85.119.89:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&alpn=@mehrosaboran,@mehrosaboran&serviceName=%40L%49%47%48TN%49N%476&sni=liV2helg.LIGHTNING6.IR#%40mehrosaboran`
-vless://bc1bcd44-ec6d-4520-8726-052eff3d4069@45.85.119.89:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&alpn=@mehrosaboran,@mehrosaboran&serviceName=%40L%49%47%48TN%49N%476&sni=liV2helg.LIGHTNING6.IR#%40mehrosaboran
-vless://bc1bcd44-ec6d-4520-8726-052eff3d4069@45.85.119.89:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&alpn=@mehrosaboran,@mehrosaboran&serviceName=%40L%49%47%48TN%49N%476&sni=liV2helg.LIGHTNING6.IR#%40mehrosaboran`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%40D_YOU_FERR+.+.+.+%F0%9F%92%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%40D_YOU_FERR+.+.+.+%F0%9F%92%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%40D_YOU_FERR+.+.+.+%F0%9F%92%A3
 trojan://telegram-id-privatevpns@13.42.93.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.168.161.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.8.229.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S107)🇬🇧t.me/PrivateVPNs
@@ -13,15 +13,11 @@ trojan://telegram-id-privatevpns@13.42.93.32:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@18.168.161.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.8.229.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.10.166.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S108)🇬🇧t.me/PrivateVPNs
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#%40proxystore11
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#%40proxystore11
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40proxystore11
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#%40proxystore11
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#proxystore11%7Cmci
-trojan://telegram-id-directvpn@3.11.123.54:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.132.4.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.134.172.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#t.me%2FOutlineVpnOfficial%20%7C%20%282019%29%20GB
@@ -31,9 +27,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehh
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA+%40FreakConfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA+%40FreakConfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA+%40FreakConfig
 vless://b0bd8f69-f1bb-463b-9871-9c7430d061a3@198.244.211.128:26660/?type=grpc&encryption=none&sni=ea.com&fp=chrome&security=reality&pbk=HtcttM7t1OcuHNAtwnKH6XRmHyromTAy2yLapp9vamM&sid=00bfc73e#🇬🇧UK-Reality-@ELiV2RAY
 vless://b0bd8f69-f1bb-463b-9871-9c7430d061a3@198.244.211.128:26660?mode=gun&security=reality&encryption=none&pbk=HtcttM7t1OcuHNAtwnKH6XRmHyromTAy2yLapp9vamM&fp=chrome&spx=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY&type=grpc&serviceName=&sni=ea.com&sid=00bfc73e#%40ELiV2RAY
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#%40proxystore11
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#%40proxystore11
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40proxystore11
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#%40proxystore11
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#%40proxystore11
