@@ -1,5 +1,2 @@
 vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281397%29%20TR
-vless://0a3c1e43-7778-4737-9a27-d31103ba0bf2@84.32.230.81:443?encryption=none&flow=&fp=chrome&pbk=eSq2viks3QTjVd77cFKfenQfxAL2JBxoJX9xxblcsno&security=reality&serviceName=Dr.Phone&sid=7b6e4dd3&sni=sourceforge.net&type=grpc#4✊t.me/vPlusVPN_FREE`
-vless://0a3c1e43-7778-4737-9a27-d31103ba0bf2@84.32.230.81:443?encryption=none&flow=&fp=chrome&pbk=eSq2viks3QTjVd77cFKfenQfxAL2JBxoJX9xxblcsno&security=reality&serviceName=Dr.Phone&sid=7b6e4dd3&sni=sourceforge.net&type=grpc#4✊t.me/vPlusVPN_FREE
-vless://0a3c1e43-7778-4737-9a27-d31103ba0bf2@84.32.230.81:443?encryption=none&flow=&fp=chrome&pbk=eSq2viks3QTjVd77cFKfenQfxAL2JBxoJX9xxblcsno&security=reality&serviceName=Dr.Phone&sid=7b6e4dd3&sni=sourceforge.net&type=grpc#4✊t.me/vPlusVPN_FREE`
 ss://YWVzLTI1Ni1nY206UHFHcGhYV1dGdw==@tr-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282017%29%20TR
