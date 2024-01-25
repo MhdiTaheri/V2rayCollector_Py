@@ -1,6 +1,3 @@
 vless://a8f1f548-2d45-4ba2-8ec0-082aefebff9f@95.164.84.87:443/?encryption=none&flow=&host=ponisha.ir&type=tcp&headerType=http#%F0%9D%97%A9%F0%9D%97%9C%F0%9D%97%A3%20%40daemi100
 vless://a8f1f548-2d45-4ba2-8ec0-082aefebff9f@95.164.84.87:443/?encryption=none&flow=&host=ponisha.ir&type=tcp&headerType=http#%F0%9D%97%A9%F0%9D%97%9C%F0%9D%97%A3%20%40daemi100
 vless://a8f1f548-2d45-4ba2-8ec0-082aefebff9f@95.164.84.87:443/?encryption=none&flow=&host=ponisha.ir&type=tcp&headerType=http#%F0%9D%97%A9%F0%9D%97%9C%F0%9D%97%A3%20%40daemi100
-vless://a8f1f548-2d45-4ba2-8ec0-082aefebff9f@95.164.84.87:443/?encryption=none&flow=&host=ponisha.ir&type=tcp&headerType=http#%F0%9D%97%A9%F0%9D%97%9C%F0%9D%97%A3%20%40daemi100
-vless://a8f1f548-2d45-4ba2-8ec0-082aefebff9f@95.164.84.87:443/?encryption=none&flow=&host=ponisha.ir&type=tcp&headerType=http#%F0%9D%97%A9%F0%9D%97%9C%F0%9D%97%A3%20%40daemi100
-vless://a8f1f548-2d45-4ba2-8ec0-082aefebff9f@95.164.84.87:443/?encryption=none&flow=&host=ponisha.ir&type=tcp&headerType=http#%F0%9D%97%A9%F0%9D%97%9C%F0%9D%97%A3%20%40daemi100
