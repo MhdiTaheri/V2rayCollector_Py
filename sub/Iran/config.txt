@@ -1,3 +1,6 @@
+vless://1458c980-9526-426f-b9bf-96af090e6aa0@de1.best-ping.com:80?type=ws&path=%2Fbest-ping.com&security=none#V2-P420
+vless://1458c980-9526-426f-b9bf-96af090e6aa0@de1.best-ping.com:80?type=ws&path=%2Fbest-ping.com&security=none#V2-P420
+vless://1458c980-9526-426f-b9bf-96af090e6aa0@de1.best-ping.com:80?type=ws&path=%2Fbest-ping.com&security=none#V2-P420
 vless://6435aa64-be46-4145-a05f-e074d5aebc43@81.12.27.16:2046?path=%2F&security=none&encryption=none&type=ws#MCI1
 vless://c99c85a9-5e25-4e46-8674-7dafd4ccc486@81.12.27.30:19142?path=%2F&security=none&encryption=none&type=ws#ELiV2RAYMCI
 vless://efe70b53-38d6-4434-f41c-ad45862a9cd6@85.133.253.206:28585?path=%2F&security=none&encryption=none&type=ws#Eli2
