@@ -1,13 +1,4 @@
 trojan://6229112c-62ef-4a35-a96a-2c09d29f5a0a@ca-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281393%29%20CA
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@tel.icv2ray.top:443?path=tel.iCV2ray.space&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#@icv2ray+%7C+iOS+%C2%B9`
-vless://89420825-e589-4735-bee1-6dc636fca343@tel.icv2ray.top:443?path=tel.iCV2ray.space&security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#@icv2ray+%7C+iOS+%C2%B2`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYSHI4UXBuRVhXNTd1TFNzdlZESDJx@toronto.telegavpn.org:31024#🇨🇦 Toronto, 2 GB, FREE`
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@tel.icv2ray.top:443?path=tel.iCV2ray.space&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#@icv2ray+%7C+iOS+%C2%B9
-vless://89420825-e589-4735-bee1-6dc636fca343@tel.icv2ray.top:443?path=tel.iCV2ray.space&security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#@icv2ray+%7C+iOS+%C2%B2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYSHI4UXBuRVhXNTd1TFNzdlZESDJx@toronto.telegavpn.org:31024#🇨🇦 Toronto, 2 GB, FREE
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@tel.icv2ray.top:443?path=tel.iCV2ray.space&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#@icv2ray+%7C+iOS+%C2%B9`
-vless://89420825-e589-4735-bee1-6dc636fca343@tel.icv2ray.top:443?path=tel.iCV2ray.space&security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#@icv2ray+%7C+iOS+%C2%B2`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYSHI4UXBuRVhXNTd1TFNzdlZESDJx@toronto.telegavpn.org:31024#🇨🇦 Toronto, 2 GB, FREE`
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.86.199:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.172.99:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@188.114.96.18:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#%40proxystore11
