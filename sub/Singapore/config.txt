@@ -1,7 +1,4 @@
 trojan://05699368-52c7-4ae7-bef9-bd9099718f4e@sg-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281396%29%20SG
-trojan://l7I7dNCvS0@xkalindu.xconfigz.win:44069?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=m.instagram.com#Mobitel%20Bypass-lf2609ou`
-trojan://l7I7dNCvS0@xkalindu.xconfigz.win:44069?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=m.instagram.com#Mobitel%20Bypass-lf2609ou
-trojan://l7I7dNCvS0@xkalindu.xconfigz.win:44069?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=m.instagram.com#Mobitel%20Bypass-lf2609ou`
 ss://YWVzLTI1Ni1nY206RHZNZVkvUzhjM2hzU1FxckwxYVdibGFIc2NFVlEwM2w1bEZnbmVNeDU2Yz0=@sg-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282015%29%20SG
 vless://21215632-e7a7-41e9-f88e-7b650eefee95@45.76.177.253:36223/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=ws&encryption=none&host=m.zoom.us&path=%2F#@S2-@ELiV2RAY
 ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw@103.172.116.90:9098#ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@103.172.116.90:9001#ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@103.172.116.90:9011#ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ@103.172.116.90:9000#ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg@103.172.116.79:9015#trojan://telegram-id-privatevpns@16.170.51.88:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk&alpn=http%2F1.1#
