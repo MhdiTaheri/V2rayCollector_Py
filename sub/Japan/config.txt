@@ -1,4 +1,1 @@
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp06a.roc-taiwan.org.ua:65016?security=tls&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP-153.120.4.221-6367`
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp06a.roc-taiwan.org.ua:65016?security=tls&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP-153.120.4.221-6367
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp06a.roc-taiwan.org.ua:65016?security=tls&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP-153.120.4.221-6367`
 ss://YWVzLTI1Ni1nY206MHlaZVc4bE5VSTg2b0drU2drZ1BCLzBzS1oxQldyZ3J3RjloWXBRK0xRUT0=@jp-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282011%29%20JP
