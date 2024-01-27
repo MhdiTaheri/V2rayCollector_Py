@@ -1,14 +1,8 @@
 vless://04dc7b3a-1814-4af2-a53a-d08d5b86b345@78.141.193.208:41085?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
 vless://04dc7b3a-1814-4af2-a53a-d08d5b86b345@78.141.193.208:41085?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Av2ray_swhil%40%E2%9C%85
 vless://04dc7b3a-1814-4af2-a53a-d08d5b86b345@78.141.193.208:41085?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
 vless://04dc7b3a-1814-4af2-a53a-d08d5b86b345@78.141.193.208:41085?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
 vless://04dc7b3a-1814-4af2-a53a-d08d5b86b345@78.141.193.208:41085?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Av2ray_swhil%40%E2%9C%85
-vless://04dc7b3a-1814-4af2-a53a-d08d5b86b345@78.141.193.208:41085?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
-vless://04dc7b3a-1814-4af2-a53a-d08d5b86b345@78.141.193.208:41085?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
-vless://04dc7b3a-1814-4af2-a53a-d08d5b86b345@78.141.193.208:41085?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Av2ray_swhil%40%E2%9C%85
 vless://04dc7b3a-1814-4af2-a53a-d08d5b86b345@78.141.193.208:41085?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
 trojan://telegram-id-privatevpns@35.176.164.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.176.22.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S108)🇬🇧t.me/PrivateVPNs
@@ -25,7 +19,6 @@ trojan://telegram-id-privatevpns@13.41.123.35:22222?security=tls&alpn=http/1.1&h
 vless://d8481cdf-e3ca-496a-ca9c-040363a5b4cf@146.19.230.94:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=b1.korda.top&sni=b1.korda.top#proxystore11%7Cmtn%E2%9D%A4%EF%B8%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#proxystore11%7Cmci%E2%9D%A4%EF%B8%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#proxystore11%7Cmci%E2%9D%A4%EF%B8%8F
-trojan://telegram-id-directvpn@3.11.191.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.130.166.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.9.41.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#t.me%2FOutlineVpnOfficial%20%7C%20%282019%29%20GB
