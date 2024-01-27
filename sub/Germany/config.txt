@@ -1,6 +1,12 @@
-vless://Telegram---V2ray_vpn_ir@209.38.188.68:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&type=ws#https://t.me/m_vipv2ray
-vless://Telegram---V2ray_vpn_ir@209.38.188.68:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&type=ws#https://t.me/m_vipv2ray
-vless://Telegram---V2ray_vpn_ir@209.38.188.68:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&type=ws#https://t.me/m_vipv2ray
+vless://2d108394-56db-4523-a8ae-bd7ba6de10cc@167.235.143.177:443?encryption=none&flow=&fp=chrome&pbk=Kb87OWrViwqYeR7NV3xg406NRviqZ6d0MdzcGf89qjI&security=reality&sid=57b65cc1b228c7c1&sni=upmusics.com&type=grpc#7✊t.me/vPlusVPN_FREE`
+vless://ac4ca222-1c50-4f96-bd13-7a9498f8ea28@49.13.72.241:443?fp=firefox&pbk=pj7hhjVTqfsjNw7vIMQFwT6nzdbHLNAyUveeRhv5vw4&security=reality&serviceName=%40Fnet00&sid=0960546b&sni=greenpepper.ir&spx=%2F&type=grpc#5✊t.me/vPlusVPN_FREE`
+vless://fd8959a7-1e3d-41d3-bc03-60686c2081c9@167.71.33.74:8080?encryption=none&fp=chrome&mode=gun&pbk=TdyVchT3qabnfav2_oXs8JPA6EP4_1OLF4AM2uKTtU0&security=reality&serviceName=%40ZEDMODEON&sid=977ebe48&sni=itpsysteme.de&spx=%2F&type=grpc#6✊t.me/vPlusVPN_FREE`
+vless://2d108394-56db-4523-a8ae-bd7ba6de10cc@167.235.143.177:443?encryption=none&flow=&fp=chrome&pbk=Kb87OWrViwqYeR7NV3xg406NRviqZ6d0MdzcGf89qjI&security=reality&sid=57b65cc1b228c7c1&sni=upmusics.com&type=grpc#7✊t.me/vPlusVPN_FREE
+vless://ac4ca222-1c50-4f96-bd13-7a9498f8ea28@49.13.72.241:443?fp=firefox&pbk=pj7hhjVTqfsjNw7vIMQFwT6nzdbHLNAyUveeRhv5vw4&security=reality&serviceName=%40Fnet00&sid=0960546b&sni=greenpepper.ir&spx=%2F&type=grpc#5✊t.me/vPlusVPN_FREE
+vless://fd8959a7-1e3d-41d3-bc03-60686c2081c9@167.71.33.74:8080?encryption=none&fp=chrome&mode=gun&pbk=TdyVchT3qabnfav2_oXs8JPA6EP4_1OLF4AM2uKTtU0&security=reality&serviceName=%40ZEDMODEON&sid=977ebe48&sni=itpsysteme.de&spx=%2F&type=grpc#6✊t.me/vPlusVPN_FREE
+vless://2d108394-56db-4523-a8ae-bd7ba6de10cc@167.235.143.177:443?encryption=none&flow=&fp=chrome&pbk=Kb87OWrViwqYeR7NV3xg406NRviqZ6d0MdzcGf89qjI&security=reality&sid=57b65cc1b228c7c1&sni=upmusics.com&type=grpc#7✊t.me/vPlusVPN_FREE`
+vless://ac4ca222-1c50-4f96-bd13-7a9498f8ea28@49.13.72.241:443?fp=firefox&pbk=pj7hhjVTqfsjNw7vIMQFwT6nzdbHLNAyUveeRhv5vw4&security=reality&serviceName=%40Fnet00&sid=0960546b&sni=greenpepper.ir&spx=%2F&type=grpc#5✊t.me/vPlusVPN_FREE`
+vless://fd8959a7-1e3d-41d3-bc03-60686c2081c9@167.71.33.74:8080?encryption=none&fp=chrome&mode=gun&pbk=TdyVchT3qabnfav2_oXs8JPA6EP4_1OLF4AM2uKTtU0&security=reality&serviceName=%40ZEDMODEON&sid=977ebe48&sni=itpsysteme.de&spx=%2F&type=grpc#6✊t.me/vPlusVPN_FREE`
 trojan://telegram-id-privatevpns@18.195.57.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.158.252.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.195.57.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
