@@ -1,8 +1,5 @@
-vless://cf25a811-b67d-4710-8349-9e527e8cb93f@140.82.52.54:28524?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7C+TELEGRAM
 vless://cf25a811-b67d-4710-8349-9e527e8cb93f@140.82.52.54:28524?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇫🇷]t.me/ConfigsHub`
-vless://cf25a811-b67d-4710-8349-9e527e8cb93f@140.82.52.54:28524?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7C+TELEGRAM
 vless://cf25a811-b67d-4710-8349-9e527e8cb93f@140.82.52.54:28524?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇫🇷]t.me/ConfigsHub
-vless://cf25a811-b67d-4710-8349-9e527e8cb93f@140.82.52.54:28524?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7C+TELEGRAM
 vless://cf25a811-b67d-4710-8349-9e527e8cb93f@140.82.52.54:28524?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇫🇷]t.me/ConfigsHub`
 trojan://telegram-id-privatevpns@13.36.221.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.244.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S106)🇨🇵t.me/PrivateVPNs
