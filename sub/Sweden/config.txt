@@ -1,3 +1,6 @@
+vless://b44481aa-46c7-4d2f-e342-1317d65adfd2@reversereality2.freelines.net:443?type=grpc&mode=gun&security=reality&fp=chrome&sni=reversereality2.freelines.net&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&sid=#[🇸🇪]t.me/ConfigsHub`
+vless://b44481aa-46c7-4d2f-e342-1317d65adfd2@reversereality2.freelines.net:443?type=grpc&mode=gun&security=reality&fp=chrome&sni=reversereality2.freelines.net&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&sid=#[🇸🇪]t.me/ConfigsHub
+vless://b44481aa-46c7-4d2f-e342-1317d65adfd2@reversereality2.freelines.net:443?type=grpc&mode=gun&security=reality&fp=chrome&sni=reversereality2.freelines.net&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&sid=#[🇸🇪]t.me/ConfigsHub`
 trojan://telegram-id-privatevpns@13.51.245.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.170.72.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.51.103.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
@@ -8,7 +11,6 @@ trojan://telegram-id-privatevpns@13.51.245.154:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@16.170.72.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.51.103.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.16.23.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
-trojan://telegram-id-directvpn@13.50.74.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.51.87.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.50.177.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.20.214.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
