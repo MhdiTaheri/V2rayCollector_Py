@@ -1,12 +1,3 @@
-vless://9b56464e-c862-4731-8598-6ea09b7e6cfb@servers.xvon.in:80?path=%2F&security=tls&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://ed159622-fc02-452e-a292-a8e4bf7e9f89@1vvv.fastv2.com:23500?type=ws&security=none&path=%2F#[🇮🇷]t.me/ConfigsHub
-vless://f192af70-c55f-4ba8-e742-241966fe3d93@sataar.top:14886?type=ws&path=%2F&security=none#%40SATARVPN1-Join
-vless://9b56464e-c862-4731-8598-6ea09b7e6cfb@servers.xvon.in:80?path=%2F&security=tls&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://ed159622-fc02-452e-a292-a8e4bf7e9f89@1vvv.fastv2.com:23500?type=ws&security=none&path=%2F#[🇮🇷]t.me/ConfigsHub
-vless://f192af70-c55f-4ba8-e742-241966fe3d93@sataar.top:14886?type=ws&path=%2F&security=none#%40SATARVPN1-Join
-vless://9b56464e-c862-4731-8598-6ea09b7e6cfb@servers.xvon.in:80?path=%2F&security=tls&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://ed159622-fc02-452e-a292-a8e4bf7e9f89@1vvv.fastv2.com:23500?type=ws&security=none&path=%2F#[🇮🇷]t.me/ConfigsHub
-vless://f192af70-c55f-4ba8-e742-241966fe3d93@sataar.top:14886?type=ws&path=%2F&security=none#%40SATARVPN1-Join
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
 vless://90deb37c-afcd-43d0-8b3c-583023c4d861@193.151.158.118:2053?security=none&encryption=none&headerType=http&type=tcp#MCI+%F0%9F%87%BA%F0%9F%87%B8+%40VPN_OCEANvless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.16.30.241:80?path=%2F&security=none&encryption=none&host=public.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B785.shop&type=ws#MCI+%F0%9F%87%B3%F0%9F%87%B1+%40VPN_OCEAN#Lorax
 vless://90deb37c-afcd-43d0-8b3c-583023c4d861@193.151.158.118:2053?security=none&encryption=none&headerType=http&type=tcp#MCI+%F0%9F%87%BA%F0%9F%87%B8+%40VPN_OCEANvless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.16.30.241:80?path=%2F&security=none&encryption=none&host=public.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B785.shop&type=ws#MCI+%F0%9F%87%B3%F0%9F%87%B1+%40VPN_OCEAN
