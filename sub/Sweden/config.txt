@@ -1,9 +1,9 @@
+vless://3595a495-c1b1-4158-ae14-f598d3628083@70.34.202.18:40494?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
 vless://3595a495-c1b1-4158-ae14-f598d3628083@70.34.202.18:40494?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇸🇪]t.me/ConfigsHub`
 vless://3595a495-c1b1-4158-ae14-f598d3628083@70.34.202.18:40494?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
 vless://3595a495-c1b1-4158-ae14-f598d3628083@70.34.202.18:40494?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇸🇪]t.me/ConfigsHub
 vless://3595a495-c1b1-4158-ae14-f598d3628083@70.34.202.18:40494?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
 vless://3595a495-c1b1-4158-ae14-f598d3628083@70.34.202.18:40494?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇸🇪]t.me/ConfigsHub`
-vless://3595a495-c1b1-4158-ae14-f598d3628083@70.34.202.18:40494?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
 trojan://telegram-id-privatevpns@51.21.65.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.96.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.65.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
@@ -15,6 +15,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNUNFaWViU3VTbDJxRmtmRTR6dEcy@45.8.147.80:57
 vless://b44481aa-46c7-4d2f-e342-1317d65adfd2@70.34.217.61:443/?type=grpc&encryption=none&sni=reversereality2.freelines.net&alpn=h2&fp=chrome&security=reality&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&sid=#@ELiV2ray
 tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?congestion_control=bbr&udp_relay_mode=native&alpn=h3%2Cspdy%2F3.1&allow_insecure=1#S3+@ELiV2RAY
 tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@70.34.214.160:443/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?congestion_control=bbr&udp_relay_mode=native&alpn=h3%2Cspdy%2F3.1&allow_insecure=1#S4-@ELIV2RAY
+vless://b44481aa-46c7-4d2f-e342-1317d65adfd2@70.34.217.61:443?mode=gun&security=reality&encryption=none&alpn=h2&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&fp=chrome&spx=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY&type=grpc&serviceName=&sni=reversereality2.freelines.net#🇸🇪Reality-gRPC-@ELiV2RAY
 trojan://telegram-id-privatevpns@51.21.65.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.96.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@13.50.111.194:8443?security=reality&encryption=none&pbk=02kJWGZopoxAxP6vw5x_kyiWiqfBF881aaEEyWi2ogw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.makers.com&sid=3c#%40V2ray_NG
