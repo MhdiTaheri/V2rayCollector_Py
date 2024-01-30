@@ -1,2 +1,8 @@
 vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281397%29%20TR
+vless://127e469a-6838-45fe-92fc-c3e5dbe54d1c@ekhtelal.rmm83mir.online:21172?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%E2%87%9D+%40v2mystery+%E2%80%A2+%F0%9F%A5%95%DA%86%D9%86%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%D9%85%D9%88%D9%86`
+vless://127e469a-6838-45fe-92fc-c3e5dbe54d1c@ekhtelal.rmm83mir.online:21172?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇹🇷]t.me/ConfigsHub`
+vless://127e469a-6838-45fe-92fc-c3e5dbe54d1c@ekhtelal.rmm83mir.online:21172?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%E2%87%9D+%40v2mystery+%E2%80%A2+%F0%9F%A5%95%DA%86%D9%86%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%D9%85%D9%88%D9%86
+vless://127e469a-6838-45fe-92fc-c3e5dbe54d1c@ekhtelal.rmm83mir.online:21172?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇹🇷]t.me/ConfigsHub
+vless://127e469a-6838-45fe-92fc-c3e5dbe54d1c@ekhtelal.rmm83mir.online:21172?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%E2%87%9D+%40v2mystery+%E2%80%A2+%F0%9F%A5%95%DA%86%D9%86%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%D9%85%D9%88%D9%86`
+vless://127e469a-6838-45fe-92fc-c3e5dbe54d1c@ekhtelal.rmm83mir.online:21172?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇹🇷]t.me/ConfigsHub`
 ss://YWVzLTI1Ni1nY206UHFHcGhYV1dGdw==@tr-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282017%29%20TR

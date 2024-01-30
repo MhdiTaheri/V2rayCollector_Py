@@ -1,3 +1,6 @@
+vless://18e82ee0-3b88-48d1-9292-484c8051f690@49.13.135.58:443?security=reality&encryption=none&pbk=X5WLfJ82KCpBanu2EwML11CwJUM2NczTonML5hHwW2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.io&sid=b5b39d420f404069#[🇩🇪]t.me/ConfigsHub`
+vless://18e82ee0-3b88-48d1-9292-484c8051f690@49.13.135.58:443?security=reality&encryption=none&pbk=X5WLfJ82KCpBanu2EwML11CwJUM2NczTonML5hHwW2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.io&sid=b5b39d420f404069#[🇩🇪]t.me/ConfigsHub
+vless://18e82ee0-3b88-48d1-9292-484c8051f690@49.13.135.58:443?security=reality&encryption=none&pbk=X5WLfJ82KCpBanu2EwML11CwJUM2NczTonML5hHwW2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.io&sid=b5b39d420f404069#[🇩🇪]t.me/ConfigsHub`
 trojan://telegram-id-privatevpns@3.74.87.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.72.117.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.74.87.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
