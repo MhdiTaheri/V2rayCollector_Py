@@ -1,3 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYSlprY3JFN3ZtZ3BmQjUvUFhqN1JTc2xmeVJvaE1IS1cxbnBDN2pPM1FjPQ==@13.53.217.206:8080#%40mahdivpn2`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYSlprY3JFN3ZtZ3BmQjUvUFhqN1JTc2xmeVJvaE1IS1cxbnBDN2pPM1FjPQ==@13.53.217.206:8080#%40mahdivpn2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYSlprY3JFN3ZtZ3BmQjUvUFhqN1JTc2xmeVJvaE1IS1cxbnBDN2pPM1FjPQ==@13.53.217.206:8080#%40mahdivpn2`
 trojan://telegram-id-privatevpns@51.21.65.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.96.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.65.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
