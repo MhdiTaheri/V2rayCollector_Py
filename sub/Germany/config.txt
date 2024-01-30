@@ -1,39 +1,12 @@
-vless://42b362c2-4607-466c-8e9d-6d646d86e427@46.101.119.171:43911?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#@meli_proxyy
-vless://0c5780ce-8900-4c96-a9ba-a21194404d64@46.101.119.171:34982?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#@meli_proxyy`
-vless://42b362c2-4607-466c-8e9d-6d646d86e427@46.101.119.171:43911?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#[🇩🇪]t.me/ConfigsHub`
-vless://0c5780ce-8900-4c96-a9ba-a21194404d64@46.101.119.171:34982?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#[🇩🇪]t.me/ConfigsHub`
-vless://42b362c2-4607-466c-8e9d-6d646d86e427@46.101.119.171:43911?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#[🇩🇪]t.me/ConfigsHub`
-vless://0c5780ce-8900-4c96-a9ba-a21194404d64@46.101.119.171:34982?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#[🇩🇪]t.me/ConfigsHub`
-vless://42b362c2-4607-466c-8e9d-6d646d86e427@46.101.119.171:43911?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#[🇩🇪]t.me/ConfigsHub`
-vless://0c5780ce-8900-4c96-a9ba-a21194404d64@46.101.119.171:34982?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#[🇩🇪]t.me/ConfigsHub`
-vless://42b362c2-4607-466c-8e9d-6d646d86e427@46.101.119.171:43911?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#@meli_proxyy
-vless://0c5780ce-8900-4c96-a9ba-a21194404d64@46.101.119.171:34982?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#@meli_proxyy
-vless://42b362c2-4607-466c-8e9d-6d646d86e427@46.101.119.171:43911?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#[🇩🇪]t.me/ConfigsHub
-vless://0c5780ce-8900-4c96-a9ba-a21194404d64@46.101.119.171:34982?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#[🇩🇪]t.me/ConfigsHub
-vless://42b362c2-4607-466c-8e9d-6d646d86e427@46.101.119.171:43911?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#[🇩🇪]t.me/ConfigsHub
-vless://0c5780ce-8900-4c96-a9ba-a21194404d64@46.101.119.171:34982?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#[🇩🇪]t.me/ConfigsHub
-vless://42b362c2-4607-466c-8e9d-6d646d86e427@46.101.119.171:43911?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#[🇩🇪]t.me/ConfigsHub
-vless://0c5780ce-8900-4c96-a9ba-a21194404d64@46.101.119.171:34982?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#[🇩🇪]t.me/ConfigsHub
-vless://42b362c2-4607-466c-8e9d-6d646d86e427@46.101.119.171:43911?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#@meli_proxyy
-vless://0c5780ce-8900-4c96-a9ba-a21194404d64@46.101.119.171:34982?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#@meli_proxyy`
-vless://42b362c2-4607-466c-8e9d-6d646d86e427@46.101.119.171:43911?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#[🇩🇪]t.me/ConfigsHub`
-vless://0c5780ce-8900-4c96-a9ba-a21194404d64@46.101.119.171:34982?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#[🇩🇪]t.me/ConfigsHub`
-vless://42b362c2-4607-466c-8e9d-6d646d86e427@46.101.119.171:43911?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#[🇩🇪]t.me/ConfigsHub`
-vless://0c5780ce-8900-4c96-a9ba-a21194404d64@46.101.119.171:34982?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#[🇩🇪]t.me/ConfigsHub`
-vless://42b362c2-4607-466c-8e9d-6d646d86e427@46.101.119.171:43911?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#[🇩🇪]t.me/ConfigsHub`
-vless://0c5780ce-8900-4c96-a9ba-a21194404d64@46.101.119.171:34982?type=tcp&path=/@puni_shop_v2rayNG،@puni_shop_v2rayNG&host=speedtest.net&headerType=http&security=none#[🇩🇪]t.me/ConfigsHub`
-trojan://telegram-id-privatevpns@3.69.199.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.153.229.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.123.49.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.73.219.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.73.203.157:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.29.151.57:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
-trojan://telegram-id-privatevpns@3.69.199.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.153.229.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.123.49.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.73.219.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 vless://8f625e5a-9d12-4734-bd4d-15a4c8842caa@116.203.120.36:3148?security=none&encryption=none&headerType=none&type=tcp#proxystore11%7Cmtn%E2%9D%A4%EF%B8%8F
-trojan://telegram-id-directvpn@3.73.60.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@35.156.171.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.127.12.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:5001#t.me%2FOutlineVpnOfficial%20%7C%20%282007%29%20DE
@@ -44,7 +17,6 @@ vless://8f625e5a-9d12-4734-bd4d-15a4c8842caa@116.203.120.36:3148?security=none&e
 vless://da0c4b49-5565-4ff0-9848-1bb602fad0dd@168.119.184.138:57149?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://CONFIG-WANCLOUDFA@49.12.64.220:443?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
-trojan://telegram-id-privatevpns@3.69.199.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.153.229.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.123.49.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.73.219.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
