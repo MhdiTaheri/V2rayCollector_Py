@@ -1,6 +1,12 @@
-vless://4546fe87-1e80-4f31-a486-0f535521cce5@ykaweius5w77l7n.dedicatedlink.co:21410?type=tcp&security=none#SW-@TurboMax_vpn`
-vless://4546fe87-1e80-4f31-a486-0f535521cce5@ykaweius5w77l7n.dedicatedlink.co:21410?type=tcp&security=none#SW-@TurboMax_vpn
-vless://4546fe87-1e80-4f31-a486-0f535521cce5@ykaweius5w77l7n.dedicatedlink.co:21410?type=tcp&security=none#SW-@TurboMax_vpn`
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6M3Z6aTdlaFFjT0VLUXRyeEQ5YmZiS0JKcWR1WnlKT3ZvaEd1TGxmRElTMD0@13.49.228.30:8080#%E2%9A%A11%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLM05mYWNjdmlzTmtKYi9QejQ2bW5sT0VUR1BjOU5nc2FmWjJxbW92ZGtzPQ@13.60.21.252:8080#%E2%9A%A13%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprSm1iUUpHVENhb045ZkdLYWRJS3p6UTFHYUhVN2xzenJxQnZVcCtNbkZNPQ@51.20.85.223:8080#%E2%9A%A12%40oneclickvpnkeys
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6M3Z6aTdlaFFjT0VLUXRyeEQ5YmZiS0JKcWR1WnlKT3ZvaEd1TGxmRElTMD0@13.49.228.30:8080#%E2%9A%A11%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLM05mYWNjdmlzTmtKYi9QejQ2bW5sT0VUR1BjOU5nc2FmWjJxbW92ZGtzPQ@13.60.21.252:8080#%E2%9A%A13%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprSm1iUUpHVENhb045ZkdLYWRJS3p6UTFHYUhVN2xzenJxQnZVcCtNbkZNPQ@51.20.85.223:8080#%E2%9A%A12%40oneclickvpnkeys
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6M3Z6aTdlaFFjT0VLUXRyeEQ5YmZiS0JKcWR1WnlKT3ZvaEd1TGxmRElTMD0@13.49.228.30:8080#%E2%9A%A11%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLM05mYWNjdmlzTmtKYi9QejQ2bW5sT0VUR1BjOU5nc2FmWjJxbW92ZGtzPQ@13.60.21.252:8080#%E2%9A%A13%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprSm1iUUpHVENhb045ZkdLYWRJS3p6UTFHYUhVN2xzenJxQnZVcCtNbkZNPQ@51.20.85.223:8080#%E2%9A%A12%40oneclickvpnkeys
 trojan://telegram-id-privatevpns@13.48.181.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.48.223.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.53.111.213:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S101)🇸🇪t.me/PrivateVPNs
