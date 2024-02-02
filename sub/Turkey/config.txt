@@ -1,3 +1,3 @@
 vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281397%29%20TR
 ss://YWVzLTI1Ni1nY206UHFHcGhYV1dGdw==@tr-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282017%29%20TR
-vless://56b310a4-72b4-434f-a38a-4eabe368a1e2@84.32.230.210:44913/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?encryption=none&host=ghbi.ir&type=tcp&headerType=http#🇹🇷S1-@ELiV2RAY
+vless://56b310a4-72b4-434f-a38a-4eabe368a1e2@84.32.230.210:44913/?encryption=none&host=ghbi.ir&type=tcp&headerType=http#🇹🇷S1-@ELiV2RAY

@@ -1,6 +1,4 @@
 vless://05a458e1-bc26-476a-dcf1-156a17a6a27b@85.9.110.167:51436/?encryption=none&host=speedtest.net&type=tcp&headerType=http#%40ELiV2RAY
-vless://95e573cb-105c-42e5-a353-8aed544d31a8@87.236.208.38:8880/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=ws&encryption=none&host=xbestspeed.site&path=%2F#🇬🇧S1-@ELiV2RAY
-vless://95e573cb-105c-42e5-a353-8aed544d31a8@185.143.233.5:8880/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=ws&encryption=none&host=xbestspeed.site&path=%2F#🇩🇪S2-@ELiV2RAY
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
 vless://7c97f4b9-4e6f-4fa5-f163-b47fb78e2322@appleplus.chartacharta.monster:49589?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6kozca6p
 vless://d4bd1237-afa2-43b1-8c9b-9ed2eb370b2f@appleplus.mashalla.monster:54906?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6thc7mg2
