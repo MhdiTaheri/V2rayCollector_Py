@@ -1,11 +1,17 @@
-trojan://telegram-id-privatevpns@52.59.145.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
+vless://5f8c9ef2-d6a5-4ef2-bc68-eeef97f6b6af@49.13.135.60:443?mode=gun&security=reality&encryption=none&pbk=_8KBuavwD4j4k2Ux72RucdwxUIWXqa_CZCbRP4fuexE&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=*.cloudflare.com&sid=1fefa3a0#@Capoit`
+vless://5f8c9ef2-d6a5-4ef2-bc68-eeef97f6b6af@49.13.135.60:443?mode=gun&security=reality&encryption=none&pbk=_8KBuavwD4j4k2Ux72RucdwxUIWXqa_CZCbRP4fuexE&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=*.cloudflare.com&sid=1fefa3a0#@Capoit`
+vless://5f8c9ef2-d6a5-4ef2-bc68-eeef97f6b6af@49.13.135.60:443?mode=gun&security=reality&encryption=none&pbk=_8KBuavwD4j4k2Ux72RucdwxUIWXqa_CZCbRP4fuexE&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=*.cloudflare.com&sid=1fefa3a0#%40mehrosaboran`
+vless://5f8c9ef2-d6a5-4ef2-bc68-eeef97f6b6af@49.13.135.60:443?mode=gun&security=reality&encryption=none&pbk=_8KBuavwD4j4k2Ux72RucdwxUIWXqa_CZCbRP4fuexE&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=*.cloudflare.com&sid=1fefa3a0#@Capoit
+vless://5f8c9ef2-d6a5-4ef2-bc68-eeef97f6b6af@49.13.135.60:443?mode=gun&security=reality&encryption=none&pbk=_8KBuavwD4j4k2Ux72RucdwxUIWXqa_CZCbRP4fuexE&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=*.cloudflare.com&sid=1fefa3a0#@Capoit
+vless://5f8c9ef2-d6a5-4ef2-bc68-eeef97f6b6af@49.13.135.60:443?mode=gun&security=reality&encryption=none&pbk=_8KBuavwD4j4k2Ux72RucdwxUIWXqa_CZCbRP4fuexE&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=*.cloudflare.com&sid=1fefa3a0#%40mehrosaboran
+vless://5f8c9ef2-d6a5-4ef2-bc68-eeef97f6b6af@49.13.135.60:443?mode=gun&security=reality&encryption=none&pbk=_8KBuavwD4j4k2Ux72RucdwxUIWXqa_CZCbRP4fuexE&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=*.cloudflare.com&sid=1fefa3a0#@Capoit`
+vless://5f8c9ef2-d6a5-4ef2-bc68-eeef97f6b6af@49.13.135.60:443?mode=gun&security=reality&encryption=none&pbk=_8KBuavwD4j4k2Ux72RucdwxUIWXqa_CZCbRP4fuexE&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=*.cloudflare.com&sid=1fefa3a0#@Capoit`
+vless://5f8c9ef2-d6a5-4ef2-bc68-eeef97f6b6af@49.13.135.60:443?mode=gun&security=reality&encryption=none&pbk=_8KBuavwD4j4k2Ux72RucdwxUIWXqa_CZCbRP4fuexE&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=*.cloudflare.com&sid=1fefa3a0#%40mehrosaboran`
 trojan://telegram-id-privatevpns@3.71.180.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.193.96.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.70.41.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.192.169.49:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.74.178.215:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 vless://8b2f1fc5-9d1c-4304-9c1d-91806eef4629@fbbvssss.v2pedia.xyz:8443?mode=gun&security=reality&encryption=none&pbk=1XVNWscPjgvJ1uh9Tvk30Gh8dRlDL93jQEu2hk8YrRY&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=pubmed.ncbi.nlm.nih.gov&sid=268ede#%E2%9A%A1%40V2PEDIA%E2%9A%A1%28Insta%3A+v2pediaa%29+VIP2
-trojan://telegram-id-privatevpns@52.59.145.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.71.180.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.193.96.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.70.41.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
@@ -24,7 +30,6 @@ vless://b08c6c40-ea86-4094-8780-3555278403b1@49.13.117.54:8880/@ELiV2RAY-@ELiV2R
 vless://da0c4b49-5565-4ff0-9848-1bb602fad0dd@168.119.184.138:57149?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://CONFIG-WANCLOUDFA@49.12.64.220:443?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
-trojan://telegram-id-privatevpns@52.59.145.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.71.180.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.193.96.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.70.41.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
