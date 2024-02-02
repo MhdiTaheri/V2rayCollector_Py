@@ -1,6 +1,3 @@
-vless://94b6af14-5a3d-476b-b6ed-b7cbb2c53410@shop.haji-mamad.site:42575?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA-1`
-vless://94b6af14-5a3d-476b-b6ed-b7cbb2c53410@shop.haji-mamad.site:42575?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA-1
-vless://94b6af14-5a3d-476b-b6ed-b7cbb2c53410@shop.haji-mamad.site:42575?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA-1`
 vless://05a458e1-bc26-476a-dcf1-156a17a6a27b@85.9.110.167:51436/?encryption=none&host=speedtest.net&type=tcp&headerType=http#%40ELiV2RAY
 vless://2986fb47-6461-4a3d-92e9-d579a3139906@mask44.api-tel.online:29476?path=%2F&security=none&encryption=none&type=ws#irancell
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
