@@ -22,6 +22,9 @@ vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&
 vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
 vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
 vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
+vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
+vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
+vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
 trojan://telegram-id-privatevpns@35.177.97.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.9.116.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.176.84.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S117)🇬🇧t.me/PrivateVPNs
