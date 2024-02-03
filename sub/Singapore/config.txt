@@ -1,16 +1,4 @@
 trojan://05699368-52c7-4ae7-bef9-bd9099718f4e@sg-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281396%29%20SG
-vless://ccbf8961-0db0-4c27-8af9-7dbd24f388ec@146.190.83.55:21081?type=ws&security=none&path=%2F&host=android.googleapis.com#Airtel%20Bypass`
-vless://5a86c2e3-dc7f-46a3-ff4b-94d57bb41fb9@146.190.83.55:43674?type=ws&security=none&path=%2F&host=m.facebook.com#Facebook`
-vless://4a56c29f-4973-4876-dc53-699f597e8a5f@146.190.83.55:19598?type=ws&security=none&path=%2F&host=m.whatsapp.com#Whatsapp`
-vless://c99a4b45-f32e-41c3-d8c6-837e170ee140@146.190.83.55:52464?type=ws&security=none&path=%2F&host=m.zoom.us#Hutch/Slt%20Zoom`
-vless://ccbf8961-0db0-4c27-8af9-7dbd24f388ec@146.190.83.55:21081?type=ws&security=none&path=%2F&host=android.googleapis.com#Airtel%20Bypass
-vless://5a86c2e3-dc7f-46a3-ff4b-94d57bb41fb9@146.190.83.55:43674?type=ws&security=none&path=%2F&host=m.facebook.com#Facebook
-vless://4a56c29f-4973-4876-dc53-699f597e8a5f@146.190.83.55:19598?type=ws&security=none&path=%2F&host=m.whatsapp.com#Whatsapp
-vless://c99a4b45-f32e-41c3-d8c6-837e170ee140@146.190.83.55:52464?type=ws&security=none&path=%2F&host=m.zoom.us#Hutch/Slt%20Zoom
-vless://ccbf8961-0db0-4c27-8af9-7dbd24f388ec@146.190.83.55:21081?type=ws&security=none&path=%2F&host=android.googleapis.com#Airtel%20Bypass`
-vless://5a86c2e3-dc7f-46a3-ff4b-94d57bb41fb9@146.190.83.55:43674?type=ws&security=none&path=%2F&host=m.facebook.com#Facebook`
-vless://4a56c29f-4973-4876-dc53-699f597e8a5f@146.190.83.55:19598?type=ws&security=none&path=%2F&host=m.whatsapp.com#Whatsapp`
-vless://c99a4b45-f32e-41c3-d8c6-837e170ee140@146.190.83.55:52464?type=ws&security=none&path=%2F&host=m.zoom.us#Hutch/Slt%20Zoom`
 ss://YWVzLTI1Ni1nY206RHZNZVkvUzhjM2hzU1FxckwxYVdibGFIc2NFVlEwM2w1bEZnbmVNeDU2Yz0=@sg-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282015%29%20SG
 ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw@103.172.116.90:9098#ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@103.172.116.90:9001#ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@103.172.116.90:9011#ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ@103.172.116.90:9000#ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg@103.172.116.79:9015#trojan://telegram-id-privatevpns@16.170.51.88:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk&alpn=http%2F1.1#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxcTdSTkthSWsyd1lPOGZFUG1FWDB2V1E3VmErUVJUQQ@91.192.81.21:8388#ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYd1dWUm1PMmtLdTZxSzFYbGloM0xmZTZMaDNSUmE5cg@213.183.44.17:8388#ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJVURuclhFeHBiMElWVkhzRXhzS1dM@51.21.126.136:443#ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@216.39.248.133:7001#

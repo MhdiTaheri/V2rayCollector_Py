@@ -1,6 +1,3 @@
-vless://2ef67baf-5dab-409c-bb2b-952c87dedb28@91.236.169.116:80?path=%2F&security=none&encryption=none&type=ws#%40ZTv2ray+MCI`
-vless://2ef67baf-5dab-409c-bb2b-952c87dedb28@91.236.169.116:80?path=%2F&security=none&encryption=none&type=ws#%40ZTv2ray+MCI
-vless://2ef67baf-5dab-409c-bb2b-952c87dedb28@91.236.169.116:80?path=%2F&security=none&encryption=none&type=ws#%40ZTv2ray+MCI`
 vless://05a458e1-bc26-476a-dcf1-156a17a6a27b@85.9.110.167:51436/?encryption=none&host=speedtest.net&type=tcp&headerType=http#%40ELiV2RAY
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
 vless://7c97f4b9-4e6f-4fa5-f163-b47fb78e2322@appleplus.chartacharta.monster:49589?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6kozca6p
