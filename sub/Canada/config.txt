@@ -1,9 +1,6 @@
 trojan://6229112c-62ef-4a35-a96a-2c09d29f5a0a@ca-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281393%29%20CA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGQWZnRzBvOUhGMWhHQlljbWg3UW5B@toronto.telegavpn.org:31024#🇨🇦 Toronto, 2 GB, FREE`
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@188.114.97.3:80?encryption=none&host=hdjdifbdhd.%E7%BB%B4%E5%AD%90%E8%B6%B3%E7%90%8319.tech&path=%2F&security=none&type=ws#@Hope_Net-join-us-on-Telegram`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGQWZnRzBvOUhGMWhHQlljbWg3UW5B@toronto.telegavpn.org:31024#🇨🇦 Toronto, 2 GB, FREE
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@188.114.97.3:80?encryption=none&host=hdjdifbdhd.%E7%BB%B4%E5%AD%90%E8%B6%B3%E7%90%8319.tech&path=%2F&security=none&type=ws#@Hope_Net-join-us-on-Telegram
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGQWZnRzBvOUhGMWhHQlljbWg3UW5B@toronto.telegavpn.org:31024#🇨🇦 Toronto, 2 GB, FREE`
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@188.114.97.3:80?encryption=none&host=hdjdifbdhd.%E7%BB%B4%E5%AD%90%E8%B6%B3%E7%90%8319.tech&path=%2F&security=none&type=ws#@Hope_Net-join-us-on-Telegram`
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.98.34.66:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.114.100:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
