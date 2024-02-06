@@ -1,3 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxblNJVjJ5RVRSb1VJcTV2SnVVVG40@13.79.16.82:36775#%40Mester_V2ray+%7C+Ireland+%F0%9F%87%AE%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxblNJVjJ5RVRSb1VJcTV2SnVVVG40@13.79.16.82:36775#%40Mester_V2ray+%7C+Ireland+%F0%9F%87%AE%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxblNJVjJ5RVRSb1VJcTV2SnVVVG40@13.79.16.82:36775#%40Mester_V2ray+%7C+Ireland+%F0%9F%87%AE%F0%9F%87%AA
 trojan://telegram-id-privatevpns@52.49.105.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S109)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@54.73.48.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S110)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.203.113.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S119)🇨🇮t.me/PrivateVPNs
