@@ -1,3 +1,6 @@
+vless://672a8aa2-93f0-46f0-aee7-7f490da75371@209.38.208.73:443?mode=gun&security=none&encryption=none&type=grpc&serviceName=@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray#🔰@fast_2ray 👈سرورهای‌بیشتر
+vless://672a8aa2-93f0-46f0-aee7-7f490da75371@209.38.208.73:443?mode=gun&security=none&encryption=none&type=grpc&serviceName=@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray#🔰@fast_2ray 👈سرورهای‌بیشتر
+vless://672a8aa2-93f0-46f0-aee7-7f490da75371@209.38.208.73:443?mode=gun&security=none&encryption=none&type=grpc&serviceName=@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray#🔰@fast_2ray 👈سرورهای‌بیشتر
 trojan://telegram-id-privatevpns@3.79.223.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.123.118.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.79.223.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
