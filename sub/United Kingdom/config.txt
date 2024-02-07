@@ -1,6 +1,9 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Selinc‌
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Selinc‌
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Selinc‌
+ss://YWVzLTEyOC1nY206V2VkQnRyaHNDUA==@outline.gavaznnet.org:32768#%40v2raa_server`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTFZWRnh4SEpTQk1kR2Rs@series-a2-me.samanehha.co:443#%40V2rayi_net+%7C+United+Kingdom+%F0%9F%87%AC%F0%9F%`
+ss://YWVzLTEyOC1nY206V2VkQnRyaHNDUA==@outline.gavaznnet.org:32768#%40v2raa_server
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTFZWRnh4SEpTQk1kR2Rs@series-a2-me.samanehha.co:443#%40V2rayi_net+%7C+United+Kingdom+%F0%9F%87%AC%F0%9F%
+ss://YWVzLTEyOC1nY206V2VkQnRyaHNDUA==@outline.gavaznnet.org:32768#%40v2raa_server`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTFZWRnh4SEpTQk1kR2Rs@series-a2-me.samanehha.co:443#%40V2rayi_net+%7C+United+Kingdom+%F0%9F%87%AC%F0%9F%`
 trojan://telegram-id-privatevpns@3.8.179.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.42.218.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.169.140.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S117)🇬🇧t.me/PrivateVPNs
@@ -15,7 +18,6 @@ trojan://telegram-id-privatevpns@3.8.179.120:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@13.42.218.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.169.140.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.135.50.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S118)🇬🇧t.me/PrivateVPNs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#proxystore11%7Cmci%E2%9D%A4%EF%B8%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#proxystore11%7Cmci%E2%9D%A4%EF%B8%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#proxystore11%7Cmci%E2%9D%A4%EF%B8%8F
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#proxystore11%7Cmci%E2%9D%A4%EF%B8%8F
@@ -36,7 +38,6 @@ vless://83d578ef-be4a-4cf8-8057-f6c9f014ce71@144.126.225.27:443?mode=gun&securit
 vless://4a88ffaf-3c83-457e-96d2-03fea0892ddc@206.189.30.253:45672?security=none&encryption=none&headerType=none&type=tcp#%40ServerNett+%40ServerNett+2
 vless://4a88ffaf-3c83-457e-96d2-03fea0892ddc@206.189.30.253:45672?security=none&encryption=none&headerType=none&type=tcp#%40ServerNett+%40ServerNett+2
 vless://d9348f45-466a-4b5c-bccb-af9a56a4be66@206.189.30.253:45672?security=none&encryption=none&headerType=none&type=tcp#%40ServerNett+%40ServerNett+1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#proxystore11%7Cmci%E2%9D%A4%EF%B8%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#proxystore11%7Cmci%E2%9D%A4%EF%B8%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#proxystore11%7Cmci%E2%9D%A4%EF%B8%8F
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#proxystore11%7Cmci%E2%9D%A4%EF%B8%8F
