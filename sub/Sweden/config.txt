@@ -1,15 +1,3 @@
-trojan://telegram-id-privatevpns@13.53.237.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#[🇸🇪]t.me/ConfigsHub`
-trojan://telegram-id-privatevpns@13.53.237.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#[🇸🇪]t.me/ConfigsHub`
-trojan://telegram-id-privatevpns@13.53.237.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#[🇸🇪]t.me/ConfigsHub`
-trojan://telegram-id-privatevpns@13.49.118.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#[🇸🇪]t.me/ConfigsHub`
-trojan://telegram-id-privatevpns@13.53.237.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#[🇸🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@13.53.237.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#[🇸🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@13.53.237.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#[🇸🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@13.49.118.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#[🇸🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@13.53.237.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#[🇸🇪]t.me/ConfigsHub`
-trojan://telegram-id-privatevpns@13.53.237.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#[🇸🇪]t.me/ConfigsHub`
-trojan://telegram-id-privatevpns@13.53.237.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#[🇸🇪]t.me/ConfigsHub`
-trojan://telegram-id-privatevpns@13.49.118.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#[🇸🇪]t.me/ConfigsHub`
 trojan://telegram-id-privatevpns@13.53.163.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.49.234.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.53.237.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
