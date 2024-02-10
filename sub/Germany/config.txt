@@ -1,9 +1,3 @@
-vless://8c54ae83-682b-4a8a-b220-f1f7215911ec@104.248.30.140:443?mode=gun&security=reality&encryption=none&pbk=2WzBUhzmjAvsdX26HZqjPXdHwwyobyDdgy-761x9LVI&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=popapps.host&sid=5bf34d64#%40Mv2ray_center
-vless://8c54ae83-682b-4a8a-b220-f1f7215911ec@104.248.30.140:443?mode=gun&security=reality&encryption=none&pbk=2WzBUhzmjAvsdX26HZqjPXdHwwyobyDdgy-761x9LVI&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=popapps.host&sid=5bf34d64#[🇩🇪]t.me/ConfigsHub
-vless://8c54ae83-682b-4a8a-b220-f1f7215911ec@104.248.30.140:443?mode=gun&security=reality&encryption=none&pbk=2WzBUhzmjAvsdX26HZqjPXdHwwyobyDdgy-761x9LVI&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=popapps.host&sid=5bf34d64#%40Mv2ray_center
-vless://8c54ae83-682b-4a8a-b220-f1f7215911ec@104.248.30.140:443?mode=gun&security=reality&encryption=none&pbk=2WzBUhzmjAvsdX26HZqjPXdHwwyobyDdgy-761x9LVI&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=popapps.host&sid=5bf34d64#[🇩🇪]t.me/ConfigsHub
-vless://8c54ae83-682b-4a8a-b220-f1f7215911ec@104.248.30.140:443?mode=gun&security=reality&encryption=none&pbk=2WzBUhzmjAvsdX26HZqjPXdHwwyobyDdgy-761x9LVI&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=popapps.host&sid=5bf34d64#%40Mv2ray_center
-vless://8c54ae83-682b-4a8a-b220-f1f7215911ec@104.248.30.140:443?mode=gun&security=reality&encryption=none&pbk=2WzBUhzmjAvsdX26HZqjPXdHwwyobyDdgy-761x9LVI&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=popapps.host&sid=5bf34d64#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@18.195.36.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.196.133.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.195.36.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
@@ -26,7 +20,6 @@ vless://bd6fa3a5-68a0-49f4-9f7f-78e38612245f@168.119.177.49:2087?mode=gun&securi
 vless://bd6fa3a5-68a0-49f4-9f7f-78e38612245f@168.119.177.49:2087?mode=gun&security=reality&encryption=none&pbk=iWgxGQVQZUfOCw4EqmHQToaQPqYt0V5hAfnDo6p-Izg&fp=firefox&type=grpc&serviceName=TelegramID:@iranbaxvpn&sni=iranserver.com&sid=33fb#iOS..V2box
 vless://fcaf5da5-ff63-4493-8ec1-90c46b26022d@81.28.6.228:25010?security=none&encryption=none&host=ghbi.ir&headerType=http&type=tcp#%40V2ray_NG..IRANCELL
 vless://mahsa-azadi-az-inja-migzare@mahsang-1.dgi000.store:20179?mode=gun&security=reality&encryption=none&pbk=NiLbMrihxRX8EiSRutSOFRkkR6eOa6P_fxNiSIiMMCE&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=www.ghbi.ir&sid=31c991f8#iOS..V2box
-vless://e4149aed-c7db-47b5-8640-8137d4fc156a@ab.rxteam.live:2020?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40V2ray_NG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVVjIweHMxV0pUbzcwNmZqVEpCSlF1T1BCckdyN3BSYk0wWU5WNEVWaFhFPQ@buy-business.h0stname.net:80#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVVjIweHMxV0pUbzcwNmZqVEpCSlF1T1BCckdyN3BSYk0wWU5WNEVWaFhFPQ@buy-business.h0stname.net:80#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVVjIweHMxV0pUbzcwNmZqVEpCSlF1T1BCckdyN3BSYk0wWU5WNEVWaFhFPQ@buy-business.h0stname.net:80#
