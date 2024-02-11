@@ -1,4 +1,1 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.150.8.236:31636?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=cfed.tgzdyz2.top&fp=random&type=ws&sni=cfed.tgzdyz2.top#%F0%9F%AA%8621%40oneclickvpnkeys
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.150.8.236:31636?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=cfed.tgzdyz2.top&fp=random&type=ws&sni=cfed.tgzdyz2.top#%F0%9F%AA%8621%40oneclickvpnkeys
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.150.8.236:31636?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=cfed.tgzdyz2.top&fp=random&type=ws&sni=cfed.tgzdyz2.top#%F0%9F%AA%8621%40oneclickvpnkeys
 ss://YWVzLTI1Ni1nY206MHlaZVc4bE5VSTg2b0drU2drZ1BCLzBzS1oxQldyZ3J3RjloWXBRK0xRUT0=@jp-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282011%29%20JP
