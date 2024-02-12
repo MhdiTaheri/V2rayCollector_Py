@@ -1,3 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVkhRK0RUZklkdUZoVlZ2N0UxRzRGWkkvdnpBVzdROG9hY0ExTStCMVJVPQ==@mic-mit-3.pubgji.eu.org:8080#%E2%99%A4VPNCTVIP%E2%99%A4%E3%80%8A3%E3%80%8B
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVkhRK0RUZklkdUZoVlZ2N0UxRzRGWkkvdnpBVzdROG9hY0ExTStCMVJVPQ==@mic-mit-3.pubgji.eu.org:8080#%E2%99%A4VPNCTVIP%E2%99%A4%E3%80%8A3%E3%80%8B
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVkhRK0RUZklkdUZoVlZ2N0UxRzRGWkkvdnpBVzdROG9hY0ExTStCMVJVPQ==@mic-mit-3.pubgji.eu.org:8080#%E2%99%A4VPNCTVIP%E2%99%A4%E3%80%8A3%E3%80%8B
 trojan://telegram-id-privatevpns@16.171.244.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.20.239.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.171.244.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
