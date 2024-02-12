@@ -1,3 +1,12 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0NC9OeldySGJzR3BiU2hla1lBL083VWRzZWFQbnZ5UDhzdHpOZ25yMHpVPQ==@51.20.42.216:8080#@VPNHUB69
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bzNKUHZ2WkYydVUzMUYra1RrUGh4RlpFNitiaDQwdSsyYm1EYkhGYVVzPQ==@13.48.248.25:8080#@VPNHUB69
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bzNKUHZ2WkYydVUzMUYra1RrUGh4RlpFNitiaDQwdSsyYm1EYkhGYVVzPQ==@13.48.248.25:8080#@VPNHUB69
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0NC9OeldySGJzR3BiU2hla1lBL083VWRzZWFQbnZ5UDhzdHpOZ25yMHpVPQ==@51.20.42.216:8080#@VPNHUB69
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bzNKUHZ2WkYydVUzMUYra1RrUGh4RlpFNitiaDQwdSsyYm1EYkhGYVVzPQ==@13.48.248.25:8080#@VPNHUB69
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bzNKUHZ2WkYydVUzMUYra1RrUGh4RlpFNitiaDQwdSsyYm1EYkhGYVVzPQ==@13.48.248.25:8080#@VPNHUB69
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0NC9OeldySGJzR3BiU2hla1lBL083VWRzZWFQbnZ5UDhzdHpOZ25yMHpVPQ==@51.20.42.216:8080#@VPNHUB69
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bzNKUHZ2WkYydVUzMUYra1RrUGh4RlpFNitiaDQwdSsyYm1EYkhGYVVzPQ==@13.48.248.25:8080#@VPNHUB69
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bzNKUHZ2WkYydVUzMUYra1RrUGh4RlpFNitiaDQwdSsyYm1EYkhGYVVzPQ==@13.48.248.25:8080#@VPNHUB69
 trojan://telegram-id-privatevpns@16.171.244.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.20.239.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.171.244.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
