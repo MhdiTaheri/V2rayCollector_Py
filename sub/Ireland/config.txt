@@ -1,6 +1,3 @@
-vless://106e5692-114f-4f87-88d4-243348524b26@icrcln5cc4pp4lg.dedicatedlink.co:29428?type=tcp&security=none#@TurboMax_vpn
-vless://106e5692-114f-4f87-88d4-243348524b26@icrcln5cc4pp4lg.dedicatedlink.co:29428?type=tcp&security=none#@TurboMax_vpn
-vless://106e5692-114f-4f87-88d4-243348524b26@icrcln5cc4pp4lg.dedicatedlink.co:29428?type=tcp&security=none#@TurboMax_vpn
 trojan://telegram-id-privatevpns@79.125.29.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S109)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.211.145.42:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S110)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@34.254.79.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S119)🇨🇮t.me/PrivateVPNs
