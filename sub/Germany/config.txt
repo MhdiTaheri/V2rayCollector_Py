@@ -1,26 +1,19 @@
-vless://1a126c71-c4c8-4ed3-e9a2-6090f5c751ae@3.120.189.41:36132?type=ws&path=%2Fhttps%3A%2F%2Ft.me%2FVmessProtocol&security=none#👉🆔 @FORWARDV2RAY
-vless://f3997033-8e26-48d3-9eeb-4038350e1be1@3.120.189.41:36132?type=ws&path=%2Fhttps%3A%2F%2Ft.me%2FVmessProtocol&security=none#👉🆔 @FORWARDV2RAY
-vless://d3bff211-855f-4688-ea6a-f04a89cee2be@3.120.189.41:36132?type=ws&path=%2Fhttps%3A%2F%2Ft.me%2FVmessProtocol&security=none#👉🆔 @FORWARDV2RAY
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.28.205.39:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@3.68.11.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#👉🆔 @FORWARDV2RAY
-vless://1a126c71-c4c8-4ed3-e9a2-6090f5c751ae@3.120.189.41:36132?type=ws&path=%2Fhttps%3A%2F%2Ft.me%2FVmessProtocol&security=none#👉🆔 @FORWARDV2RAY
-vless://f3997033-8e26-48d3-9eeb-4038350e1be1@3.120.189.41:36132?type=ws&path=%2Fhttps%3A%2F%2Ft.me%2FVmessProtocol&security=none#👉🆔 @FORWARDV2RAY
-vless://d3bff211-855f-4688-ea6a-f04a89cee2be@3.120.189.41:36132?type=ws&path=%2Fhttps%3A%2F%2Ft.me%2FVmessProtocol&security=none#👉🆔 @FORWARDV2RAY
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.28.205.39:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@3.68.11.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#👉🆔 @FORWARDV2RAY
-vless://1a126c71-c4c8-4ed3-e9a2-6090f5c751ae@3.120.189.41:36132?type=ws&path=%2Fhttps%3A%2F%2Ft.me%2FVmessProtocol&security=none#👉🆔 @FORWARDV2RAY
-vless://f3997033-8e26-48d3-9eeb-4038350e1be1@3.120.189.41:36132?type=ws&path=%2Fhttps%3A%2F%2Ft.me%2FVmessProtocol&security=none#👉🆔 @FORWARDV2RAY
-vless://d3bff211-855f-4688-ea6a-f04a89cee2be@3.120.189.41:36132?type=ws&path=%2Fhttps%3A%2F%2Ft.me%2FVmessProtocol&security=none#👉🆔 @FORWARDV2RAY
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.28.205.39:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@3.68.11.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#👉🆔 @FORWARDV2RAY
+vless://ac554074-ad55-41c6-9fc1-5af16ace00f1@49.13.139.192:443?mode=gun&security=reality&encryption=none&pbk=jSxs7VtFMN2tQOo9dKG63UHNfjqcXt-krPDrEfer1n4&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=*.danishshakeel.me&sid=45796768#👉🆔 @FORWARDV2RAY
+vless://ac554074-ad55-41c6-9fc1-5af16ace00f1@49.13.139.192:443?mode=gun&security=reality&encryption=none&pbk=jSxs7VtFMN2tQOo9dKG63UHNfjqcXt-krPDrEfer1n4&fp=firefox&spx=%2F&type=grpc&serviceName=@%69%70%56%32%52%61%79&sni=*.danishshakeel.me&sid=45796768#👉🆔 @FORWARDV2RAY
+vless://ac554074-ad55-41c6-9fc1-5af16ace00f1@49.13.139.192:443?mode=gun&security=reality&encryption=none&pbk=jSxs7VtFMN2tQOo9dKG63UHNfjqcXt-krPDrEfer1n4&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=*.danishshakeel.me&sid=45796768#👉🆔 @FORWARDV2RAY
+vless://ac554074-ad55-41c6-9fc1-5af16ace00f1@49.13.139.192:443?mode=gun&security=reality&encryption=none&pbk=jSxs7VtFMN2tQOo9dKG63UHNfjqcXt-krPDrEfer1n4&fp=firefox&spx=%2F&type=grpc&serviceName=@%69%70%56%32%52%61%79&sni=*.danishshakeel.me&sid=45796768#👉🆔 @FORWARDV2RAY
+vless://ac554074-ad55-41c6-9fc1-5af16ace00f1@49.13.139.192:443?mode=gun&security=reality&encryption=none&pbk=jSxs7VtFMN2tQOo9dKG63UHNfjqcXt-krPDrEfer1n4&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=*.danishshakeel.me&sid=45796768#👉🆔 @FORWARDV2RAY
+vless://ac554074-ad55-41c6-9fc1-5af16ace00f1@49.13.139.192:443?mode=gun&security=reality&encryption=none&pbk=jSxs7VtFMN2tQOo9dKG63UHNfjqcXt-krPDrEfer1n4&fp=firefox&spx=%2F&type=grpc&serviceName=@%69%70%56%32%52%61%79&sni=*.danishshakeel.me&sid=45796768#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@52.28.131.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.65.145.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.68.11.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@18.153.111.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.66.116.35:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.28.205.39:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 trojan://telegram-id-privatevpns@52.28.131.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.65.145.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.68.11.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@18.153.111.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-directvpn@3.76.108.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.69.111.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:5001#t.me%2FOutlineVpnOfficial%20%7C%20%282007%29%20DE
@@ -31,6 +24,7 @@ vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&en
 trojan://telegram-id-privatevpns@52.28.131.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.65.145.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.68.11.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@18.153.111.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 vless://bd6fa3a5-68a0-49f4-9f7f-78e38612245f@168.119.177.49:2087?mode=gun&security=reality&encryption=none&pbk=iWgxGQVQZUfOCw4EqmHQToaQPqYt0V5hAfnDo6p-Izg&fp=firefox&type=grpc&serviceName=TelegramID:@iranbaxvpn&sni=iranserver.com&sid=33fb#iOS..V2box
 vless://bd6fa3a5-68a0-49f4-9f7f-78e38612245f@168.119.177.49:2087?mode=gun&security=reality&encryption=none&pbk=iWgxGQVQZUfOCw4EqmHQToaQPqYt0V5hAfnDo6p-Izg&fp=firefox&type=grpc&serviceName=TelegramID:@iranbaxvpn&sni=iranserver.com&sid=33fb#iOS..V2box
 vless://fcaf5da5-ff63-4493-8ec1-90c46b26022d@81.28.6.228:25010?security=none&encryption=none&host=ghbi.ir&headerType=http&type=tcp#%40V2ray_NG..IRANCELL
