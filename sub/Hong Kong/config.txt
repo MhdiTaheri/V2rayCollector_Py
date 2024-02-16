@@ -1,2 +1,10 @@
 vless://829362ac-f55b-4fe9-982b-73fa6e6072bc@hk-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281394%29%20HK
+trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@hk03.trojanyyds.xyz:443?security=tls&sni=hk03.trojanyyds.xyz&allowInsecure=1&type=tcp#👉🆔 @FORWARDV2RAY
+trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@hk01.trojanyyds.xyz:443?security=tls&sni=hk01.trojanyyds.xyz&allowInsecure=1&type=tcp#👉🆔 @FORWARDV2RAY
+trojan://17cae44f-1b58-4407-bb31-8273b7a51ff2@vpnhat.liangyuandiancloud.com:443?security=tls&allowInsecure=1&type=tcp#👉🆔 @FORWARDV2RAY
+trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@hk02.trojanyyds.xyz:443?security=tls&sni=hk02.trojanyyds.xyz&allowInsecure=1&type=tcp#👉🆔 @FORWARDV2RAY
+trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@hk03.trojanyyds.xyz:443?security=tls&sni=hk03.trojanyyds.xyz&allowInsecure=1&type=tcp#👉🆔 @FORWARDV2RAY
+trojan://17cae44f-1b58-4407-bb31-8273b7a51ff2@vpnhat.liangyuandiancloud.com:443?security=tls&allowInsecure=1&type=tcp#👉🆔 @FORWARDV2RAY
+trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@hk03.trojanyyds.xyz:443?security=tls&sni=hk03.trojanyyds.xyz&allowInsecure=1&type=tcp#👉🆔 @FORWARDV2RAY
+trojan://17cae44f-1b58-4407-bb31-8273b7a51ff2@vpnhat.liangyuandiancloud.com:443?security=tls&allowInsecure=1&type=tcp#👉🆔 @FORWARDV2RAY
 ss://YWVzLTI1Ni1nY206ZzRJOFc8NFdeLQ==@hk-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282009%29%20HK
