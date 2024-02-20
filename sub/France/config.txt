@@ -1,3 +1,9 @@
+vless://SVNTEAM@95.179.216.171:80?path=%2FSVNTEAM%3Fed%3D1048&security=none&encryption=none&host=SVNTEAMFREE.RuBiKaE.CoM.&type=ws#👉🆔 @FORWARDV2RAY
+vless://SVNTEAM@5.196.58.87:80?path=%2FSVNTEAM%3Fed%3D1048&security=none&encryption=none&host=SVNTEAMFree3.Rubikae.CoM.&type=ws#👉🆔 @FORWARDV2RAY
+vless://SVNTEAM@95.179.216.171:80?path=%2FSVNTEAM%3Fed%3D1048&security=none&encryption=none&host=SVNTEAMFREE.RuBiKaE.CoM.&type=ws#👉🆔 @FORWARDV2RAY
+vless://SVNTEAM@5.196.58.87:80?path=%2FSVNTEAM%3Fed%3D1048&security=none&encryption=none&host=SVNTEAMFree3.Rubikae.CoM.&type=ws#👉🆔 @FORWARDV2RAY
+vless://SVNTEAM@95.179.216.171:80?path=%2FSVNTEAM%3Fed%3D1048&security=none&encryption=none&host=SVNTEAMFREE.RuBiKaE.CoM.&type=ws#👉🆔 @FORWARDV2RAY
+vless://SVNTEAM@5.196.58.87:80?path=%2FSVNTEAM%3Fed%3D1048&security=none&encryption=none&host=SVNTEAMFree3.Rubikae.CoM.&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@13.39.248.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.251.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.72.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
