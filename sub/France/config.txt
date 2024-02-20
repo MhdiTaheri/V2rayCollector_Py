@@ -1,3 +1,6 @@
+vless://47743dec-b29f-53e0-9f75-b36894f9d422@95.179.216.171:80?type=ws&security=none&host=SVNTEAMFREE.RuBiKaE.CoM.&path=/SVNTEAM?ed%3D1048#👉🆔 @FORWARDV2RAY
+vless://47743dec-b29f-53e0-9f75-b36894f9d422@95.179.216.171:80?type=ws&security=none&host=SVNTEAMFREE.RuBiKaE.CoM.&path=/SVNTEAM?ed%3D1048#👉🆔 @FORWARDV2RAY
+vless://47743dec-b29f-53e0-9f75-b36894f9d422@95.179.216.171:80?type=ws&security=none&host=SVNTEAMFREE.RuBiKaE.CoM.&path=/SVNTEAM?ed%3D1048#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@13.39.248.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.251.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.72.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
