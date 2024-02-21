@@ -1,6 +1,9 @@
-vless://V2RAXX--V2RAXX--V2RAXX@45.32.151.231:2053?path=%2FV2RAXX--V2RAXX--V2RAXX--V2RAXX--V2RAXX--V2RAXX&security=none&encryption=none&host=Fast.com&type=ws#👉🆔 @FORWARDV2RAY
-vless://V2RAXX--V2RAXX--V2RAXX@45.32.151.231:2053?path=%2FV2RAXX--V2RAXX--V2RAXX--V2RAXX--V2RAXX--V2RAXX&security=none&encryption=none&host=Fast.com&type=ws#👉🆔 @FORWARDV2RAY
-vless://V2RAXX--V2RAXX--V2RAXX@45.32.151.231:2053?path=%2FV2RAXX--V2RAXX--V2RAXX--V2RAXX--V2RAXX--V2RAXX&security=none&encryption=none&host=Fast.com&type=ws#👉🆔 @FORWARDV2RAY
+vless://54c2b122-0ddc-406d-acfa-081e6dad4541@13.39.211.64:443?mode=gun&security=reality&encryption=none&pbk=Hg7f77wg6HwUFOXuDNZ-Qkdyy0rfcmlD9YvrOWI0tx8&fp=chrome&type=grpc&serviceName=&sni=discordapp.com&sid=0fb6912a#👉🆔 @FORWARDV2RAY
+vless://d8253715-9664-4c3b-9ecd-e4805c8430f8@37.59.166.156:48576?mode=gun&security=reality&encryption=none&pbk=i-TBCDM3b7W2NE5JavNy7XBTsQwIjYD7qG9VEVfnxjg&fp=chrome&type=grpc&serviceName=&sni=ea.com&sid=b1b454f6#👉🆔 @FORWARDV2RAY
+vless://54c2b122-0ddc-406d-acfa-081e6dad4541@13.39.211.64:443?mode=gun&security=reality&encryption=none&pbk=Hg7f77wg6HwUFOXuDNZ-Qkdyy0rfcmlD9YvrOWI0tx8&fp=chrome&type=grpc&serviceName=&sni=discordapp.com&sid=0fb6912a#👉🆔 @FORWARDV2RAY
+vless://d8253715-9664-4c3b-9ecd-e4805c8430f8@37.59.166.156:48576?mode=gun&security=reality&encryption=none&pbk=i-TBCDM3b7W2NE5JavNy7XBTsQwIjYD7qG9VEVfnxjg&fp=chrome&type=grpc&serviceName=&sni=ea.com&sid=b1b454f6#👉🆔 @FORWARDV2RAY
+vless://54c2b122-0ddc-406d-acfa-081e6dad4541@13.39.211.64:443?mode=gun&security=reality&encryption=none&pbk=Hg7f77wg6HwUFOXuDNZ-Qkdyy0rfcmlD9YvrOWI0tx8&fp=chrome&type=grpc&serviceName=&sni=discordapp.com&sid=0fb6912a#👉🆔 @FORWARDV2RAY
+vless://d8253715-9664-4c3b-9ecd-e4805c8430f8@37.59.166.156:48576?mode=gun&security=reality&encryption=none&pbk=i-TBCDM3b7W2NE5JavNy7XBTsQwIjYD7qG9VEVfnxjg&fp=chrome&type=grpc&serviceName=&sni=ea.com&sid=b1b454f6#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@13.39.128.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.237.222.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S116)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.99.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S105)🇨🇵t.me/PrivateVPNs
