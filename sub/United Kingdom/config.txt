@@ -1,12 +1,6 @@
-vless://6193125e-5dce-4043-9213-d6aabeeea0c2@high-server.76996.ir:48074?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://4d8839a2-49d1-4c26-c504-2ee68093e38f@high-server.76996.ir:52597?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://94854ce6-77ce-44f9-a992-9401bc73a54b@91.193.58.50:8080?path=%2F&security=none&encryption=none&host=kchan.amirali0013.monster.&type=ws#👉🆔 @FORWARDV2RAY
-vless://6193125e-5dce-4043-9213-d6aabeeea0c2@high-server.76996.ir:48074?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://4d8839a2-49d1-4c26-c504-2ee68093e38f@high-server.76996.ir:52597?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://94854ce6-77ce-44f9-a992-9401bc73a54b@91.193.58.50:8080?path=%2F&security=none&encryption=none&host=kchan.amirali0013.monster.&type=ws#👉🆔 @FORWARDV2RAY
-vless://6193125e-5dce-4043-9213-d6aabeeea0c2@high-server.76996.ir:48074?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://4d8839a2-49d1-4c26-c504-2ee68093e38f@high-server.76996.ir:52597?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://94854ce6-77ce-44f9-a992-9401bc73a54b@91.193.58.50:8080?path=%2F&security=none&encryption=none&host=kchan.amirali0013.monster.&type=ws#👉🆔 @FORWARDV2RAY
+vless://%56%50%4e%43%55%53%54%4f%4d%49%5a%45@91.193.58.50:80?path=/@V2ray%43%55%53%54%4f%4d%49%5a%45___%40%43%55%53%54%4f%4d%49%5a%45V2ray&security=none&alpn=TELEGRAM: @BigSmoke_Config | TELEGRAM: @BigSmoke_Config&encryption=none&host=V2ray%43%55%53%54%4f%4d%49%5a%45.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://%56%50%4e%43%55%53%54%4f%4d%49%5a%45@91.193.58.50:80?path=/@V2ray%43%55%53%54%4f%4d%49%5a%45___%40%43%55%53%54%4f%4d%49%5a%45V2ray&security=none&alpn=TELEGRAM: @BigSmoke_Config | TELEGRAM: @BigSmoke_Config&encryption=none&host=V2ray%43%55%53%54%4f%4d%49%5a%45.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://%56%50%4e%43%55%53%54%4f%4d%49%5a%45@91.193.58.50:80?path=/@V2ray%43%55%53%54%4f%4d%49%5a%45___%40%43%55%53%54%4f%4d%49%5a%45V2ray&security=none&alpn=TELEGRAM: @BigSmoke_Config | TELEGRAM: @BigSmoke_Config&encryption=none&host=V2ray%43%55%53%54%4f%4d%49%5a%45.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@13.41.237.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.10.121.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.169.85.91:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
