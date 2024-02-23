@@ -1,9 +1,6 @@
-vless://a9778625-f4a2-42fc-8015-dde2dcd4d881@140.82.53.122:567?path=%2F&security=reality&encryption=none&pbk=L-3BNMN89itwyzSnsv4WihvszKdDONmUN9ewQYDMN1Y&fp=chrome&type=http&sni=kodular.io&sid=a63e2394f0e08731#👉🆔 @FORWARDV2RAY
-vless://a9778625-f4a2-42fc-8015-dde2dcd4d881@140.82.53.122:567?path=%2F&security=reality&encryption=none&pbk=L-3BNMN89itwyzSnsv4WihvszKdDONmUN9ewQYDMN1Y&fp=chrome&type=http&sni=kodular.io&sid=a63e2394f0e08731#👉🆔 @FORWARDV2RAY
-vless://a9778625-f4a2-42fc-8015-dde2dcd4d881@140.82.53.122:567?path=%2F&security=reality&encryption=none&pbk=L-3BNMN89itwyzSnsv4WihvszKdDONmUN9ewQYDMN1Y&fp=chrome&type=http&sni=kodular.io&sid=a63e2394f0e08731#👉🆔 @FORWARDV2RAY
-vless://a9778625-f4a2-42fc-8015-dde2dcd4d881@140.82.53.122:567?path=%2F&security=reality&encryption=none&pbk=L-3BNMN89itwyzSnsv4WihvszKdDONmUN9ewQYDMN1Y&fp=chrome&type=http&sni=kodular.io&sid=a63e2394f0e08731#👉🆔 @FORWARDV2RAY
-vless://a9778625-f4a2-42fc-8015-dde2dcd4d881@140.82.53.122:567?path=%2F&security=reality&encryption=none&pbk=L-3BNMN89itwyzSnsv4WihvszKdDONmUN9ewQYDMN1Y&fp=chrome&type=http&sni=kodular.io&sid=a63e2394f0e08731#👉🆔 @FORWARDV2RAY
-vless://a9778625-f4a2-42fc-8015-dde2dcd4d881@140.82.53.122:567?path=%2F&security=reality&encryption=none&pbk=L-3BNMN89itwyzSnsv4WihvszKdDONmUN9ewQYDMN1Y&fp=chrome&type=http&sni=kodular.io&sid=a63e2394f0e08731#👉🆔 @FORWARDV2RAY
+vless://V2RAXX--V2RAXX--V2RAXX@45.32.151.231:2053?path=%2FV2RAXX--V2RAXX--V2RAXX--V2RAXX--V2RAXX--V2RAXX&security=none&encryption=none&host=Fast.com&type=ws#👉🆔 @FORWARDV2RAY
+vless://V2RAXX--V2RAXX--V2RAXX@45.32.151.231:2053?path=%2FV2RAXX--V2RAXX--V2RAXX--V2RAXX--V2RAXX--V2RAXX&security=none&encryption=none&host=Fast.com&type=ws#👉🆔 @FORWARDV2RAY
+vless://V2RAXX--V2RAXX--V2RAXX@45.32.151.231:2053?path=%2FV2RAXX--V2RAXX--V2RAXX--V2RAXX--V2RAXX--V2RAXX&security=none&encryption=none&host=Fast.com&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@15.188.250.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.209.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S116)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.4.246:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S105)🇨🇵t.me/PrivateVPNs
