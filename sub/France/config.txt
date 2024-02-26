@@ -1,3 +1,6 @@
+vless://8c1ff0d5-70fa-52d2-8415-6f0f33e75424@amodnj.jsbsusk.kdbsj.ksn.herman6.top:3937/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome#👉🆔 @FORWARDV2RAY
+vless://8c1ff0d5-70fa-52d2-8415-6f0f33e75424@amodnj.jsbsusk.kdbsj.ksn.herman6.top:3937/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome#👉🆔 @FORWARDV2RAY
+vless://8c1ff0d5-70fa-52d2-8415-6f0f33e75424@amodnj.jsbsusk.kdbsj.ksn.herman6.top:3937/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@52.47.191.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.38.248.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.47.200.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
