@@ -3,20 +3,28 @@ vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryptio
 trojan://9b57d792-fe3e-42f7-9561-0f0833ed6556@us-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281399%29%20US
 vless://V2rayCUSTOMIZE@www.Speedtest.Net:8080?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
 vless://V2rayCUSTOMIZE@www.Speedtest.Net:8080?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
-vless://V2rayCUSTOMIZE@www.Speedtest.Net:8080?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
-vless://---DIGIV2RAY--@discordapp.com:80?path=%2FDigiv2ray&security=none&encryption=none&host=tmch.RadioTehran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
-vless://---DIGIV2RAY--@discordapp.com:80?path=%2FDigiv2ray&security=none&encryption=none&host=tmch.RadioTehran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
-vless://V2rayCUSTOMIZE@www.Speedtest.Net:8080?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
-vless://V2rayCUSTOMIZE@www.Speedtest.Net:8080?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
-vless://V2rayCUSTOMIZE@www.Speedtest.Net:8080?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
-vless://---DIGIV2RAY--@discordapp.com:80?path=%2FDigiv2ray&security=none&encryption=none&host=tmch.RadioTehran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
-vless://---DIGIV2RAY--@discordapp.com:80?path=%2FDigiv2ray&security=none&encryption=none&host=tmch.RadioTehran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@172.67.24.121:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#👉🆔 @FORWARDV2RAY
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@162.159.135.79:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#👉🆔 @FORWARDV2RAY
+vless://7173507c-0c46-4b7a-a824-9e97f5c7e7ee@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=nb-de.qfruiti.com&fp=firefox&type=ws&sni=qfruiti.com#👉🆔 @FORWARDV2RAY
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@172.67.24.121:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#👉🆔 @FORWARDV2RAY
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@162.159.135.79:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#👉🆔 @FORWARDV2RAY
+vless://7173507c-0c46-4b7a-a824-9e97f5c7e7ee@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=nb-de.qfruiti.com&fp=firefox&type=ws&sni=qfruiti.com#👉🆔 @FORWARDV2RAY
 vless://V2rayCUSTOMIZE@www.Speedtest.Net:8080?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
 vless://V2rayCUSTOMIZE@www.Speedtest.Net:8080?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@172.67.24.121:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#👉🆔 @FORWARDV2RAY
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@162.159.135.79:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#👉🆔 @FORWARDV2RAY
+vless://7173507c-0c46-4b7a-a824-9e97f5c7e7ee@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=nb-de.qfruiti.com&fp=firefox&type=ws&sni=qfruiti.com#👉🆔 @FORWARDV2RAY
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@172.67.24.121:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#👉🆔 @FORWARDV2RAY
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@162.159.135.79:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#👉🆔 @FORWARDV2RAY
+vless://7173507c-0c46-4b7a-a824-9e97f5c7e7ee@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=nb-de.qfruiti.com&fp=firefox&type=ws&sni=qfruiti.com#👉🆔 @FORWARDV2RAY
 vless://V2rayCUSTOMIZE@www.Speedtest.Net:8080?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
-vless://---DIGIV2RAY--@discordapp.com:80?path=%2FDigiv2ray&security=none&encryption=none&host=tmch.RadioTehran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
-vless://---DIGIV2RAY--@discordapp.com:80?path=%2FDigiv2ray&security=none&encryption=none&host=tmch.RadioTehran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.193.32.154:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
+vless://V2rayCUSTOMIZE@www.Speedtest.Net:8080?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@172.67.24.121:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#👉🆔 @FORWARDV2RAY
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@162.159.135.79:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#👉🆔 @FORWARDV2RAY
+vless://7173507c-0c46-4b7a-a824-9e97f5c7e7ee@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=nb-de.qfruiti.com&fp=firefox&type=ws&sni=qfruiti.com#👉🆔 @FORWARDV2RAY
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@172.67.24.121:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#👉🆔 @FORWARDV2RAY
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@162.159.135.79:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#👉🆔 @FORWARDV2RAY
+vless://7173507c-0c46-4b7a-a824-9e97f5c7e7ee@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=nb-de.qfruiti.com&fp=firefox&type=ws&sni=qfruiti.com#👉🆔 @FORWARDV2RAY
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.198.51.18:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
 vless://c9630022-48f1-4e4d-dea6-1e8b1d7c0879@mciv2pedia.sytes.net:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia&sni=storevv7789.v2logy.ir#%E2%9A%A1%40V2PEDIA%E2%9A%A1All
 vless://b7337403-2e3c-43e6-b200-dd593d854f47@mciv2pedia.sytes.net:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia&sni=grgg4569.v2logy.ir#%E2%9A%A1%40V2PEDIA%E2%9A%A1All2
