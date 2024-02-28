@@ -1,15 +1,6 @@
 vless://d382deda-85ed-4b4c-aa90-7c5061b66b66@v2line.telegram.channel.1389.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:80?encryption=none&security=none&sni=be1.v2vless.xyz&type=ws&host=be1.v2vless.xyz&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281389%29%20BE
 vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281397%29%20TR
 trojan://9b57d792-fe3e-42f7-9561-0f0833ed6556@us-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281399%29%20US
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QkczZ0czbGZwbDExTkU0eWZzSUN4@172.233.214.104:8080#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@passconf.xyz:8080#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QkczZ0czbGZwbDExTkU0eWZzSUN4@passconf.xyz:8080#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QkczZ0czbGZwbDExTkU0eWZzSUN4@172.233.214.104:8080#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@passconf.xyz:8080#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QkczZ0czbGZwbDExTkU0eWZzSUN4@passconf.xyz:8080#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QkczZ0czbGZwbDExTkU0eWZzSUN4@172.233.214.104:8080#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@passconf.xyz:8080#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QkczZ0czbGZwbDExTkU0eWZzSUN4@passconf.xyz:8080#👉🆔 @FORWARDV2RAY
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.171.219.252:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@44.198.246.4:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
 vless://c9630022-48f1-4e4d-dea6-1e8b1d7c0879@mciv2pedia.sytes.net:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia&sni=storevv7789.v2logy.ir#%E2%9A%A1%40V2PEDIA%E2%9A%A1All
@@ -59,6 +50,8 @@ vless://c8ce2cf9-e311-412e-936b-730a11c4e560@104.18.203.232:2087/@ELiV2RAY-@ELiV
 vless://61817e64-10ca-47be-97e8-9d6ff6aa2a5d@104.16.159.9:443/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=grpc&encryption=none&serviceName=2sg8k6ktNBzuCJ7tOInMZQZNim&security=tls&sni=rsfrndc.foriran.trade&alpn=h2&fp=chrome#S2-@ELiV2RAY
 vless://d678027b-b43a-4c32-872d-e3a571d1c52b@104.21.68.89:2087?mode=gun&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=grpc&serviceName=&sni=mxdrug32.shahabservices.com#🇨🇵@ELiV2RAY
 vless://8ca98c98-fb0b-4007-a6e8-c8294e546763@172.67.31.117:443/?type=grpc&encryption=none&serviceName=6eenmFpWJ6RknrPH6qK9&security=tls&sni=srv12.xyzquant.cloud&fp=chrome#🇩🇪@ELiV2RAG
+vless://1a57253c-9012-442d-b1e4-db4e2eb12a31@104.21.69.44:2087/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=&sni=mehdi1.honarestan-hegmataneh.com#🇩🇪@ELiV2RAY
+vless://6401c853-62b6-452b-b0dd-c1444bb4f22f@104.16.120.85:2087/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=Soby&sni=mesoot.rada-cosmetics.ir#🇳🇱ELiV2RAY
 vless://2f947ef5-8eb8-4450-a463-5db23d15038d@discord.gg:80?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&security=none&encryption=none&host=severnettg.xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws#%40SERVERNETT+MCI+1
 vless://9356d1b8-ffb9-4ebb-8f3a-f2bf09c1a94e@discord.gg:8880?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&security=none&encryption=none&host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws#%40SERVERNETT+MCI+2
 vless://92507238-d3fd-408b-bedb-fe9b21f728e9@discord.gg:8880?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&security=none&encryption=none&host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws#%40SERVERNETT+MCI+2
