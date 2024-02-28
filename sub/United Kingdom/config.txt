@@ -1,3 +1,9 @@
+vless://58d1120e-808f-4476-b6f0-90683936c00e@87.236.208.189:2052?security=none&encryption=none&host=fararu.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @FORWARDV2RAY
+vless://58d1120e-808f-4476-b6f0-90683936c00e@87.236.208.189:2052?security=none&encryption=none&host=fararu.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @FORWARDV2RAY
+vless://58d1120e-808f-4476-b6f0-90683936c00e@87.236.208.189:2052?security=none&encryption=none&host=fararu.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@3.10.18.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.11.140.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.175.38.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S117)🇬🇧t.me/PrivateVPNs
