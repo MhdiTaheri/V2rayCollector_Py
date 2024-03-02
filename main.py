@@ -60,6 +60,8 @@ def save_configs_by_region(configs):
 
     if not os.path.exists(config_folder):
         os.makedirs(config_folder)
+    if not os.path.exists('sub/Mix'):
+        os.makedirs('sub/Mix')
 
     for config in configs:
         with open(os.path.join('sub/Mix/mix.txt'), 'a', encoding='utf-8') as file:
