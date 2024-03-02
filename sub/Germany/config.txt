@@ -1,9 +1,9 @@
-vless://5f2bcfcb-43a0-4de3-9306-8020b9ff0c13@49.13.63.141:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://5f2bcfcb-43a0-4de3-9306-8020b9ff0c13@49.13.63.141:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://5f2bcfcb-43a0-4de3-9306-8020b9ff0c13@49.13.63.141:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://5f2bcfcb-43a0-4de3-9306-8020b9ff0c13@49.13.63.141:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://5f2bcfcb-43a0-4de3-9306-8020b9ff0c13@49.13.63.141:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://5f2bcfcb-43a0-4de3-9306-8020b9ff0c13@49.13.63.141:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
+vless://aa74d446-18a0-4b76-a255-e47373717e77@154.197.75.98:80?path=%2F&security=none&encryption=none&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org&type=ws#👉🆔 @FORWARDV2RAY
+vless://aa74d446-18a0-4b76-a255-e47373717e77@154.197.75.98:80?path=%2F&security=none&encryption=none&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org&type=ws#👉🆔 @FORWARDV2RAY
+vless://aa74d446-18a0-4b76-a255-e47373717e77@154.197.75.98:80?path=%2F&security=none&encryption=none&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org&type=ws#👉🆔 @FORWARDV2RAY
+vless://aa74d446-18a0-4b76-a255-e47373717e77@154.197.75.98:80?path=%2F&security=none&encryption=none&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org&type=ws#👉🆔 @FORWARDV2RAY
+vless://aa74d446-18a0-4b76-a255-e47373717e77@154.197.75.98:80?path=%2F&security=none&encryption=none&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org&type=ws#👉🆔 @FORWARDV2RAY
+vless://aa74d446-18a0-4b76-a255-e47373717e77@154.197.75.98:80?path=%2F&security=none&encryption=none&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@18.195.87.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.156.170.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.79.176.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
