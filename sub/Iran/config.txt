@@ -1,30 +1,3 @@
-vless://6aa6cb06-c20c-44a9-f22b-036407e37556@217.114.40.135:8443?security=none&encryption=none&host=ir1.node.check-host.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://3b4d1ac6-ce75-4f84-8cd0-0509a31340cd@31.7.70.141:10195?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://2573d455-dee0-4dfa-929e-47b43415e011@85.198.17.200:2093?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://b98751ff-96fc-4492-8666-5207fb91d1e0@45.92.93.134:20392?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://eb9689ff-683c-4b9c-94af-bff2671c2988@185.233.13.149:2061?mode=gun&security=tls&encryption=none&type=grpc&serviceName=abc&sni=osalizx.v2raypanell.ir#👉🆔 @FORWARDV2RAY
-vless://e05295e0-699b-4b90-ba40-2b60b616e3a8@91.217.177.62:8081?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://6aa6cb06-c20c-44a9-f22b-036407e37556@217.114.40.135:8443?security=none&encryption=none&host=ir1.node.check-host.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://3b4d1ac6-ce75-4f84-8cd0-0509a31340cd@31.7.70.141:10195?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://2573d455-dee0-4dfa-929e-47b43415e011@85.198.17.200:2093?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://6aa6cb06-c20c-44a9-f22b-036407e37556@217.114.40.135:8443?security=none&encryption=none&host=ir1.node.check-host.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://3b4d1ac6-ce75-4f84-8cd0-0509a31340cd@31.7.70.141:10195?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://2573d455-dee0-4dfa-929e-47b43415e011@85.198.17.200:2093?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://b98751ff-96fc-4492-8666-5207fb91d1e0@45.92.93.134:20392?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://eb9689ff-683c-4b9c-94af-bff2671c2988@185.233.13.149:2061?mode=gun&security=tls&encryption=none&type=grpc&serviceName=abc&sni=osalizx.v2raypanell.ir#👉🆔 @FORWARDV2RAY
-vless://e05295e0-699b-4b90-ba40-2b60b616e3a8@91.217.177.62:8081?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://6aa6cb06-c20c-44a9-f22b-036407e37556@217.114.40.135:8443?security=none&encryption=none&host=ir1.node.check-host.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://3b4d1ac6-ce75-4f84-8cd0-0509a31340cd@31.7.70.141:10195?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://2573d455-dee0-4dfa-929e-47b43415e011@85.198.17.200:2093?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://6aa6cb06-c20c-44a9-f22b-036407e37556@217.114.40.135:8443?security=none&encryption=none&host=ir1.node.check-host.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://3b4d1ac6-ce75-4f84-8cd0-0509a31340cd@31.7.70.141:10195?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://2573d455-dee0-4dfa-929e-47b43415e011@85.198.17.200:2093?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://b98751ff-96fc-4492-8666-5207fb91d1e0@45.92.93.134:20392?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://eb9689ff-683c-4b9c-94af-bff2671c2988@185.233.13.149:2061?mode=gun&security=tls&encryption=none&type=grpc&serviceName=abc&sni=osalizx.v2raypanell.ir#👉🆔 @FORWARDV2RAY
-vless://e05295e0-699b-4b90-ba40-2b60b616e3a8@91.217.177.62:8081?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://6aa6cb06-c20c-44a9-f22b-036407e37556@217.114.40.135:8443?security=none&encryption=none&host=ir1.node.check-host.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://3b4d1ac6-ce75-4f84-8cd0-0509a31340cd@31.7.70.141:10195?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://2573d455-dee0-4dfa-929e-47b43415e011@85.198.17.200:2093?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
 vless://b7fa2716-f9e4-4d3f-8c1f-6f2398f32320@193.228.91.161:15883?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#%40dailyv2ry%F0%9F%9A%80
 vless://f13e9ee4-fcc2-476c-8b91-118a938ac2c2@45.89.237.139:59084?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://0478738d-9644-4daa-b77f-fc0d53a82060@45.92.93.134:56808?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
