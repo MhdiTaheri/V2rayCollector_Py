@@ -1,6 +1,3 @@
-vless://5f2bcfcb-43a0-4de3-9306-8020b9ff0c13@78.47.96.56:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://5f2bcfcb-43a0-4de3-9306-8020b9ff0c13@78.47.96.56:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://5f2bcfcb-43a0-4de3-9306-8020b9ff0c13@78.47.96.56:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@18.193.187.115:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.197.74.97:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.75.68.178:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
