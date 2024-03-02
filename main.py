@@ -62,7 +62,7 @@ def save_configs_by_region(configs):
         os.makedirs(config_folder)
 
     for config in configs:
-        with open(os.path.join('mix.txt'), 'a', encoding='utf-8') as file:
+        with open(os.path.join('sub/Mix/mix.txt'), 'a', encoding='utf-8') as file:
                 file.write(config + '\n')
         ip = config.split('//')[1].split('/')[0]
         region = get_region_from_ip(ip)
