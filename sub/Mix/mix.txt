@@ -9,39 +9,39 @@ vless://db373721-55aa-4ad2-9c33-855377ad289f@au-full.privateip.net:443?encryptio
 vless://8b7db47d-40a6-4c6e-b810-6c03cc0ffd04@dk1.v2vless.xyz:80?encryption=none&security=none&sni=dk1.v2vless.xyz&type=ws&host=dk1.v2vless.xyz&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281402%29%20DK
 vless://5bd0f092-85c4-43b5-a297-55c3dc473283@fi1.v2vless.xyz:80?encryption=none&security=none&sni=fi1.v2vless.xyz&type=ws&host=fi1.v2vless.xyz&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281404%29%20FI
 vless://d6417aa7-6947-44a5-a55f-d26890d30550@is2.v2vless.xyz:80?encryption=none&security=none&sni=is2.v2vless.xyz&type=ws&host=is2.v2vless.xyz&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281406%29%20IS
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443/?type=ws&encryption=none&host=3k.pureboy.eu.org&path=path%2FTELEGRAM...PROXY_MTM%3Fed%3D2048&security=tls&sni=3k.pureboy.eu.org#👉🆔 @FORWARDV2RAY
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@for-irancell.outline-vpn.cloud:443/?type=ws&encryption=none&host=baipiao55.stunning-bassoon.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=baipiao55.stunning-bassoon.pages.dev#👉🆔 @FORWARDV2RAY
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@join--showwww.outline-vpn.cloud:443/?type=ws&encryption=none&host=baipiao406.stunning-bassoon.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=baipiao406.stunning-bassoon.pages.dev#👉🆔 @FORWARDV2RAY
-trojan://607931c6-2979-3afa-a51b-ce3099ef86f9@hn1-jp.fwcloud.cc:13524/?type=tcp&security=tls&sni=kr02.linkms001.com#👉🆔 @FORWARDV2RAY
-trojan://6c7e728e-29d9-41be-8be0-1e56b536e840@b12.ntbq.dynu.net:9755/?type=tcp&security=tls&sni=b12.ntbq.dynu.net#👉🆔 @FORWARDV2RAY
-vless://V2rayCUSTOMIZE@discord.gg:80/?type=ws&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&path=%2F%40VPNCUSTOMIZE#👉🆔 @FORWARDV2RAY
 vless://e7351a7d-f746-42f0-d3b8-3bd4c997bae1@group.vpnking.online:443?path=%2FSACHI&security=tls&encryption=none&type=ws&sni=m.zoom.us#👉🆔 @FORWARDV2RAY
 trojan://AhEcWA9fka@group.vpnking.online:10505?security=tls&headerType=none&type=tcp&sni=android.googleapis.com#👉🆔 @FORWARDV2RAY
 trojan://Ee2CzZ1IRC@group.vpnking.online:42499?security=tls&headerType=none&type=tcp&sni=m.zoom.us#👉🆔 @FORWARDV2RAY
 vless://339b0488-58fe-4734-fab6-889ff048c28a@group.vpnking.online:29430?path=%2F&security=none&encryption=none&host=store.steampowered.com&type=ws#👉🆔 @FORWARDV2RAY
 trojan://4A21YlP5XI@group.vpnking.online:20810?security=tls&headerType=none&type=tcp&sni=m.whatsapp.com#👉🆔 @FORWARDV2RAY
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443/?type=ws&encryption=none&host=3k.pureboy.eu.org&path=path%2FTELEGRAM...PROXY_MTM%3Fed%3D2048&security=tls&sni=3k.pureboy.eu.org#👉🆔 @FORWARDV2RAY
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@for-irancell.outline-vpn.cloud:443/?type=ws&encryption=none&host=baipiao55.stunning-bassoon.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=baipiao55.stunning-bassoon.pages.dev#👉🆔 @FORWARDV2RAY
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@join--showwww.outline-vpn.cloud:443/?type=ws&encryption=none&host=baipiao406.stunning-bassoon.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=baipiao406.stunning-bassoon.pages.dev#👉🆔 @FORWARDV2RAY
-trojan://607931c6-2979-3afa-a51b-ce3099ef86f9@hn1-jp.fwcloud.cc:13524/?type=tcp&security=tls&sni=kr02.linkms001.com#👉🆔 @FORWARDV2RAY
-trojan://6c7e728e-29d9-41be-8be0-1e56b536e840@b12.ntbq.dynu.net:9755/?type=tcp&security=tls&sni=b12.ntbq.dynu.net#👉🆔 @FORWARDV2RAY
-vless://V2rayCUSTOMIZE@discord.gg:80/?type=ws&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&path=%2F%40VPNCUSTOMIZE#👉🆔 @FORWARDV2RAY
+vless://14a06e9d-9d44-4dce-8f3e-2ad99607cc04@104.25.254.88:2096?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=aa.soosa.space#👉🆔 @FORWARDV2RAY
+vless://14a06e9d-9d44-4dce-8f3e-2ad99607cc04@104.25.254.88:2096?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=aa.soosa.space#👉🆔 @FORWARDV2RAY
+trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443?path=6b777a91&security=tls&alpn=h2,http/1.1&host=sherasheba.com&fp=firefox&type=ws&sni=sherasheba.com#👉🆔 @FORWARDV2RAY
+trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443?path=6b777a91&security=tls&alpn=h2,http/1.1&host=avianrecruit.com&fp=firefox&type=ws&sni=avianrecruit.com#👉🆔 @FORWARDV2RAY
+vless://14a06e9d-9d44-4dce-8f3e-2ad99607cc04@104.25.254.88:2096?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=aa.soosa.space#👉🆔 @FORWARDV2RAY
+vless://14a06e9d-9d44-4dce-8f3e-2ad99607cc04@104.25.254.88:2096?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=aa.soosa.space#👉🆔 @FORWARDV2RAY
 vless://e7351a7d-f746-42f0-d3b8-3bd4c997bae1@group.vpnking.online:443?path=%2FSACHI&security=tls&encryption=none&type=ws&sni=m.zoom.us#👉🆔 @FORWARDV2RAY
 trojan://AhEcWA9fka@group.vpnking.online:10505?security=tls&headerType=none&type=tcp&sni=android.googleapis.com#👉🆔 @FORWARDV2RAY
 trojan://Ee2CzZ1IRC@group.vpnking.online:42499?security=tls&headerType=none&type=tcp&sni=m.zoom.us#👉🆔 @FORWARDV2RAY
 vless://339b0488-58fe-4734-fab6-889ff048c28a@group.vpnking.online:29430?path=%2F&security=none&encryption=none&host=store.steampowered.com&type=ws#👉🆔 @FORWARDV2RAY
 trojan://4A21YlP5XI@group.vpnking.online:20810?security=tls&headerType=none&type=tcp&sni=m.whatsapp.com#👉🆔 @FORWARDV2RAY
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443/?type=ws&encryption=none&host=3k.pureboy.eu.org&path=path%2FTELEGRAM...PROXY_MTM%3Fed%3D2048&security=tls&sni=3k.pureboy.eu.org#👉🆔 @FORWARDV2RAY
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@for-irancell.outline-vpn.cloud:443/?type=ws&encryption=none&host=baipiao55.stunning-bassoon.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=baipiao55.stunning-bassoon.pages.dev#👉🆔 @FORWARDV2RAY
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@join--showwww.outline-vpn.cloud:443/?type=ws&encryption=none&host=baipiao406.stunning-bassoon.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=baipiao406.stunning-bassoon.pages.dev#👉🆔 @FORWARDV2RAY
-trojan://607931c6-2979-3afa-a51b-ce3099ef86f9@hn1-jp.fwcloud.cc:13524/?type=tcp&security=tls&sni=kr02.linkms001.com#👉🆔 @FORWARDV2RAY
-trojan://6c7e728e-29d9-41be-8be0-1e56b536e840@b12.ntbq.dynu.net:9755/?type=tcp&security=tls&sni=b12.ntbq.dynu.net#👉🆔 @FORWARDV2RAY
-vless://V2rayCUSTOMIZE@discord.gg:80/?type=ws&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&path=%2F%40VPNCUSTOMIZE#👉🆔 @FORWARDV2RAY
+vless://14a06e9d-9d44-4dce-8f3e-2ad99607cc04@104.25.254.88:2096?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=aa.soosa.space#👉🆔 @FORWARDV2RAY
+vless://14a06e9d-9d44-4dce-8f3e-2ad99607cc04@104.25.254.88:2096?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=aa.soosa.space#👉🆔 @FORWARDV2RAY
+trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443?path=6b777a91&security=tls&alpn=h2,http/1.1&host=sherasheba.com&fp=firefox&type=ws&sni=sherasheba.com#👉🆔 @FORWARDV2RAY
+trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443?path=6b777a91&security=tls&alpn=h2,http/1.1&host=avianrecruit.com&fp=firefox&type=ws&sni=avianrecruit.com#👉🆔 @FORWARDV2RAY
+vless://14a06e9d-9d44-4dce-8f3e-2ad99607cc04@104.25.254.88:2096?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=aa.soosa.space#👉🆔 @FORWARDV2RAY
+vless://14a06e9d-9d44-4dce-8f3e-2ad99607cc04@104.25.254.88:2096?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=aa.soosa.space#👉🆔 @FORWARDV2RAY
 vless://e7351a7d-f746-42f0-d3b8-3bd4c997bae1@group.vpnking.online:443?path=%2FSACHI&security=tls&encryption=none&type=ws&sni=m.zoom.us#👉🆔 @FORWARDV2RAY
 trojan://AhEcWA9fka@group.vpnking.online:10505?security=tls&headerType=none&type=tcp&sni=android.googleapis.com#👉🆔 @FORWARDV2RAY
 trojan://Ee2CzZ1IRC@group.vpnking.online:42499?security=tls&headerType=none&type=tcp&sni=m.zoom.us#👉🆔 @FORWARDV2RAY
 vless://339b0488-58fe-4734-fab6-889ff048c28a@group.vpnking.online:29430?path=%2F&security=none&encryption=none&host=store.steampowered.com&type=ws#👉🆔 @FORWARDV2RAY
 trojan://4A21YlP5XI@group.vpnking.online:20810?security=tls&headerType=none&type=tcp&sni=m.whatsapp.com#👉🆔 @FORWARDV2RAY
+vless://14a06e9d-9d44-4dce-8f3e-2ad99607cc04@104.25.254.88:2096?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=aa.soosa.space#👉🆔 @FORWARDV2RAY
+vless://14a06e9d-9d44-4dce-8f3e-2ad99607cc04@104.25.254.88:2096?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=aa.soosa.space#👉🆔 @FORWARDV2RAY
+trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443?path=6b777a91&security=tls&alpn=h2,http/1.1&host=sherasheba.com&fp=firefox&type=ws&sni=sherasheba.com#👉🆔 @FORWARDV2RAY
+trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443?path=6b777a91&security=tls&alpn=h2,http/1.1&host=avianrecruit.com&fp=firefox&type=ws&sni=avianrecruit.com#👉🆔 @FORWARDV2RAY
+vless://14a06e9d-9d44-4dce-8f3e-2ad99607cc04@104.25.254.88:2096?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=aa.soosa.space#👉🆔 @FORWARDV2RAY
+vless://14a06e9d-9d44-4dce-8f3e-2ad99607cc04@104.25.254.88:2096?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=aa.soosa.space#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@18.195.87.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.156.170.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.44.40.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S105)🇨🇵t.me/PrivateVPNs
