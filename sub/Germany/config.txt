@@ -1,3 +1,6 @@
+vless://7272b0f3-fbb3-455b-b0fe-a1a81eb55656@154.197.75.98:80?security=none&type=ws&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org&path=%2F#👉🆔 @FORWARDV2RAY
+vless://7272b0f3-fbb3-455b-b0fe-a1a81eb55656@154.197.75.98:80?security=none&type=ws&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org&path=%2F#👉🆔 @FORWARDV2RAY
+vless://7272b0f3-fbb3-455b-b0fe-a1a81eb55656@154.197.75.98:80?security=none&type=ws&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org&path=%2F#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@3.77.143.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.158.9.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.184.234.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
