@@ -1,6 +1,12 @@
-vless://0ecfe0fb-d834-4e3b-af1c-bcfb345ead8b@Join.ShhProxy.Site:80?path=%2F&security=none&encryption=none&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org&type=ws#👉🆔 @FORWARDV2RAY
-vless://0ecfe0fb-d834-4e3b-af1c-bcfb345ead8b@Join.ShhProxy.Site:80?path=%2F&security=none&encryption=none&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org&type=ws#👉🆔 @FORWARDV2RAY
-vless://0ecfe0fb-d834-4e3b-af1c-bcfb345ead8b@Join.ShhProxy.Site:80?path=%2F&security=none&encryption=none&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org&type=ws#👉🆔 @FORWARDV2RAY
+vless://SVNTEAM@188.40.14.215:80/?type=ws&path=%2FSVNTEAM%3Fed%3D1048&host=SVNTEAM-V2rayTwo.xn--fhq0la447aac5504dea701axr1g.Com.&security=none#👉🆔 @FORWARDV2RAY
+vless://--DIGiV2RAY--@154.197.75.84:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://--DIGiV2RAY--@154.197.75.84:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://SVNTEAM@188.40.14.215:80/?type=ws&path=%2FSVNTEAM%3Fed%3D1048&host=SVNTEAM-V2rayTwo.xn--fhq0la447aac5504dea701axr1g.Com.&security=none#👉🆔 @FORWARDV2RAY
+vless://--DIGiV2RAY--@154.197.75.84:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://--DIGiV2RAY--@154.197.75.84:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://SVNTEAM@188.40.14.215:80/?type=ws&path=%2FSVNTEAM%3Fed%3D1048&host=SVNTEAM-V2rayTwo.xn--fhq0la447aac5504dea701axr1g.Com.&security=none#👉🆔 @FORWARDV2RAY
+vless://--DIGiV2RAY--@154.197.75.84:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://--DIGiV2RAY--@154.197.75.84:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@18.198.193.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.29.182.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.76.25.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
