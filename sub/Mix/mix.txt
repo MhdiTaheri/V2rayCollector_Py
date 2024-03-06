@@ -8,45 +8,48 @@ vless://db373721-55aa-4ad2-9c33-855377ad289f@au-full.privateip.net:443?encryptio
 vless://8b7db47d-40a6-4c6e-b810-6c03cc0ffd04@dk1.v2vless.xyz:80?encryption=none&security=none&sni=dk1.v2vless.xyz&type=ws&host=dk1.v2vless.xyz&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281402%29%20DK
 vless://5bd0f092-85c4-43b5-a297-55c3dc473283@fi1.v2vless.xyz:80?encryption=none&security=none&sni=fi1.v2vless.xyz&type=ws&host=fi1.v2vless.xyz&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281404%29%20FI
 vless://d6417aa7-6947-44a5-a55f-d26890d30550@is2.v2vless.xyz:80?encryption=none&security=none&sni=is2.v2vless.xyz&type=ws&host=is2.v2vless.xyz&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281406%29%20IS
-vless://04219735-8453-47a4-986e-2a780a034517@abadis.ir.mmdargon.top:80?encryption=none&fp=firefox&mode=multi&pbk=vQHsbqgrft7IuCf9_m1Zex_Jaw9bBX7Mv-mUkNvzhGk&security=reality&serviceName=%40internetbrayhamh%40internetbrayhamh%40internetbrayhamh%40internetbrayhamh&sid=25b888a5&sni=internetbrayhamh.com&spx=%2F&type=grpc#👉🆔 @FORWARDV2RAY
-vless://95889265-c183-4b99-a4ab-648245c05c89@77.246.99.239:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oIXlVQLyObtIYcvEtVGXrathqaxBQd0keGCIrP_KHk8&security=reality&sid=b3c1fd20&sni=canva.heydasip.xyz&type=tcp#👉🆔 @FORWARDV2RAY
-vless://6c8ef4af-04c7-4a85-af1a-d667453a7e49@167.99.130.148:443?encryption=none&fp=firefox&mode=gun&pbk=zUjEdJBAjv-A-j9blSCSbBe15xZSvKP5SUGIg8-etBE&security=reality&serviceName=%40ipV2Ray&sid=9ba0ab2a&sni=%2A.spiderermes.it&spx=%2F&type=grpc#👉🆔 @FORWARDV2RAY
-vless://f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f@104.18.202.232:2052?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Xmrdark.%F0%9F%91%BD%F0%9F%91%BD%F0%9F%91%BD.V2ray.%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB.radiotehran.tech.&type=ws#👉🆔 @FORWARDV2RAY
-vless://f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f@104.21.28.62:2052?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Xmrdark.xn--cr8haa.V2ray.xn--1ug4145pija8k.radiotehran.tech.&type=ws#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYjJnRkhrbXBkU2FSSEJxTjlGTWVF@vienna.telegavpn.com:61992#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuU3R5R3haa1JRc0M0SFlraFltQnA0@52.178.212.207:25896/?outline=1#👉🆔 @FORWARDV2RAY
 vless://cc7a59ce-eee7-4503-afc1-d73703c40993@[2a01:4f8:1c0c:7523::1]:2096?mode=gun&security=reality&encryption=none&pbk=fkSxbZt-AETccsW2WfmHBP5RhiLy6Nk1vdEgYdnYQUc&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=c8129c93#👉🆔 @FORWARDV2RAY
 vless://f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f@104.18.202.232:2052?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Xmrdark.%F0%9F%91%BD%F0%9F%91%BD%F0%9F%91%BD.V2ray.%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB.radiotehran.tech.&type=ws#👉🆔 @FORWARDV2RAY
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.43.16:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#👉🆔 @FORWARDV2RAY
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.43.16:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#👉🆔 @FORWARDV2RAY
+vless://02514d80-8007-47f7-8aaf-28c1da64f915@185.211.59.210:443?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://02514d80-8007-47f7-8aaf-28c1da64f915@185.211.59.210:443?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxamdGcmVVQnQxSG9URlpuYldWZEp1@moscow.telegavpn.com:60422#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cDFOVU1CZWFwQXhKN3hOWk5CRTlT@tr.telegavpn.com:26551#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cDFOVU1CZWFwQXhKN3hOWk5CRTlT@tr.telegavpn.com:26551#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxamdGcmVVQnQxSG9URlpuYldWZEp1@moscow.telegavpn.com:60422#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidHptcEw3YU9zN1liY0xTNEluNllY@95.164.113.64:7150#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidHptcEw3YU9zN1liY0xTNEluNllY@95.164.113.64:7150#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJVXF4REVLdDZYVEx5ZlpEcGZLSzJ0@tr.telegavpn.com:26551#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidHptcEw3YU9zN1liY0xTNEluNllY@95.164.113.64:7150#👉🆔 @FORWARDV2RAY
 vless://cc7a59ce-eee7-4503-afc1-d73703c40993@[2a01:4f8:1c0c:7523::1]:2096?mode=gun&security=reality&encryption=none&pbk=fkSxbZt-AETccsW2WfmHBP5RhiLy6Nk1vdEgYdnYQUc&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=c8129c93#👉🆔 @FORWARDV2RAY
 vless://f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f@104.18.202.232:2052?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Xmrdark.%F0%9F%91%BD%F0%9F%91%BD%F0%9F%91%BD.V2ray.%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB.radiotehran.tech.&type=ws#👉🆔 @FORWARDV2RAY
-vless://04219735-8453-47a4-986e-2a780a034517@abadis.ir.mmdargon.top:80?encryption=none&fp=firefox&mode=multi&pbk=vQHsbqgrft7IuCf9_m1Zex_Jaw9bBX7Mv-mUkNvzhGk&security=reality&serviceName=%40internetbrayhamh%40internetbrayhamh%40internetbrayhamh%40internetbrayhamh&sid=25b888a5&sni=internetbrayhamh.com&spx=%2F&type=grpc#👉🆔 @FORWARDV2RAY
-vless://95889265-c183-4b99-a4ab-648245c05c89@77.246.99.239:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oIXlVQLyObtIYcvEtVGXrathqaxBQd0keGCIrP_KHk8&security=reality&sid=b3c1fd20&sni=canva.heydasip.xyz&type=tcp#👉🆔 @FORWARDV2RAY
-vless://6c8ef4af-04c7-4a85-af1a-d667453a7e49@167.99.130.148:443?encryption=none&fp=firefox&mode=gun&pbk=zUjEdJBAjv-A-j9blSCSbBe15xZSvKP5SUGIg8-etBE&security=reality&serviceName=%40ipV2Ray&sid=9ba0ab2a&sni=%2A.spiderermes.it&spx=%2F&type=grpc#👉🆔 @FORWARDV2RAY
-vless://f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f@104.18.202.232:2052?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Xmrdark.%F0%9F%91%BD%F0%9F%91%BD%F0%9F%91%BD.V2ray.%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB.radiotehran.tech.&type=ws#👉🆔 @FORWARDV2RAY
-vless://f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f@104.21.28.62:2052?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Xmrdark.xn--cr8haa.V2ray.xn--1ug4145pija8k.radiotehran.tech.&type=ws#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYjJnRkhrbXBkU2FSSEJxTjlGTWVF@vienna.telegavpn.com:61992#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuU3R5R3haa1JRc0M0SFlraFltQnA0@52.178.212.207:25896/?outline=1#👉🆔 @FORWARDV2RAY
+vless://02514d80-8007-47f7-8aaf-28c1da64f915@185.211.59.210:443?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://02514d80-8007-47f7-8aaf-28c1da64f915@185.211.59.210:443?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxamdGcmVVQnQxSG9URlpuYldWZEp1@moscow.telegavpn.com:60422#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cDFOVU1CZWFwQXhKN3hOWk5CRTlT@tr.telegavpn.com:26551#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cDFOVU1CZWFwQXhKN3hOWk5CRTlT@tr.telegavpn.com:26551#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxamdGcmVVQnQxSG9URlpuYldWZEp1@moscow.telegavpn.com:60422#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidHptcEw3YU9zN1liY0xTNEluNllY@95.164.113.64:7150#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidHptcEw3YU9zN1liY0xTNEluNllY@95.164.113.64:7150#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJVXF4REVLdDZYVEx5ZlpEcGZLSzJ0@tr.telegavpn.com:26551#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidHptcEw3YU9zN1liY0xTNEluNllY@95.164.113.64:7150#👉🆔 @FORWARDV2RAY
 vless://cc7a59ce-eee7-4503-afc1-d73703c40993@[2a01:4f8:1c0c:7523::1]:2096?mode=gun&security=reality&encryption=none&pbk=fkSxbZt-AETccsW2WfmHBP5RhiLy6Nk1vdEgYdnYQUc&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=c8129c93#👉🆔 @FORWARDV2RAY
 vless://f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f@104.18.202.232:2052?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Xmrdark.%F0%9F%91%BD%F0%9F%91%BD%F0%9F%91%BD.V2ray.%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB.radiotehran.tech.&type=ws#👉🆔 @FORWARDV2RAY
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.43.16:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#👉🆔 @FORWARDV2RAY
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.43.16:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#👉🆔 @FORWARDV2RAY
-vless://cc7a59ce-eee7-4503-afc1-d73703c40993@[2a01:4f8:1c0c:7523::1]:2096?mode=gun&security=reality&encryption=none&pbk=fkSxbZt-AETccsW2WfmHBP5RhiLy6Nk1vdEgYdnYQUc&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=c8129c93#👉🆔 @FORWARDV2RAY
-vless://f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f@104.18.202.232:2052?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Xmrdark.%F0%9F%91%BD%F0%9F%91%BD%F0%9F%91%BD.V2ray.%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB.radiotehran.tech.&type=ws#👉🆔 @FORWARDV2RAY
-vless://04219735-8453-47a4-986e-2a780a034517@abadis.ir.mmdargon.top:80?encryption=none&fp=firefox&mode=multi&pbk=vQHsbqgrft7IuCf9_m1Zex_Jaw9bBX7Mv-mUkNvzhGk&security=reality&serviceName=%40internetbrayhamh%40internetbrayhamh%40internetbrayhamh%40internetbrayhamh&sid=25b888a5&sni=internetbrayhamh.com&spx=%2F&type=grpc#👉🆔 @FORWARDV2RAY
-vless://95889265-c183-4b99-a4ab-648245c05c89@77.246.99.239:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oIXlVQLyObtIYcvEtVGXrathqaxBQd0keGCIrP_KHk8&security=reality&sid=b3c1fd20&sni=canva.heydasip.xyz&type=tcp#👉🆔 @FORWARDV2RAY
-vless://6c8ef4af-04c7-4a85-af1a-d667453a7e49@167.99.130.148:443?encryption=none&fp=firefox&mode=gun&pbk=zUjEdJBAjv-A-j9blSCSbBe15xZSvKP5SUGIg8-etBE&security=reality&serviceName=%40ipV2Ray&sid=9ba0ab2a&sni=%2A.spiderermes.it&spx=%2F&type=grpc#👉🆔 @FORWARDV2RAY
-vless://f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f@104.18.202.232:2052?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Xmrdark.%F0%9F%91%BD%F0%9F%91%BD%F0%9F%91%BD.V2ray.%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB.radiotehran.tech.&type=ws#👉🆔 @FORWARDV2RAY
-vless://f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f@104.21.28.62:2052?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Xmrdark.xn--cr8haa.V2ray.xn--1ug4145pija8k.radiotehran.tech.&type=ws#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYjJnRkhrbXBkU2FSSEJxTjlGTWVF@vienna.telegavpn.com:61992#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuU3R5R3haa1JRc0M0SFlraFltQnA0@52.178.212.207:25896/?outline=1#👉🆔 @FORWARDV2RAY
-vless://cc7a59ce-eee7-4503-afc1-d73703c40993@[2a01:4f8:1c0c:7523::1]:2096?mode=gun&security=reality&encryption=none&pbk=fkSxbZt-AETccsW2WfmHBP5RhiLy6Nk1vdEgYdnYQUc&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=c8129c93#👉🆔 @FORWARDV2RAY
-vless://f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f@104.18.202.232:2052?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Xmrdark.%F0%9F%91%BD%F0%9F%91%BD%F0%9F%91%BD.V2ray.%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB.radiotehran.tech.&type=ws#👉🆔 @FORWARDV2RAY
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.43.16:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#👉🆔 @FORWARDV2RAY
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.43.16:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#👉🆔 @FORWARDV2RAY
-vless://cc7a59ce-eee7-4503-afc1-d73703c40993@[2a01:4f8:1c0c:7523::1]:2096?mode=gun&security=reality&encryption=none&pbk=fkSxbZt-AETccsW2WfmHBP5RhiLy6Nk1vdEgYdnYQUc&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=c8129c93#👉🆔 @FORWARDV2RAY
-vless://f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f@104.18.202.232:2052?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Xmrdark.%F0%9F%91%BD%F0%9F%91%BD%F0%9F%91%BD.V2ray.%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB.radiotehran.tech.&type=ws#👉🆔 @FORWARDV2RAY
+vless://02514d80-8007-47f7-8aaf-28c1da64f915@185.211.59.210:443?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://02514d80-8007-47f7-8aaf-28c1da64f915@185.211.59.210:443?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxamdGcmVVQnQxSG9URlpuYldWZEp1@moscow.telegavpn.com:60422#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cDFOVU1CZWFwQXhKN3hOWk5CRTlT@tr.telegavpn.com:26551#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cDFOVU1CZWFwQXhKN3hOWk5CRTlT@tr.telegavpn.com:26551#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxamdGcmVVQnQxSG9URlpuYldWZEp1@moscow.telegavpn.com:60422#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidHptcEw3YU9zN1liY0xTNEluNllY@95.164.113.64:7150#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidHptcEw3YU9zN1liY0xTNEluNllY@95.164.113.64:7150#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJVXF4REVLdDZYVEx5ZlpEcGZLSzJ0@tr.telegavpn.com:26551#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidHptcEw3YU9zN1liY0xTNEluNllY@95.164.113.64:7150#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@18.198.193.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.29.182.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.187.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S105)🇨🇵t.me/PrivateVPNs
@@ -65,6 +68,7 @@ trojan://telegram-id-privatevpns@18.175.36.19:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@18.175.41.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.35.247.208:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S119)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@108.128.99.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S120)🇨🇮t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.57.242.151:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.243.4:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.104.17:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.104.172:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
@@ -141,6 +145,7 @@ trojan://telegram-id-privatevpns@18.175.36.19:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@18.175.41.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.35.247.208:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S119)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@108.128.99.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S120)🇨🇮t.me/PrivateVPNs
+trojan://telegram-id-directvpn@3.76.240.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.20.198.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.49.207.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@15.236.164.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
