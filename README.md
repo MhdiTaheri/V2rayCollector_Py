@@ -62,7 +62,6 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 | [Sweden](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Sweden/config.txt) |
 | [Ireland](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Ireland/config.txt) |
 | [Costa Rica](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Costa%20Rica/config.txt) |
-| [Isle of Man](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Isle%20of%20Man/config.txt) |
 | [Kazakhstan](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Kazakhstan/config.txt) |
 | [Estonia](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Estonia/config.txt) |
 | [Denmark](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Denmark/config.txt) |
@@ -77,7 +76,6 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 | [Latvia](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Latvia/config.txt) |
 | [Republic of Lithuania](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Republic%20of%20Lithuania/config.txt) |
 | [Austria](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Austria/config.txt) |
-| [Spain](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Spain/config.txt) |
 | [Hong Kong](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Hong%20Kong/config.txt) |
 | [Germany](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Germany/config.txt) |
 | [United States](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/United%20States/config.txt) |
@@ -90,6 +88,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 | [Belize](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Belize/config.txt) |
 | [Australia](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Australia/config.txt) |
 | [Iran](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Iran/config.txt) |
+
 
 
 
