@@ -1,12 +1,9 @@
 trojan://9b57d792-fe3e-42f7-9561-0f0833ed6556@us-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281399%29%20US
-vless://f5840671-5fce-420d-a382-81eeb7f9be34@all.abrarvan.org:2087?path=%2F%40v2rray1_ng&security=tls&encryption=none&alpn=h2,http/1.1&host=xx.1lagvpn13.cfd&fp=chrome&type=ws&sni=xx.1lagvpn13.cfd#👉🆔 @FORWARDV2RAY
 vless://9e2bab6a-0eef-4160-864f-0d269810bb3d@www.speedtest.net:8080?path=%2F%40V_2rayngVpn&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#👉🆔 @FORWARDV2RAY
 vless://f38ef965-f6ae-402c-ab2c-1d42ae49bc9b@104.18.203.232:2095?path=%2F&security=none&encryption=none&host=woudyoulike_none.error.sss20202020202020.iran-check-host-server-sitesssssssssssssssssssssss--sssssssssss.com&type=ws#👉🆔 @FORWARDV2RAY
 vless://f5840671-5fce-420d-a382-81eeb7f9be34@all.abrarvan.org:2087?path=%2F%40v2rray1_ng&security=tls&encryption=none&alpn=h2,http/1.1&host=xx.1lagvpn13.cfd&fp=chrome&type=ws&sni=xx.1lagvpn13.cfd#👉🆔 @FORWARDV2RAY
-vless://f5840671-5fce-420d-a382-81eeb7f9be34@all.abrarvan.org:2087?path=%2F%40v2rray1_ng&security=tls&encryption=none&alpn=h2,http/1.1&host=xx.1lagvpn13.cfd&fp=chrome&type=ws&sni=xx.1lagvpn13.cfd#👉🆔 @FORWARDV2RAY
 vless://9e2bab6a-0eef-4160-864f-0d269810bb3d@www.speedtest.net:8080?path=%2F%40V_2rayngVpn&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#👉🆔 @FORWARDV2RAY
 vless://f38ef965-f6ae-402c-ab2c-1d42ae49bc9b@104.18.203.232:2095?path=%2F&security=none&encryption=none&host=woudyoulike_none.error.sss20202020202020.iran-check-host-server-sitesssssssssssssssssssssss--sssssssssss.com&type=ws#👉🆔 @FORWARDV2RAY
-vless://f5840671-5fce-420d-a382-81eeb7f9be34@all.abrarvan.org:2087?path=%2F%40v2rray1_ng&security=tls&encryption=none&alpn=h2,http/1.1&host=xx.1lagvpn13.cfd&fp=chrome&type=ws&sni=xx.1lagvpn13.cfd#👉🆔 @FORWARDV2RAY
 vless://f5840671-5fce-420d-a382-81eeb7f9be34@all.abrarvan.org:2087?path=%2F%40v2rray1_ng&security=tls&encryption=none&alpn=h2,http/1.1&host=xx.1lagvpn13.cfd&fp=chrome&type=ws&sni=xx.1lagvpn13.cfd#👉🆔 @FORWARDV2RAY
 vless://9e2bab6a-0eef-4160-864f-0d269810bb3d@www.speedtest.net:8080?path=%2F%40V_2rayngVpn&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#👉🆔 @FORWARDV2RAY
 vless://f38ef965-f6ae-402c-ab2c-1d42ae49bc9b@104.18.203.232:2095?path=%2F&security=none&encryption=none&host=woudyoulike_none.error.sss20202020202020.iran-check-host-server-sitesssssssssssssssssssssss--sssssssssss.com&type=ws#👉🆔 @FORWARDV2RAY
@@ -231,6 +228,7 @@ vless://VPNCUSTOMIZE@188.114.98.224:443?path=%2Faccount%2Fcart%2Fbuy&security=tl
 vless://V2rayCUSTOMIZE@discord.gg:8080?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#MCI
 vless://VPNCUSTOMIZE-VPNCUSTOMIZE@188.114.98.224:443?path=%2Faccount%2Fcart%2Fbuy%2Fpayment&security=tls&encryption=none&alpn=h2,http/1.1&host=cp.kellekcollection.com&fp=chrome&type=ws&sni=cp.kellekcollection.com#TEST
 vless://V2rayCUSTOMIZE@discord.gg:80?path=/@VPNCUSTOMIZE%3Fed%3D4096&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.motorcycles.&type=ws#MCI
+vless://Join-CUSTOMIZEV2ray@discord.gg:80?path=%2F%40VPNCUSTOMIZE&security=none&encryption=none&host=TMCUSTOMIZE.xn--79-pv2cvta065cac9302fea377a148g.tech.&type=ws#VPNCUSTOMIZE
 vless://VPNCUSTOMIZE@188.114.98.224:443?path=%2Faccount%2Fcart%2Fbuy&security=tls&encryption=none&alpn=h2,http/1.1&host=cp.kellekcollection.com&fp=chrome&type=ws&sni=cp.kellekcollection.com#TESTهمه اپراتورا تست کنید 10TB
 vless://7710457e-0831-4ae7-b005-7df8cf8558a5@late.turk.coffee:8880?type=ws&path=%2F%2CTurk#tell@YtTe3la
 vless://bfa8fd6e-34fb-4957-84b1-bc6d99bc3dbe@104.31.16.74:2087?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=IP_CF&sni=kyyugkuyuygutf.mic-mokhaderat-shatel-irancel-digikala.shop#join • ( @HabVpn ) • 1 Speed ⚡️
