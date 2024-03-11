@@ -1,3 +1,0 @@
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@131.186.27.112:2096?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=tg.dns68.cloudns.nz#👉🆔 @FORWARDV2RAY
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@131.186.27.112:2096?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=tg.dns68.cloudns.nz#👉🆔 @FORWARDV2RAY
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@131.186.27.112:2096?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=tg.dns68.cloudns.nz#👉🆔 @FORWARDV2RAY
