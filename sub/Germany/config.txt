@@ -1,27 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppMVRvbVNKbEV6N2NKeEdQWW1xRE1hWUo3YmpsSkRoUzl4a2JjcU5QQjhZPQ==@3.78.231.192:2082#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1bDUyQUhLbVNoZk1KTi9sMHpVaE1YTUM3VnFhMUp5SGswS3ZPbWpidHZRPQ==@3.79.33.242:2082#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTzZhWmxxNHJDS1JFeFd6VGxabCsrVnN6NEo0U2s4dWZTQTc4T1dGWndNPQ==@18.194.42.19:2082#👉🆔 @FORWARDV2RAY
-vless://TMCUSTOMIZE---VPNCUSTOMIZE@54.37.76.9:8080?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkeEpVaWZyTUpyS2JTcG51OVk0RGMyUGhBVDR5bHRYY2h4R3JuOEFNQ3U0PQ==@3.75.177.35:2082#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0VYNTFCMnBKY3FCQ2F1dHlwdnZNT1J1bzlyWHRaT1l4bm5ldGgyZzQ4PQ==@18.197.170.232:2082#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUndoY1NzRkdpYm92TzdDanVEaHlydTNOM3B2RjM2N0VYbmVMd3JaMEVFPQ==@18.185.127.185:443#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@3.121.39.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppMVRvbVNKbEV6N2NKeEdQWW1xRE1hWUo3YmpsSkRoUzl4a2JjcU5QQjhZPQ==@3.78.231.192:2082#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1bDUyQUhLbVNoZk1KTi9sMHpVaE1YTUM3VnFhMUp5SGswS3ZPbWpidHZRPQ==@3.79.33.242:2082#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTzZhWmxxNHJDS1JFeFd6VGxabCsrVnN6NEo0U2s4dWZTQTc4T1dGWndNPQ==@18.194.42.19:2082#👉🆔 @FORWARDV2RAY
-vless://TMCUSTOMIZE---VPNCUSTOMIZE@54.37.76.9:8080?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkeEpVaWZyTUpyS2JTcG51OVk0RGMyUGhBVDR5bHRYY2h4R3JuOEFNQ3U0PQ==@3.75.177.35:2082#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0VYNTFCMnBKY3FCQ2F1dHlwdnZNT1J1bzlyWHRaT1l4bm5ldGgyZzQ4PQ==@18.197.170.232:2082#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUndoY1NzRkdpYm92TzdDanVEaHlydTNOM3B2RjM2N0VYbmVMd3JaMEVFPQ==@18.185.127.185:443#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@3.121.39.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppMVRvbVNKbEV6N2NKeEdQWW1xRE1hWUo3YmpsSkRoUzl4a2JjcU5QQjhZPQ==@3.78.231.192:2082#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1bDUyQUhLbVNoZk1KTi9sMHpVaE1YTUM3VnFhMUp5SGswS3ZPbWpidHZRPQ==@3.79.33.242:2082#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTzZhWmxxNHJDS1JFeFd6VGxabCsrVnN6NEo0U2s4dWZTQTc4T1dGWndNPQ==@18.194.42.19:2082#👉🆔 @FORWARDV2RAY
-vless://TMCUSTOMIZE---VPNCUSTOMIZE@54.37.76.9:8080?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkeEpVaWZyTUpyS2JTcG51OVk0RGMyUGhBVDR5bHRYY2h4R3JuOEFNQ3U0PQ==@3.75.177.35:2082#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0VYNTFCMnBKY3FCQ2F1dHlwdnZNT1J1bzlyWHRaT1l4bm5ldGgyZzQ4PQ==@18.197.170.232:2082#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUndoY1NzRkdpYm92TzdDanVEaHlydTNOM3B2RjM2N0VYbmVMd3JaMEVFPQ==@18.185.127.185:443#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@3.121.39.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#👉🆔 @FORWARDV2RAY
+vless://72859c41-15ac-4621-bfdf-ac4c3ac33ad4@v2logy.ddns.net:443?mode=gun&security=reality&encryption=none&pbk=k6gu1t73hTdYK3PKNUwOqy2B7ZP-sek-dW2_-aGf9i4&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,&sni=sourceforge.net#👉🆔 @FORWARDV2RAY
+vless://72859c41-15ac-4621-bfdf-ac4c3ac33ad4@v2logy.ddns.net:443?mode=gun&security=reality&encryption=none&pbk=k6gu1t73hTdYK3PKNUwOqy2B7ZP-sek-dW2_-aGf9i4&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,&sni=sourceforge.net#👉🆔 @FORWARDV2RAY
+vless://72859c41-15ac-4621-bfdf-ac4c3ac33ad4@v2logy.ddns.net:443?mode=gun&security=reality&encryption=none&pbk=k6gu1t73hTdYK3PKNUwOqy2B7ZP-sek-dW2_-aGf9i4&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,&sni=sourceforge.net#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@3.77.9.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.64.195.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.79.201.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
