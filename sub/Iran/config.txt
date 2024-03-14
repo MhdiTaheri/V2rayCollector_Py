@@ -1,9 +1,6 @@
-vless://d79a13d3-1ea7-4bdb-b803-8bf254131af7@test2.keywanweb.xyz:443?type=tcp&security=none#👉🆔 @FORWARDV2RAY
-vless://6cab985c-0847-42e5-9977-7449ad3671af@test2.keywanweb.xyz:443?type=tcp&security=none#👉🆔 @FORWARDV2RAY
-vless://d79a13d3-1ea7-4bdb-b803-8bf254131af7@test2.keywanweb.xyz:443?type=tcp&security=none#👉🆔 @FORWARDV2RAY
-vless://6cab985c-0847-42e5-9977-7449ad3671af@test2.keywanweb.xyz:443?type=tcp&security=none#👉🆔 @FORWARDV2RAY
-vless://d79a13d3-1ea7-4bdb-b803-8bf254131af7@test2.keywanweb.xyz:443?type=tcp&security=none#👉🆔 @FORWARDV2RAY
-vless://6cab985c-0847-42e5-9977-7449ad3671af@test2.keywanweb.xyz:443?type=tcp&security=none#👉🆔 @FORWARDV2RAY
+vless://9c7e031b-f8e6-4e0d-a540-ab3452aa88a9@xxbestshopxx.channeltest.site:445?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=xxbestshopxx.channeltest.site#👉🆔 @FORWARDV2RAY
+vless://9c7e031b-f8e6-4e0d-a540-ab3452aa88a9@xxbestshopxx.channeltest.site:445?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=xxbestshopxx.channeltest.site#👉🆔 @FORWARDV2RAY
+vless://9c7e031b-f8e6-4e0d-a540-ab3452aa88a9@xxbestshopxx.channeltest.site:445?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=xxbestshopxx.channeltest.site#👉🆔 @FORWARDV2RAY
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
