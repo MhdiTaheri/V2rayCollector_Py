@@ -1,6 +1,9 @@
-vless://SVNTEAMm@188.40.14.212:80?type=ws&host=SVNTEAM-V2ray-GM.xn--fhq0la447aac5504dea701axr1g.Com&path=/SVNTEAM?ed%3D1048&security=none#👉🆔 @FORWARDV2RAY
-vless://SVNTEAMm@188.40.14.212:80?type=ws&host=SVNTEAM-V2ray-GM.xn--fhq0la447aac5504dea701axr1g.Com&path=/SVNTEAM?ed%3D1048&security=none#👉🆔 @FORWARDV2RAY
-vless://SVNTEAMm@188.40.14.212:80?type=ws&host=SVNTEAM-V2ray-GM.xn--fhq0la447aac5504dea701axr1g.Com&path=/SVNTEAM?ed%3D1048&security=none#👉🆔 @FORWARDV2RAY
+vless://SVNTEAMs@188.40.14.212:80/?type=ws&path=%2FSVNTEAM%3Fed%3D1048&host=SVNTEAM-V2ray-NL.xn--fhq0la447aac5504dea701axr1g.Com&security=none#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqYXZkY08xa3ZtY0pSV0RlUGRqTTBBVVlkem14ZG1HUXRTS2Y5TWdyUlhNPQ==@3.68.87.82:2082#👉🆔 @FORWARDV2RAY
+vless://SVNTEAMs@188.40.14.212:80/?type=ws&path=%2FSVNTEAM%3Fed%3D1048&host=SVNTEAM-V2ray-NL.xn--fhq0la447aac5504dea701axr1g.Com&security=none#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqYXZkY08xa3ZtY0pSV0RlUGRqTTBBVVlkem14ZG1HUXRTS2Y5TWdyUlhNPQ==@3.68.87.82:2082#👉🆔 @FORWARDV2RAY
+vless://SVNTEAMs@188.40.14.212:80/?type=ws&path=%2FSVNTEAM%3Fed%3D1048&host=SVNTEAM-V2ray-NL.xn--fhq0la447aac5504dea701axr1g.Com&security=none#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqYXZkY08xa3ZtY0pSV0RlUGRqTTBBVVlkem14ZG1HUXRTS2Y5TWdyUlhNPQ==@3.68.87.82:2082#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@18.153.192.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.70.114.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.192.28.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs

@@ -1,3 +1,6 @@
+vless://لجندری@185.228.236.117:54056?security=none&encryption=none&host=snap.ir&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://لجندری@185.228.236.117:54056?security=none&encryption=none&host=snap.ir&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://لجندری@185.228.236.117:54056?security=none&encryption=none&host=snap.ir&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
