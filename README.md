@@ -75,10 +75,10 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 | [Poland](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Poland/config.txt) |
 | [Iran](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Iran/config.txt) |
 | [Turkey](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Turkey/config.txt) |
-| [Bahrain](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Bahrain/config.txt) |
 | [Republic of Lithuania](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Republic%20of%20Lithuania/config.txt) |
 | [Sweden](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Sweden/config.txt) |
 | [United Kingdom](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/United%20Kingdom/config.txt) |
+
 
 
 
