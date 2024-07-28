@@ -63,8 +63,6 @@ trojan://telegram-id-privatevpns@18.134.38.190:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@18.168.189.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@34.255.76.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.34.118.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/PrivateVPNs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.138:8080#configkade%F0%9F%91%89%40proxystore11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#configkade%F0%9F%91%89%40proxystore11
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=fraud.chase&type=ws#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@beedoost.org:8080#configkade%F0%9F%91%89%40proxystore11
@@ -77,6 +75,7 @@ trojan://telegram-id-directvpn@51.20.210.67:22222?security=tls&alpn=http/1.1&hea
 ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#configkade%F0%9F%91%89%40proxystore11
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.111.114.133:5600#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPR1ZpTW1GbA==@95.164.35.90:1443#configkade%F0%9F%91%89%40proxystore11
+trojan://telegram-id-directvpn@13.51.244.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#configkade%F0%9F%91%89%40proxystore11
 trojan://telegram-id-directvpn@13.50.220.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.36.52.210:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.36.201.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
@@ -158,8 +157,6 @@ vless://e51858da-ad7e-4742-a575-0deb58f58484@185.146.173.58:8080?path=%2Fservern
 vless://e51858da-ad7e-4742-a575-0deb58f58484@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=ko.servernet.fun.&type=ws#%40SERVERNETT+MTN+1  vless://10ccd98d-91ed-49bf-a6a6-1ee3392ea7cc@185.146.173.58:8080?path=%2Fservernett&securi…
 vless://8e805170-726b-442d-9e0f-8ff389e3552c@avval.ir:8080?path=%2Fhdshgshghfshgfhsgfhgfgfgfgfgfgfgf&security=none&encryption=none&host=zula.ir.avval.ir.erererer.diamondgalery.ir.&type=splithttp#%40SERVERNETT+Allنامحدود تا فردا ساعت 18 🦆🦆تست کنید بگید با چه نتی وصلید👀
 vless://8e805170-726b-442d-9e0f-8ff389e3552c@avval.ir:8080?path=%2Fhdshgshghfshgfhsgfhgfgfgfgfgfgfgf&security=none&encryption=none&host=zula.ir.avval.ir.erererer.diamondgalery.ir.&type=splithttp#%40SERVERNETT+Allنامحدود تا فردا ساعت 18 🦆🦆تست کنید بگید با چه نتی وصلید👀
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.138:8080#configkade%F0%9F%91%89%40proxystore11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#configkade%F0%9F%91%89%40proxystore11
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=fraud.chase&type=ws#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@beedoost.org:8080#configkade%F0%9F%91%89%40proxystore11
@@ -172,6 +169,7 @@ trojan://telegram-id-directvpn@51.20.210.67:22222?security=tls&alpn=http/1.1&hea
 ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#configkade%F0%9F%91%89%40proxystore11
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.111.114.133:5600#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPR1ZpTW1GbA==@95.164.35.90:1443#configkade%F0%9F%91%89%40proxystore11
+trojan://telegram-id-directvpn@13.51.244.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#configkade%F0%9F%91%89%40proxystore11
 vless://934943ff-bc93-4715-ed3c-c7b33cdedb40@65.109.241.111:443?type=tcp&path=%2F&host=zula.ir&headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%DA%86%D9%86%D9%84%20%D9%85%D8%A7https%3A%2F%2Ft.me%2Fcustom_14
 vless://990f5f4d-5568-4e0a-96bf-2d86270d8fbf@65.109.241.111:443?type=tcp&path=%2F&host=zula.ir&headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-%DA%86%D9%86%D9%84%20%D9%85%D8%A7https%3A%2F%2Ft.me%2Fcustom_14
 vless://37af3db5-1215-4172-8ca4-a70aadb42a53@185.146.173.58:8080?path=%2FSHHPROXY%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.ntherspeedtest.net.&type=ws#v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2
