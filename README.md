@@ -63,7 +63,6 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 | [Iran](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Iran/config.txt) |
 | [United States](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/United%20States/config.txt) |
 | [France](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/France/config.txt) |
-| [Republic of Lithuania](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Republic%20of%20Lithuania/config.txt) |
 | [Switzerland](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Switzerland/config.txt) |
 | [Belize](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Belize/config.txt) |
 | [Finland](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Finland/config.txt) |
@@ -77,6 +76,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 | [United Arab Emirates](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/United%20Arab%20Emirates/config.txt) |
 | [Ireland](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Ireland/config.txt) |
 | [Sweden](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Sweden/config.txt) |
+
 
 
 
