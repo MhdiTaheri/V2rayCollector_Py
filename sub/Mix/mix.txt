@@ -98,6 +98,7 @@ vless://32ced3f5-980a-54a7-89d5-616c2dd9188e@172.64.32.154:2052?path=%2F%40ELiV2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUlV3cGtTb3VXNUhDVFVGVXhFcmZuTDVBbWFob2ZyanpuVnJBdTJpTkZNRkdVQ3JDaHpuQVVMaHVIR0FRZEM0NjNtemNnbzJqVjU0NlV0NUhLaGszcHo5NTZjSFlZeWM=@188.212.132.20:52952#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNlBLdEVocjVxbndQR05VSzVjSEF6QjJLblc1MVNYNHQzdzlqRG16QlNhN0pqU3JVMmIyWXBHRjdwbTZudXFWZmRoWnJmU1h5TGd4QzFuWGdhM3prVGdWV3hTMWQ2VFQ=@portal.blueyenia.org:40087#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#configkade%F0%9F%91%89%40proxystore11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUlV3cGtTb3VXNUhDVFVGVXhFcmZuTDVBbWFob2ZyanpuVnJBdTJpTkZNRkdVQ3JDaHpuQVVMaHVIR0FRZEM0NjNtemNnbzJqVjU0NlV0NUhLaGszcHo5NTZjSFlZeWM=@188.212.132.20:52952#configkade%F0%9F%91%89%40proxystore11
 trojan://telegram-id-directvpn@13.53.100.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@16.16.117.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@35.180.16.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
@@ -167,6 +168,7 @@ vless://32ced3f5-980a-54a7-89d5-616c2dd9188e@172.64.32.154:2052?path=%2F%40ELiV2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUlV3cGtTb3VXNUhDVFVGVXhFcmZuTDVBbWFob2ZyanpuVnJBdTJpTkZNRkdVQ3JDaHpuQVVMaHVIR0FRZEM0NjNtemNnbzJqVjU0NlV0NUhLaGszcHo5NTZjSFlZeWM=@188.212.132.20:52952#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNlBLdEVocjVxbndQR05VSzVjSEF6QjJLblc1MVNYNHQzdzlqRG16QlNhN0pqU3JVMmIyWXBHRjdwbTZudXFWZmRoWnJmU1h5TGd4QzFuWGdhM3prVGdWV3hTMWQ2VFQ=@portal.blueyenia.org:40087#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#configkade%F0%9F%91%89%40proxystore11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUlV3cGtTb3VXNUhDVFVGVXhFcmZuTDVBbWFob2ZyanpuVnJBdTJpTkZNRkdVQ3JDaHpuQVVMaHVIR0FRZEM0NjNtemNnbzJqVjU0NlV0NUhLaGszcHo5NTZjSFlZeWM=@188.212.132.20:52952#configkade%F0%9F%91%89%40proxystore11
 vless://934943ff-bc93-4715-ed3c-c7b33cdedb40@65.109.241.111:443?type=tcp&path=%2F&host=zula.ir&headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%DA%86%D9%86%D9%84%20%D9%85%D8%A7https%3A%2F%2Ft.me%2Fcustom_14
 vless://990f5f4d-5568-4e0a-96bf-2d86270d8fbf@65.109.241.111:443?type=tcp&path=%2F&host=zula.ir&headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-%DA%86%D9%86%D9%84%20%D9%85%D8%A7https%3A%2F%2Ft.me%2Fcustom_14
 vless://telegram-V2RAYNG_VPNN@cipcip.bozgosfanfasb.cfd:8585?security=none&encryption=none&host=iran.ir&headerType=http&type=tcp#%40v2rayng_vpnn+%28+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%85%D8%A7+%29
