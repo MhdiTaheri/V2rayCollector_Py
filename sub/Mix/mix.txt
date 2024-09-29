@@ -89,6 +89,7 @@ vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@89.22.238.133:8080?security=none&en
 vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@[2a12:5940:b856::2]:8080?security=none&encryption=none&host=www.anten.ir&headerType=http&type=tcp#proxystore11-joinsho-ip6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#configkade%F0%9F%91%89%40proxystore11
 vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@89.22.238.133:8080?type=tcp&path=%2F-configkade%F0%9F%91%89%40proxystore11&host=www.anten.ir&headerType=http&security=none#proxystore11-joinsho-ip4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNlBLdEVocjVxbndQR05VSzVjSEF6QjJLblc1MVNYNHQzdzlqRG16QlNhN0pqU3JVMmIyWXBHRjdwbTZudXFWZmRoWnJmU1h5TGd4QzFuWGdhM3prVGdWV3hTMWQ2VFQ=@5.226.54.105:40087#configkade%F0%9F%91%89%40proxystore11
 trojan://telegram-id-directvpn@35.179.200.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@35.179.193.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@99.80.45.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
@@ -169,6 +170,7 @@ vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@89.22.238.133:8080?security=none&en
 vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@[2a12:5940:b856::2]:8080?security=none&encryption=none&host=www.anten.ir&headerType=http&type=tcp#proxystore11-joinsho-ip6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#configkade%F0%9F%91%89%40proxystore11
 vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@89.22.238.133:8080?type=tcp&path=%2F-configkade%F0%9F%91%89%40proxystore11&host=www.anten.ir&headerType=http&security=none#proxystore11-joinsho-ip4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNlBLdEVocjVxbndQR05VSzVjSEF6QjJLblc1MVNYNHQzdzlqRG16QlNhN0pqU3JVMmIyWXBHRjdwbTZudXFWZmRoWnJmU1h5TGd4QzFuWGdhM3prVGdWV3hTMWQ2VFQ=@5.226.54.105:40087#configkade%F0%9F%91%89%40proxystore11
 vless://934943ff-bc93-4715-ed3c-c7b33cdedb40@65.109.241.111:443?type=tcp&path=%2F&host=zula.ir&headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%DA%86%D9%86%D9%84%20%D9%85%D8%A7https%3A%2F%2Ft.me%2Fcustom_14
 vless://990f5f4d-5568-4e0a-96bf-2d86270d8fbf@65.109.241.111:443?type=tcp&path=%2F&host=zula.ir&headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-%DA%86%D9%86%D9%84%20%D9%85%D8%A7https%3A%2F%2Ft.me%2Fcustom_14
 vless://d9059c35-a221-46d5-b0c7-b0815438d9c8@ch.arsi-vip.com:8585?type=grpc&serviceName=%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn&authority=&security=none#@v2rayng_vpnn-4qbhyhpt@v2rayng_vpnn
