@@ -62,6 +62,7 @@ vless://d01d2879-894f-4675-bbda-3b2548100f06@speedtest.net:443?type=ws&host=que4
 vless://Bia--ZEDMODEON@Www.speedtest.net:8080?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D8880&security=none&encryption=none&host=www.speedtest.net.main4.zedmodeon.LAT&type=httpupgrade#all+2+%5BNO-MCI%5D%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29+99
 vless://Joinin--ZEDMODEON@speedtest.net:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=snapp.taxi&type=ws&sni=speedtest.net#all4%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29+85
 vless://ea636233-af7b-49b7-b3d7-cc325aaf2133@speedtest.net:443?type=ws&host=que4.ir&path=/v2pedia?ed%3D2048&security=tls&fp=chrome&sni=speedtest.net#Vip
+vless://6569c28e-7b9b-4e06-b04a-9fde41f33352@speedtest.net:443?type=ws&host=que4.ir&path=/v2pedia?ed%3D2048&security=tls&fp=chrome&sni=speedtest.net#Tls
 trojan://telegram-id-privatevpns@35.156.134.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.74.133.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.207.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs
