@@ -10,13 +10,8 @@ trojan://telegram-id-privatevpns@3.120.203.151:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@18.153.124.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-directvpn@63.176.44.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.123.235.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#configkade%F0%9F%91%89%40proxystore11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#configkade%F0%9F%91%89%40proxystore11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#configkade%F0%9F%91%89%40proxystore11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%40v2rayng_vpnnهمراه اول و ایرانسل اوکیه ولی پینگ نمیده ❤️@v2rayng_vpnn
 vless://a91a7902-f73c-482f-894c-a43d7e9bd3f4@188.245.88.48:6969?security=reality&encryption=none&pbk=Hg62G_iaxP5fXUpWZ8R5NHiDUe-PtKyxlEvofq5GaCs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=business.stackoverflow.com&sid=55820565194d19#%40v2rayng_vpnn@v2rayng_vpnn
 vless://a91a7902-f73c-482f-894c-a43d7e9bd3f4@188.245.88.48:6969?security=reality&encryption=none&pbk=Hg62G_iaxP5fXUpWZ8R5NHiDUe-PtKyxlEvofq5GaCs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=business.stackoverflow.com&sid=55820565194d19#%40v2rayng_vpnn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%40v2rayng_vpnnهمراه اول و ایرانسل اوکیه ولی پینگ نمیده ❤️@v2rayng_vpnn
 vless://a91a7902-f73c-482f-894c-a43d7e9bd3f4@188.245.88.48:6969?security=reality&encryption=none&pbk=Hg62G_iaxP5fXUpWZ8R5NHiDUe-PtKyxlEvofq5GaCs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=business.stackoverflow.com&sid=55820565194d19#%40v2rayng_vpnn@v2rayng_vpnn
 trojan://telegram-id-privatevpns@3.74.221.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.68.23.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
