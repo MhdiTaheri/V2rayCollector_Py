@@ -1,1 +1,0 @@
-vless://a63caad0-3d94-4fa7-956d-439524c6cdf5@cloud.configforvpn.fun:2096?path=%2Fmm&security=tls&encryption=none&fp=chrome&type=ws&sni=root.configforvpn.fun#%40ConfigforVPN
