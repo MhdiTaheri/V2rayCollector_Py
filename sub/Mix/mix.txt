@@ -110,6 +110,9 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2FR1f5GLtyM8
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FU3BrDPuR1EwhR8hX%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bpb-worker-panel-bcr.pages.dev&fp=randomized&type=ws&sni=BPb-worKer-pANEL-BcR.paGES.DEv#configkade%F0%9F%91%89%40proxystore11
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@time.js:443?path=%2FRHxQDpvcfA8JxbcI%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bpb-worker-panel-bcr.pages.dev&fp=randomized&type=ws&sni=Bpb-WORkeR-PaNEL-BCr.paGeS.Dev#configkade%F0%9F%91%89%40proxystore11
 trojan://auto@104.20.21.199:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&host=b96ef9ae.trojanfree-76s.pages.dev&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev#configkade%F0%9F%91%89%40proxystore11
+ss://chacha20-ietf-poly1305%3AW74XFALLLuw6m5IA@series-a1.samanehha.co:443#configkade%F0%9F%91%89%40proxystore11
+ss://chacha20-ietf-poly1305%3A1RWwXhwfAB5gAEozU4G2Pg@45.87.175.178:8080#configkade%F0%9F%91%89%40proxystore11
+ss://chacha20-ietf-poly1305%3Au17T3BvpYaaiuW2c@series-a2-mec.samanehha.co:443#configkade%F0%9F%91%89%40proxystore11
 trojan://telegram-id-directvpn@63.176.154.253:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.61.107.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.50.23.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
@@ -186,6 +189,9 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2FR1f5GLtyM8
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FU3BrDPuR1EwhR8hX%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bpb-worker-panel-bcr.pages.dev&fp=randomized&type=ws&sni=BPb-worKer-pANEL-BcR.paGES.DEv#configkade%F0%9F%91%89%40proxystore11
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@time.js:443?path=%2FRHxQDpvcfA8JxbcI%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bpb-worker-panel-bcr.pages.dev&fp=randomized&type=ws&sni=Bpb-WORkeR-PaNEL-BCr.paGeS.Dev#configkade%F0%9F%91%89%40proxystore11
 trojan://auto@104.20.21.199:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&host=b96ef9ae.trojanfree-76s.pages.dev&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev#configkade%F0%9F%91%89%40proxystore11
+ss://chacha20-ietf-poly1305%3AW74XFALLLuw6m5IA@series-a1.samanehha.co:443#configkade%F0%9F%91%89%40proxystore11
+ss://chacha20-ietf-poly1305%3A1RWwXhwfAB5gAEozU4G2Pg@45.87.175.178:8080#configkade%F0%9F%91%89%40proxystore11
+ss://chacha20-ietf-poly1305%3Au17T3BvpYaaiuW2c@series-a2-mec.samanehha.co:443#configkade%F0%9F%91%89%40proxystore11
 vless://934943ff-bc93-4715-ed3c-c7b33cdedb40@65.109.241.111:443?type=tcp&path=%2F&host=zula.ir&headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%DA%86%D9%86%D9%84%20%D9%85%D8%A7https%3A%2F%2Ft.me%2Fcustom_14
 vless://990f5f4d-5568-4e0a-96bf-2d86270d8fbf@65.109.241.111:443?type=tcp&path=%2F&host=zula.ir&headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-%DA%86%D9%86%D9%84%20%D9%85%D8%A7https%3A%2F%2Ft.me%2Fcustom_14
 vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@104.20.78.17:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=dc1bf227.vf-8co.pages.dev&type=ws&sni=dc1bf227.vf-8co.pages.dev#%40v2rayng_vpnn+%28+%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86+%29
