@@ -47,6 +47,7 @@ vless://3a15a346-2f6f-41bc-ad0c-a885aec3002a@104.17.147.22:443?path=%2Fv2line-he
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#configkade%F0%9F%91%89%40proxystore11
+trojan://4732adfa16c6450bbef87264e41332db@104.17.147.22:443?path=6b777a91%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&security=tls&alpn=http%2F1.1&host=bangladeshipatri.com&fp=safari&type=ws&sni=bangladeshipatri.com#configkade%F0%9F%91%89%40proxystore11
 trojan://telegram-id-directvpn@3.14.55.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.189.202.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@100.27.103.59:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
@@ -72,6 +73,7 @@ vless://3a15a346-2f6f-41bc-ad0c-a885aec3002a@104.17.147.22:443?path=%2Fv2line-he
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#configkade%F0%9F%91%89%40proxystore11
+trojan://4732adfa16c6450bbef87264e41332db@104.17.147.22:443?path=6b777a91%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&security=tls&alpn=http%2F1.1&host=bangladeshipatri.com&fp=safari&type=ws&sni=bangladeshipatri.com#configkade%F0%9F%91%89%40proxystore11
 vless://7aefe063-50bf-4536-9a3c-25ec69457e27@nl.fastly80-3.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cpanelmoon.com&type=ws#%40v2rayng_vpnn%20%28%20%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%29
 vless://6b9e7cb7-dc07-42b8-b501-19ba63642e39@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D443&security=none&encryption=none&host=Tehranc3.Org&type=ws#%40v2rayng_vpnn%20%28%20%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%29
 vless://3c5e9486-df15-4544-98ff-edb57a2453d0@104.16.128.22:8880?security=none&encryption=none&host=cdcvdsf412s5f.jtip1.sbs.&type=httpupgrade#%40v2rayng_vpnn%20%28%20%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%29
