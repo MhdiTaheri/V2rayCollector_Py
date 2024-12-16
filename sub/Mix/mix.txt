@@ -102,7 +102,6 @@ trojan://telegram-id-privatevpns@3.11.202.88:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@18.135.173.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@34.242.191.20:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@46.137.48.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/PrivateVPNs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#configkade%F0%9F%91%89%40proxystore11
 vless://3a15a346-2f6f-41bc-ad0c-a885aec3002a@104.17.147.22:443?path=%2Fv2line-helsinki-finland-vl-ws-tls-advanced&security=tls&encryption=none&host=46771119909676129223555549792065.v2line.net&type=ws&sni=46771119909676129223555549792065.v2line.net#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#configkade%F0%9F%91%89%40proxystore11
@@ -171,7 +170,6 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:c17:dd56::1]:43599?security=none&encryptio
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:fb09::1]:16293?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202
 vless://TELEGRAM-ServerNett@[2a01:4f8:c013:685b::1]:58554?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20ALL%201vless://TELEGRAM-ServerNett@[2a01:4f8:c012:2284::1]:41369?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20ALL%202دوتا سرور موقترو همه اپراتور ها اوکیه تست کنید🙌
 vless://TELEGRAM-ServerNett@[2a01:4f8:c013:685b::1]:58554?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20ALL%201vless://TELEGRAM-ServerNett@[2a01:4f8:c012:2284::1]:41369?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20ALL%202دوتا سرور موقترو همه اپراتور ها اوکیه تست کنید🙌
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#configkade%F0%9F%91%89%40proxystore11
 vless://3a15a346-2f6f-41bc-ad0c-a885aec3002a@104.17.147.22:443?path=%2Fv2line-helsinki-finland-vl-ws-tls-advanced&security=tls&encryption=none&host=46771119909676129223555549792065.v2line.net&type=ws&sni=46771119909676129223555549792065.v2line.net#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#configkade%F0%9F%91%89%40proxystore11
