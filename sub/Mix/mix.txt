@@ -164,8 +164,7 @@ vless://7ea66ed4-9508-437c-a1cd-5fc87d077a36@185.146.173.58:8080?path=%2F&securi
 vless://e1af982a-8fcd-4ba0-ba12-af880a127953@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=cvvec.severnett.cfd.&type=ws#%40SERVERNETT%20MTN%201
 vless://94031864-58aa-460b-929c-73d07306b5f1@[2a01:4f8:c010:9ff4::1]:15413?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202
 vless://65821e17-c2bc-4641-8a15-fc59e7a6f60f@[2a01:4f8:c013:95f7::1]:50081?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201
-vless://7ea66ed4-9508-437c-a1cd-5fc87d077a36@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=jo.severnett.cfd.&type=ws#%40SERVERNETT%20MTN%202
-vless://e1af982a-8fcd-4ba0-ba12-af880a127953@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=cvvec.severnett.cfd.&type=ws#%40SERVERNETT%20MTN%201
+vless://848deb13-b86c-45fa-8108-e13c8dff0fa9@138.199.145.191:54443?path=%2Fservernett&security=none&encryption=none&type=ws#%40SERVERNETT%20MTN%201
 vless://94031864-58aa-460b-929c-73d07306b5f1@[2a01:4f8:c010:9ff4::1]:15413?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202
 vless://65821e17-c2bc-4641-8a15-fc59e7a6f60f@[2a01:4f8:c013:95f7::1]:50081?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201
 trojan://4732adfa16c6450bbef87264e41332db@104.17.147.22:443?path=6b777a91%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&security=tls&alpn=http%2F1.1&host=bangladeshipatri.com&fp=safari&type=ws&sni=bangladeshipatri.com#configkade%F0%9F%91%89%40proxystore11
