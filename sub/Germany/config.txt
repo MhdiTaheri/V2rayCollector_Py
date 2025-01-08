@@ -7,9 +7,6 @@ trojan://telegram-id-privatevpns@3.65.119.234:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@52.57.66.23:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.156.93.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.177.14.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#configkade%F0%9F%91%89%40proxystore11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#configkade%F0%9F%91%89%40proxystore11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#configkade%F0%9F%91%89%40proxystore11
 trojan://telegram-id-directvpn@3.126.218.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@35.156.140.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://Telegram%40v2rayng_vpnn@49.12.106.37:55822?security=reality&encryption=none&pbk=swrGFiH1GGLp80EgD_iDAuyb701VeVirfXCbI_5cinw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mmd.10.isovpn.shop#%40v2rayng_vpnn%20%28%20%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%29
