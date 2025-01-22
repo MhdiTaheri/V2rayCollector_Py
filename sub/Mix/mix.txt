@@ -153,7 +153,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig87.usecharg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig89.usecharge.ir:443#%40Freakconfig%20%F0%9F%87%A6%F0%9F%87%AAss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig88.usecharge.ir:443#%40Freakconfig%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig89.usecharge.ir:443#%40Freakconfig%20%F0%9F%87%A6%F0%9F%87%AAss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig88.usecharge.ir:443#%40Freakconfig%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig90.usecharge.ir:443#%40Freakconfig%20%F0%9F%87%A6%F0%9F%87%AAss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig89.usecharge.ir:443#%40Freakconfig%20%F0%9F%87%AC%F0%9F%87%A7
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:17293?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201همراه اول و بعضی از ایرانسلا🔫
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25658?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202همراه اول و بعضی از ایرانسلا🔫
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:43085?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%203همراه اول و بعضی از ایرانسلا🔫
 vless://ccf66150-dccc-42d0-8bba-513391a09f40@[2a01:4f8:c010:5aa8::1]:55242?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%204همراه اول و بعضی از ایرانسلا🔫
@@ -169,7 +168,7 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:17485?security=none&encrypti
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:24188?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202همراه اول و بعضی از ایرانسلا🔫
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:24188?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202همراه اول و بعضی از ایرانسلا🔫
 vless://739452d9-3da6-44d2-8bb2-649b575a00fd@[2a01:4f8:1c17:ee5c::1]:49978?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:17293?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201
+vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:21535?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202یکی دیگه😞
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25658?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:43085?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%203
 vless://ccf66150-dccc-42d0-8bba-513391a09f40@[2a01:4f8:c010:5aa8::1]:55242?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%204
@@ -184,8 +183,7 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:55242?security=none&encrypti
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:17485?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:24188?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:24188?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:17293?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201همراه اول و بعضی از ایرانسلا🔫
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:17293?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201همراه اول و بعضی از ایرانسلا🔫
+vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:21535?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25658?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202همراه اول و بعضی از ایرانسلا🔫
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25658?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202همراه اول و بعضی از ایرانسلا🔫
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:43085?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%203همراه اول و بعضی از ایرانسلا🔫
@@ -215,6 +213,8 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:24188?security=none&encrypti
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:24188?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202همراه اول و بعضی از ایرانسلا🔫
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:24188?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202همراه اول و بعضی از ایرانسلا🔫
 vless://739452d9-3da6-44d2-8bb2-649b575a00fd@[2a01:4f8:1c17:ee5c::1]:49978?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201
+vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:21535?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202یکی دیگه😞
+vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:21535?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202یکی دیگه😞
 vless://4ca8471c-3e70-47e3-b09e-9541f259618b@138.124.24.252:8443?mode=auto&path=%2F4ca8471c&security=reality&encryption=none&pbk=AraqCk8OydZjw2ZT-9WEmt_D1vIrtOf88o5YlbKqgRM&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=1b7d7614d14c#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#configkade%F0%9F%91%89%40proxystore11
