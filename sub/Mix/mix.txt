@@ -101,6 +101,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM%3D@95.164.249.61:54075#configkade%F0%9F%91%89%40proxystore11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#configkade%F0%9F%91%89%40proxystore11
 trojan://telegram-id-directvpn@3.10.79.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.10.71.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@54.228.241.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
@@ -157,8 +158,6 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDM4LjExMC4xLjUxOjgwOTA=#%F0%9F%87%BA%F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig89.usecharge.ir:443#%40Freakconfig%20%F0%9F%87%A6%F0%9F%87%AAss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig88.usecharge.ir:443#%40Freakconfig%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig89.usecharge.ir:443#%40Freakconfig%20%F0%9F%87%A6%F0%9F%87%AAss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig88.usecharge.ir:443#%40Freakconfig%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig90.usecharge.ir:443#%40Freakconfig%20%F0%9F%87%A6%F0%9F%87%AAss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig89.usecharge.ir:443#%40Freakconfig%20%F0%9F%87%AC%F0%9F%87%A7
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:17293?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%204همراه اول و بعضی از ایرانسلا🔫
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:55242?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201همراه اول و بعضی از ایرانسلا🔫
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25658?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202همراه اول و بعضی از ایرانسلا🔫
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:43085?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%203همراه اول و بعضی از ایرانسلا🔫
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:55242?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%204همراه اول و بعضی از ایرانسلا🔫
@@ -169,8 +168,6 @@ vless://739452d9-3da6-44d2-8bb2-649b575a00fd@[2a01:4f8:1c17:ee5c::1]:49978?secur
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:21535?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202یکی دیگه😞
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:49978?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201همراه اول و بعضی از ایرانسلا🔫
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:21535?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202همراه اول و بعضی از ایرانسلا🔫
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:17293?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%204
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:55242?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25658?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:43085?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%203
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:55242?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%204
@@ -183,10 +180,7 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:21535?security=none&encrypti
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:51047?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:30562?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25797?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%203
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:17293?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%204همراه اول و بعضی از ایرانسلا🔫
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:17293?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%204همراه اول و بعضی از ایرانسلا🔫
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:55242?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201همراه اول و بعضی از ایرانسلا🔫
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:55242?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201همراه اول و بعضی از ایرانسلا🔫
+vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:13776?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%204
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25658?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202همراه اول و بعضی از ایرانسلا🔫
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25658?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202همراه اول و بعضی از ایرانسلا🔫
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:43085?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%203همراه اول و بعضی از ایرانسلا🔫
@@ -217,6 +211,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM%3D@95.164.249.61:54075#configkade%F0%9F%91%89%40proxystore11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#configkade%F0%9F%91%89%40proxystore11
 vless://934943ff-bc93-4715-ed3c-c7b33cdedb40@65.109.241.111:443?type=tcp&path=%2F&host=zula.ir&headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%DA%86%D9%86%D9%84%20%D9%85%D8%A7https%3A%2F%2Ft.me%2Fcustom_14
 vless://990f5f4d-5568-4e0a-96bf-2d86270d8fbf@65.109.241.111:443?type=tcp&path=%2F&host=zula.ir&headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-%DA%86%D9%86%D9%84%20%D9%85%D8%A7https%3A%2F%2Ft.me%2Fcustom_14
 vless://6a0ec271-ed4a-45c9-99f3-2e0e6ca641cd@blue99shop.ir:28829?path=%2F&security=none&encryption=none&host=speedtest.net&type=httpupgrade#Germany%20vip%20%F0%9F%87%A9%F0%9F%87%AA%20Telgram%3A%20%40Sobi_vpn📱☝🤍🤍 آموزش اتصال 🤍🤍دانلود آپ مورد نیاز #سرور‌رایگان حجم نامحدود فعال تا ساعت 00:00   ♾🇩🇪تمامی اپراتورا 🗿🔵🖥سرعت بالا 🗿🌐🗿▶️بفرستید برای دوستانتون🌐♻️خرید سرور اختصاصی😉🔔برای دریافت پروکسی و سرورهای  بیشتر عضو چنل شوید👇👇🌐@FreeVlessVpn 🤙
