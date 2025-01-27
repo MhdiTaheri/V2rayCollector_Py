@@ -53,6 +53,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:
 trojan://telegram-id-directvpn@3.138.75.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.23.207.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@44.223.178.42:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@3.148.15.49:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://094e8cab-a8e3-424b-988c-dd5b6c1f6d17@68.183.144.79:443?security=reality&encryption=none&pbk=fsqDRTi6bzbOYz3vQc_Oj397SIZtq3hGFRxAIePREBc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=a48836c9c9#telegram ☂️ DailyV2ry
 vless://0e952311-8116-451a-8de2-07e43a14f7ef@angelina.ns.cloudflare.com:443?encryption=none&security=tls&sni=wlm8hd.kalastore.org&type=ws&alpn=http/1.1&host=wlm8hd.kalastore.org&path=/wss#telegram 🍊 DailyV2ry
 vless://375698c5-66a1-47e7-b5a6-e27516efe5ef@jermaine.ns.cloudflare.com:443?encryption=none&security=tls&sni=6z69te.alligator27app.com&type=ws&alpn=http/1.1&host=6z69te.alligator27app.com&path=/wss#telegram 🌟 DailyV2ry
