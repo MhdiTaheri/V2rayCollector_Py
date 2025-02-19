@@ -80,7 +80,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 | [Netherlands](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Netherlands/config.txt) |
 | [Ireland](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Ireland/config.txt) |
 | [Japan](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Japan/config.txt) |
-| [Slovak Republic](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Slovak%20Republic/config.txt) |
+
 
 
 
