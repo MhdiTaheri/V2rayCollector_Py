@@ -280,8 +280,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.56:8880?mode=gun&securit
 vless://617d5079-9fae-494a-98ca-90da9e10cd70@159.89.45.81:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=arvancloud.com&type=ws#%40V2rayNG3
 vless://ebc5660f-bb9b-415c-94ab-d3630189ceb9@91.134.66.127:22671?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40V2rayNG3
 vless://25b8f4b0-4f7d-400f-bc4a-f10e5b8796a2@151.101.66.133:443?path=%2Fstream%2F%23Telegram%40V2ray_Alpha&security=tls&alpn=http%2F1.1&encryption=none&host=magdl.ir&fp=chrome&type=ws&sni=anchor.fm#%40V2rayNG3
-vless://f91b3fd5-b247-4258-9760-2217dbf36213@57.129.23.236:20910?security=reality&encryption=none&pbk=zfcReFxdDu57h_EOZItno2ir1DOQdfGIasn69APU7js&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=1fe8e221b4#%40V2rayNG3
-vless://f91b3fd5-b247-4258-9760-2217dbf36213@wolf544.api-tel.ir:20910?security=reality&encryption=none&pbk=zfcReFxdDu57h_EOZItno2ir1DOQdfGIasn69APU7js&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=1fe8e221b4#%40V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#%40V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#%40V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#%40V2rayNG3
