@@ -73,7 +73,6 @@ trojan://telegram-id-privatevpns@18.132.220.128:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@51.24.42.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@34.241.39.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.33.186.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs
-vless://71fa1f09-3fa7-4fd3-aa3b-1c266ab03e0e@ipv6.proxystore11.news:443?mode=gun&security=reality&alpn=h2&encryption=none&pbk=qTjnHPhsqfvEpnCP4cTXXvVQI34F2uXhWxl0ddtgpTc&fp=chrome&type=grpc&serviceName=L6ocyVFZGNHz4gxKwgJ&sni=www.canva.com&sid=b5f32071b5f64f#configkade%F0%9F%91%89%40proxystore11
 vless://a4581b69-90d1-49e3-a36a-3aaf9bdf1d1e@ipv6.proxystore11.shop:443?mode=gun&security=reality&alpn=h2&encryption=none&pbk=qTjnHPhsqfvEpnCP4cTXXvVQI34F2uXhWxl0ddtgpTc&fp=chrome&type=grpc&serviceName=L6ocyVFZGNHz4gxKwgJ&sni=www.canva.com&sid=b5f32071b5f64f#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#configkade%F0%9F%91%89%40proxystore11
@@ -135,7 +134,6 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:27729?security=none&encrypti
 vless://bca5e12c-e30e-4430-9729-5a4ea40b90a6@188.245.95.151:1520?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%40SERVERNETT%20%201
 vless://bca5e12c-e30e-4430-9729-5a4ea40b90a6@3900230223.torob.com.tr:1522?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%40SERVERNETT%20%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVEF3TUdFdw%3D%3D@185.231.207.247:8388#%40SERVERNETT%20%201سرور موقت
-vless://71fa1f09-3fa7-4fd3-aa3b-1c266ab03e0e@ipv6.proxystore11.news:443?mode=gun&security=reality&alpn=h2&encryption=none&pbk=qTjnHPhsqfvEpnCP4cTXXvVQI34F2uXhWxl0ddtgpTc&fp=chrome&type=grpc&serviceName=L6ocyVFZGNHz4gxKwgJ&sni=www.canva.com&sid=b5f32071b5f64f#configkade%F0%9F%91%89%40proxystore11
 vless://a4581b69-90d1-49e3-a36a-3aaf9bdf1d1e@ipv6.proxystore11.shop:443?mode=gun&security=reality&alpn=h2&encryption=none&pbk=qTjnHPhsqfvEpnCP4cTXXvVQI34F2uXhWxl0ddtgpTc&fp=chrome&type=grpc&serviceName=L6ocyVFZGNHz4gxKwgJ&sni=www.canva.com&sid=b5f32071b5f64f#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#configkade%F0%9F%91%89%40proxystore11
