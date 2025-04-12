@@ -123,7 +123,6 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDM4LjExMC4xLjUxOjgwOTA=#%F0%9F%87%BA%F
 vless://bca5e12c-e30e-4430-9729-5a4ea40b90a6@188.245.95.151:1520?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%40SERVERNETT%20%201
 vless://bca5e12c-e30e-4430-9729-5a4ea40b90a6@3900230223.torob.com.tr:1522?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%40SERVERNETT%20%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVEF3TUdFdw%3D%3D@185.231.207.247:8388#%40SERVERNETT%20%201سرور موقت
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:31899?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:15182?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%203
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:51773?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:31899?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202
