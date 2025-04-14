@@ -36,6 +36,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.19.36:22222?path=/telegram-c
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.189.7:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.176.175.98:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@46.137.174.247:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.247.102.81:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
 vless://c5661d59-c5c0-4155-bb4b-df294b246deb@141.95.103.120:54436?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#all%20%F0%9F%87%A9%F0%9F%87%AA%20%28%40ZEDMODEON%29%20120
 vless://c17e5bd4-00f9-4cb2-bd8f-cfd21bd9e2fd@31.14.131.51:55829?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#all%20%F0%9F%87%AE%F0%9F%87%B9%20%28%40ZEDMODEON%29%2051
 vless://ca6ddb90-89a2-45f9-9705-6a8b521f0d59@80.211.203.158:25210?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#all%20%F0%9F%87%A8%F0%9F%87%BF%20%28%40ZEDMODEON%29%20158
@@ -77,7 +78,6 @@ trojan://telegram-id-privatevpns@3.8.62.172:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-privatevpns@18.132.74.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@34.241.150.97:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@34.241.71.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#configkade%F0%9F%91%89%40proxystore11
 vless://45876b67-8a63-4bee-911a-b9c19867949e@ipv6.proxystore11.shop:443?mode=gun&security=reality&alpn=h2&encryption=none&pbk=qTjnHPhsqfvEpnCP4cTXXvVQI34F2uXhWxl0ddtgpTc&fp=chrome&type=grpc&serviceName=L6ocyVFZGNHz4gxKwgJ&sni=www.afp.com&sid=b5f32071b5f64f#%D8%B1%DB%8C%D9%84%DB%8C%D8%AA%DB%8C%20reality%20grpc%20direct%20vless
@@ -137,7 +137,6 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:27729?security=none&encrypti
 vless://bca5e12c-e30e-4430-9729-5a4ea40b90a6@188.245.95.151:1520?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%40SERVERNETT%20%201
 vless://bca5e12c-e30e-4430-9729-5a4ea40b90a6@3900230223.torob.com.tr:1522?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%40SERVERNETT%20%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVEF3TUdFdw%3D%3D@185.231.207.247:8388#%40SERVERNETT%20%201سرور موقت
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#configkade%F0%9F%91%89%40proxystore11
 vless://45876b67-8a63-4bee-911a-b9c19867949e@ipv6.proxystore11.shop:443?mode=gun&security=reality&alpn=h2&encryption=none&pbk=qTjnHPhsqfvEpnCP4cTXXvVQI34F2uXhWxl0ddtgpTc&fp=chrome&type=grpc&serviceName=L6ocyVFZGNHz4gxKwgJ&sni=www.afp.com&sid=b5f32071b5f64f#%D8%B1%DB%8C%D9%84%DB%8C%D8%AA%DB%8C%20reality%20grpc%20direct%20vless
