@@ -86,8 +86,8 @@ vless://Server-nett@62.60.221.201:43496?security=none&encryption=none&host=varze
 vless://Server-nett@62.60.221.201:43496?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ServerNett%20Channel
 vless://Server-nett@62.60.221.201:43496?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ServerNett%20Channel
 vless://Server-nett@62.60.221.201:43496?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ServerNett%20Channel
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:11e::1]:23515?security=none&encryption=none&headerType=none&type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2670::1]:58600?security=none&encryption=none&headerType=none&type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
+vless://Server-nett@62.60.221.201:43496?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ServerNett%20Channel
+vless://Server-nett@62.60.221.201:43496?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ServerNett%20Channel
 vless://Server-nett@62.60.221.201:43496?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ServerNett%20Channel
 vless://Server-nett@62.60.221.201:43496?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ServerNett%20Channel
 vless://Server-nett@62.60.221.201:43496?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ServerNett%20Channel
