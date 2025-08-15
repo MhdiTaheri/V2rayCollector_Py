@@ -86,6 +86,8 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 | [Slovak Republic](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Slovak%20Republic/config.txt) |
 | [Spain](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Spain/config.txt) |
 | [Germany](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Germany/config.txt) |
+| [Saudi Arabia](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Saudi%20Arabia/config.txt) |
+
 
 
 
