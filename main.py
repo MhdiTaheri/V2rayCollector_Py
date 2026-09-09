@@ -5,6 +5,7 @@ import shutil
 from datetime import datetime
 import urllib.parse
 
+PREFIXES = ('vless://', 'ss://', 'trojan://', 'tuic://')
 
 def get_v2ray_links(url):
     response = requests.get(url)
@@ -21,9 +22,10 @@ def get_v2ray_links(url):
         all_tags = divs + spans + codes + divs2 + span + main
 
         v2ray_configs = []
+
         for tag in all_tags:
             text = tag.get_text()
-            if text.startswith('vless://') or text.startswith('ss://') or text.startswith('trojan://') or text.startswith('tuic://'):
+            if text.startswith(PREFIXES):
                 v2ray_configs.append(text)
 
         return v2ray_configs
